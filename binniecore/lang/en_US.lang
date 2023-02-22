@@ -1,0 +1,11 @@
+#Missing Localizations
+
+binniecore.item.container.refactory.ambrosia=Ambrosia Capsule
+binniecore.item.container.refactory.ichor=Ambrosia Capsule
+binniecore.item.container.capsule.ambrosia=Ambrosia Capsule
+binniecore.item.container.capsule.ichor=Ichor Capsule
+binniecore.item.container.can.ambrosia=Ambrosia Container
+binniecore.item.container.can.ichor=Ichor Container
+binniecore.item.container.bucket.ambrosia=Ambrosia Bucket
+binniecore.item.container.bucket.ichor=Ichor Bucket
+binniecore.beemodifier.genetic_decay=Genetic Decay
