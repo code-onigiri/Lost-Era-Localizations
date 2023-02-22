@@ -994,7 +994,7 @@ lostera.quest238.desc=The Inoculator uses charged DNA Serums to insert genes on 
 
 # Quest.239 - Polymeriser
 lostera.quest239.name=Polymeriser
-lostera.quest239.desc=The Polymerizer reformats §d§5Liquid DNA §raccording to specification and injects it as a charge into the §6Serum§r.%n%nA Serum can be charged up to §l13 charges§r.%n%n§5Liquid DNA§r requires §aReplicating Bacteria§r to be processed.%n%nThis a time consuming process but it can be accelerated by using §eGold Nuggets§r.%n%n%n 
+lostera.quest239.desc=The Polymerizer reformats §d§5Liquid DNA §raccording to specification and injects it as a charge into the §6Serum§r.%n%nA Serum can be charged up to §l13 charges§r.%n%n§5Liquid DNA§r requires §aPolymerized Bacteria§r to be processed.%n%nThis a time consuming process but it can be accelerated by using §eGold Nuggets§r.%n%n%n 
 
 # Quest.240 - Acclimatiser
 lostera.quest240.name=Acclimatiser
