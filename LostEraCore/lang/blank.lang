@@ -13416,6 +13416,186 @@ lostera.quest3352.desc=
 lostera.quest3353.name=
 lostera.quest3353.desc=
 
+# Quest.3354 - Ritual of the Full Spring
+lostera.quest3354.name=
+lostera.quest3354.desc=
+
+# Quest.3355 - Ritual of the  Crusher
+lostera.quest3355.name=
+lostera.quest3355.desc=
+
+# Quest.3356 - Serenade of the Nether
+lostera.quest3356.name=
+lostera.quest3356.desc=
+
+# Quest.3357 - Ritual of the Green Grove
+lostera.quest3357.name=
+lostera.quest3357.desc=
+
+# Quest.3358 - Interdiction Ritual
+lostera.quest3358.name=
+lostera.quest3358.desc=
+
+# Quest.3359 - Ritual of Containment
+lostera.quest3359.name=
+lostera.quest3359.desc=
+
+# Quest.3360 - Ritual of Binding
+lostera.quest3360.name=
+lostera.quest3360.desc=
+
+# Quest.3361 - Ritual of Unbinding
+lostera.quest3361.name=
+lostera.quest3361.desc=
+
+# Quest.3362 - Ritual of High Jump
+lostera.quest3362.name=
+lostera.quest3362.desc=
+
+# Quest.3363 - Ritual of Magnetism
+lostera.quest3363.name=
+lostera.quest3363.desc=
+
+# Quest.3364 - Call of the Zephyr
+lostera.quest3364.name=
+lostera.quest3364.desc=
+
+# Quest.3365 - Dome of Suppression
+lostera.quest3365.name=
+lostera.quest3365.desc=
+
+# Quest.3366 - Requiem of the Satiated Stomach
+lostera.quest3366.name=
+lostera.quest3366.desc=
+
+# Quest.3367 - Rhythm of the Beating Anvil
+lostera.quest3367.name=
+lostera.quest3367.desc=
+
+# Quest.3368 - Orchestra of the Phantom Hands
+lostera.quest3368.name=
+lostera.quest3368.desc=
+
+# Quest.3369 - Ritual of the Crusher
+lostera.quest3369.name=
+lostera.quest3369.desc=
+
+# Quest.3370 - Ritual of the  Crusher
+lostera.quest3370.name=
+lostera.quest3370.desc=
+
+# Quest.3371 - Well of Suffering
+lostera.quest3371.name=
+lostera.quest3371.desc=
+
+# Quest.3372 - Ritual of Regeneration
+lostera.quest3372.name=
+lostera.quest3372.desc=
+
+# Quest.3373 - Ritual of the Feathered Knife
+lostera.quest3373.name=
+lostera.quest3373.desc=
+
+# Quest.3374 - Ballad of Alchemy
+lostera.quest3374.name=
+lostera.quest3374.desc=
+
+# Quest.3375 - Ritual of the Feathered Knife
+lostera.quest3375.name=
+lostera.quest3375.desc=
+
+# Quest.3376 - Reap of the Harvest Moon
+lostera.quest3376.name=
+lostera.quest3376.desc=
+
+# Quest.3377 - Focus of the Ellipsoid
+lostera.quest3377.name=
+lostera.quest3377.desc=
+
+# Quest.3378 - Song of Evaporation
+lostera.quest3378.name=
+lostera.quest3378.desc=
+
+# Quest.3379 - Ritual of the Feathered Knife
+lostera.quest3379.name=
+lostera.quest3379.desc=
+
+# Quest.3380 - Veil of Evil
+lostera.quest3380.name=
+lostera.quest3380.desc=
+
+# Quest.3381 - Ritual of the Feathered Earth
+lostera.quest3381.name=
+lostera.quest3381.desc=
+
+# Quest.3382 - Ritual of the Gaia's Transformation
+lostera.quest3382.name=
+lostera.quest3382.desc=
+
+# Quest.3383 - Reverence of the Condor
+lostera.quest3383.name=
+lostera.quest3383.desc=
+
+# Quest.3384 - Mark of the Falling Tower
+lostera.quest3384.name=
+lostera.quest3384.desc=
+
+# Quest.3385 - Cry of the Eternal Soul
+lostera.quest3385.name=
+lostera.quest3385.desc=
+
+# Quest.3386 - Blood of the New Moon
+lostera.quest3386.name=
+lostera.quest3386.desc=
+
+# Quest.3387 - Convocation of the Damned
+lostera.quest3387.name=
+lostera.quest3387.desc=
+
+# Quest.3388 - Symmetry of the Omega
+lostera.quest3388.name=
+lostera.quest3388.desc=
+
+# Quest.3389 - Duet of the Fused Souls
+lostera.quest3389.name=
+lostera.quest3389.desc=
+
+# Quest.3390 - Survival To-Do List
+lostera.quest3390.name=
+lostera.quest3390.desc=
+
+# Quest.3391 - Water Sources
+lostera.quest3391.name=
+lostera.quest3391.desc=
+
+# Quest.3392 - Furnace Specializations
+lostera.quest3392.name=
+lostera.quest3392.desc=
+
+# Quest.3393 - Organic Recycling
+lostera.quest3393.name=
+lostera.quest3393.desc=
+
+# Quest.3394 - §cHostile Habitat:§r Snowy
+lostera.quest3394.name=
+lostera.quest3394.desc=
+
+# Quest.3395 - §cHostile Habitat:§r Desert
+lostera.quest3395.name=
+lostera.quest3395.desc=
+
+# Quest.3396 - §cHostile Habitat:§r Swamp
+lostera.quest3396.name=
+lostera.quest3396.desc=
+
+# Quest.3397 - §dSecret:§r Plea of Delayed Insanity
+lostera.quest3397.name=
+lostera.quest3397.desc=
+
+# Quest.3398 - §7§oSymmetry of the Omega:§r Omega Chamber
+lostera.quest3398.name=
+lostera.quest3398.desc=
+
 ##################################Line##################################
 
 # QuestLine.0 - Into the Wilderness
@@ -13802,3 +13982,6 @@ lostera.line94.desc=
 lostera.line95.name=
 lostera.line95.desc=
 
+# QuestLine.96 - §3¬§r Sanguineous Rituals
+lostera.line96.name=
+lostera.line96.desc=
