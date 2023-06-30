@@ -3796,7 +3796,7 @@ lostera.quest947.desc=
 lostera.quest948.name=
 lostera.quest948.desc=
 
-# Quest.949 - Inscriber Presses
+# Quest.949 - Inscriber Engineering Press
 lostera.quest949.name=
 lostera.quest949.desc=
 
@@ -5880,7 +5880,7 @@ lostera.quest1468.desc=
 lostera.quest1469.name=
 lostera.quest1469.desc=
 
-# Quest.1470 - All the Basic Components
+# Quest.1470 - ~All the Basic Components
 lostera.quest1470.name=
 lostera.quest1470.desc=
 
@@ -9612,7 +9612,7 @@ lostera.quest2401.desc=
 lostera.quest2402.name=
 lostera.quest2402.desc=
 
-# Quest.2403 - Framed Chest
+# Quest.2403 - Labels
 lostera.quest2403.name=
 lostera.quest2403.desc=
 
@@ -10596,7 +10596,7 @@ lostera.quest2647.desc=
 lostera.quest2648.name=
 lostera.quest2648.desc=
 
-# Quest.2649 - Pocketable Creatures
+# Quest.2649 - Arcane Ear
 lostera.quest2649.name=
 lostera.quest2649.desc=
 
@@ -13599,6 +13599,30 @@ lostera.quest3398.desc=
 # Quest.3399 - Using the Questbook
 lostera.quest3399.name=
 lostera.quest3399.desc=
+
+# Quest.3400 - Dining Set
+lostera.quest3400.name=
+lostera.quest3400.desc=
+
+# Quest.3401 - Inscriber Logical Press
+lostera.quest3401.name=
+lostera.quest3402.desc=
+
+# Quest.3402 - Inscriber Calculation Press
+lostera.quest3402.name=
+lostera.quest3402.desc=
+
+# Quest.3403 - Inscriber Silicon Press
+lostera.quest3403.name=
+lostera.quest3403.desc=
+
+# Quest.3404 - Void Storage Cell
+lostera.quest3404.name=
+lostera.quest3404.desc=
+
+# Quest.3405 - Dream Weaving
+lostera.quest3405.name=
+lostera.quest3405.desc=
 
 ##################################Line##################################
 
