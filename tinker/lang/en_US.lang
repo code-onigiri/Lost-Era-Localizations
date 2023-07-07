@@ -16,3 +16,5 @@ LiquidMetal.AluBrass.name=Molten Gold Solder
 fluid.aluminumbrass.molten=Molten Gold Solder
 item.tconstruct.bucket.AluBrass.name=Molten Gold Solder Bucket
 item.iguana.tcon.clayBucket.AluBrass.name=Molten Gold Solder Clay Bucket
+
+canister.red.tooltip1=Instant Health
