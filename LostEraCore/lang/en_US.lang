@@ -11287,11 +11287,11 @@ lostera.quest2811.desc=Combining a Block Signal and a Distant Signal, it possess
 
 # Quest.2812 - Distant Signal
 lostera.quest2812.name=Distant Signal
-lostera.quest2812.desc=Powered by either Redstone or a Controller, the Switch Motor is used to operate a Switch or Wrye Track via redstone signal or remotely. %n%It also acts as a receiver block for a controller block, which can be linked by using a Signal Tuner.%n%nThe aspects that it will react to can be set in the GUI, as well as locking it so that it can not be broken, or accessed by other players.
+lostera.quest2812.desc=Powered by either Redstone or a Controller, the Switch Motor is used to operate a Switch or Wrye Track via redstone signal or remotely. %n%nIt also acts as a receiver block for a controller block, which can be linked by using a Signal Tuner.%n%nThe aspects that it will react to can be set in the GUI, as well as locking it so that it can not be broken, or accessed by other players.
 
 # Quest.2813 - Signal Receiver Box
 lostera.quest2813.name=Signal Receiver Box
-lostera.quest2813.desc=The Signal Receiver Box is the most basic receiver, which emits a redstone signal if there is a specific aspect given to it.%n%It can be linked to a controller block by using a Signal Tuner. %n%nThe aspect that will emit a redstone signal can be changed in the GUI, as well as locking it, which will prevent any changes to the block.%n%nIf placed next to a Signal Controller Box it will transmit the Aspect to it as well.
+lostera.quest2813.desc=The Signal Receiver Box is the most basic receiver, which emits a redstone signal if there is a specific aspect given to it.%n%nIt can be linked to a controller block by using a Signal Tuner. %n%nThe aspect that will emit a redstone signal can be changed in the GUI, as well as locking it, which will prevent any changes to the block.%n%nIf placed next to a Signal Controller Box it will transmit the Aspect to it as well.
 
 # Quest.2814 - Signal Controller Box
 lostera.quest2814.name=Signal Controller Box
@@ -11479,27 +11479,27 @@ lostera.quest2859.desc=Sometimes, the world you see isn't really all that is act
 
 # Quest.2860 - Infernal Block
 lostera.quest2860.name=Infernal Block
-lostera.quest2860.desc=The Infernal Block is a decorative block similar to the Blast Furnace Brick.%n%It can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
+lostera.quest2860.desc=The Infernal Block is a decorative block similar to the Blast Furnace Brick.%n%nIt can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
 
 # Quest.2861 - Blood Stained Block
 lostera.quest2861.name=Blood Stained Block
-lostera.quest2861.desc=The Blood Stained Block is a decorative block, very bloody, very red.%It can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
+lostera.quest2861.desc=The Blood Stained Block is a decorative block, very bloody, very red.%nIt can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
 
 # Quest.2862 - Sandy Block
 lostera.quest2862.name=Sandy Block
-lostera.quest2862.desc=The Sandy Block is a decorative block similar to the Coke Oven Brick.%n%It can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
+lostera.quest2862.desc=The Sandy Block is a decorative block similar to the Coke Oven Brick.%n%nIt can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
 
 # Quest.2863 - Bleached Bone Block
 lostera.quest2863.name=Bleached Bone Block
-lostera.quest2863.desc=The Bleached Bone Block is a decorative block, for those who like ivory.%It can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
+lostera.quest2863.desc=The Bleached Bone Block is a decorative block, for those who like ivory.%nIt can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
 
 # Quest.2864 - Frost Bound Block
 lostera.quest2864.name=Frost Bound Block
-lostera.quest2864.desc=The Frost Bound Block is a decorative block, for those who want an icy-like material.%It can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
+lostera.quest2864.desc=The Frost Bound Block is a decorative block, for those who want an icy-like material.%nIt can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
 
 # Quest.2865 - Strengthened Glass
 lostera.quest2865.name=Strengthened Glass
-lostera.quest2865.desc=The Strengthened Glass is a decorative glass, for those who the look of the Tank Gauges.%n%nAs a bonus, it can be dyed using one of the sixteen colors, or simply using an IC2 Painter.%n%It can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
+lostera.quest2865.desc=The Strengthened Glass is a decorative glass, for those who the look of the Tank Gauges.%n%nAs a bonus, it can be dyed using one of the sixteen colors, or simply using an IC2 Painter.%n%nIt can be shapelessly crafted into multiple forms, such as small bricks, large bricks, and chiselled bricks.
 
 # Quest.2866 - Creosote Wood Block
 lostera.quest2866.name=Creosote Wood Block
@@ -11567,7 +11567,7 @@ lostera.quest2881.desc=The Bridge Builder allows minecarts to bridge gaps by pla
 
 # Quest.2882 - Cake Server
 lostera.quest2882.name=Cake Server
-lostera.quest2882.desc=The Cake Server allows the cart to serve a cake slice for anyone who right clicks the top of the cart.%n%nIt can store up to 10 cakes.%n%n%Its insidious Trick-or-Treat variant, when provided with dynamite, will also explode when a cake is served.   
+lostera.quest2882.desc=The Cake Server allows the cart to serve a cake slice for anyone who right clicks the top of the cart.%n%nIt can store up to 10 cakes.%n%n%nIts insidious Trick-or-Treat variant, when provided with dynamite, will also explode when a cake is served.   
 
 # Quest.2883 - Firework Display
 lostera.quest2883.name=Firework Display
