@@ -178,7 +178,7 @@ lostera.quest33.desc=The Infusion of Otherwhere, infuses the power of the End in
 
 # Quest.34 - A Vessel for Recollection
 lostera.quest34.name=A Vessel for Recollection
-lostera.quest34.desc=Upon vanquishing the unknown scholar you are overwhelmed with information, perhaps memories of days past? %n%nHowever all this information is all too much and too convoluted, barely accessible in the first place!%n%nThe first step is to always transfer the burden of knowledge into something other than one's brain.%n%nA book would be most ideal but your memories showed that only the entirely §6Bookshelf§r could contain such vast knowledge §8(and even then only barely)§r. 
+lostera.quest34.desc=Upon vanquishing the residual consciousness of the unknown scholar you are overwhelmed with information, perhaps memories of days past? %n%nHowever all this information is all too much and too convoluted, barely accessible in the first place!%n%nThe first step is to always transfer the burden of knowledge into something other than one's brain.%n%nA book would be most ideal but your memories showed that only the entirely §6Bookshelf§r could contain such vast knowledge §8(and even then only barely)§r. 
 
 # Quest.35 - §5¬§r The Tome of Miracles
 lostera.quest35.name=§5¬§r The Tome of Miracles
@@ -3757,7 +3757,7 @@ lostera.quest928.desc=In your travels you might happen upon fragments of ancient
 
 # Quest.929 - Food for Thought
 lostera.quest929.name=Food for Thought
-lostera.quest929.desc=Zombie Brains can be consumed as a food item at the cost of gaining temporary Warp. %n%nIt is the preferred method used by thaumaturges to corrupt their mind and channel their inner madness into their research.
+lostera.quest929.desc=Zombie Brains can be consumed to channel their inner madness into their research of the forbidden. %n%nIt is the preferred method used by thaumaturges to corrupt their mind and accumulate mental warp.
 
 # Quest.930 - Mana Beans
 lostera.quest930.name=Mana Beans
@@ -13323,7 +13323,7 @@ lostera.quest3320.desc=One of the main problems with managing Flora is that it c
 
 # Quest.3321 - Hungry for Knowledge
 lostera.quest3321.name=Hungry for Knowledge
-lostera.quest3321.desc=The forbidden Eldritch Arts the most perverse branch of magic capable of corrupting their user’s mind.%n%nEven so, there are many who pursue it to transcend their mortal limitations and control the fabric of reality.%n%n§5This type of knowledge will seek you out on its own, present itself at your front door.§r%n%nYou must inherit from those who delved too far into the arts, paying the ultimate price. 
+lostera.quest3321.desc=The forbidden Eldritch Arts the most perverse branch of magic capable of corrupting their user’s mind.%n%nEven so, there are many who pursue it to transcend their mortal limitations and control the fabric of reality.%n%n§5This type of knowledge will seek you out on its own, present itself at your front door.§r%n%nYou must inherit by feasting on the "intellect" of those who delved too far into the arts and payed the ultimate price. 
 
 # Quest.3322 - High-Density Polyethylene
 lostera.quest3322.name=High-Density Polyethylene
