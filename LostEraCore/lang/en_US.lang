@@ -10447,27 +10447,27 @@ lostera.quest2601.desc=You have discovered some amazing mining tools like the wa
 
 # Quest.2602 - Magic Mirror
 lostera.quest2602.name=Magic Mirror
-lostera.quest2602.desc=Temporarily shifting physical objects into the space between dimensions has proven easy enough, but you are sure there is more you can do. %n%nAnyone with even a bit of magical knowledge knows that mirrors can act as gateways to other realms. %n%nMaybe you should mix it with dimensional magic and see what happens?%n%n§8%nConsult the Thaumonomicon for additional information.
+lostera.quest2602.desc=Temporarily shifting physical objects into the space between dimensions has proven easy enough, but you are sure there is more you can do. %n%nAnyone with even a bit of magical knowledge knows that mirrors can act as gateways to other realms.%n%nMaybe you should mix it with dimensional magic and see what happens?%n%n§8%nConsult the Thaumonomicon for additional information.
 
 # Quest.2603 - Sword of Zephyr
 lostera.quest2603.name=Sword of Zephyr
-lostera.quest2603.desc=You have discovered a way of infusing a thaumium sword with the element of air.%n%nBy infusing a thaumium sword with elemental air you have created a sword that unleashes the elemental fury of the tempest.%n%n§8%nConsult the Thaumonomicon for additional information.
+lostera.quest2603.desc=You have discovered a way of infusing a thaumium sword with the element of air.%n%nBy infusing a thaumium sword with elemental air you have created a sword that unleashes the elemental fury of the tempest.%n%n§8Can be repaired with Thaumium.%n%nConsult the Thaumonomicon for additional information.
 
 # Quest.2604 - Shovel of the Earthmover
 lostera.quest2604.name=Shovel of the Earthmover
-lostera.quest2604.desc=You have discovered a way of infusing a thaumium shovel with the element of earth.%n%nBy merged the elemental earth you have created a peerless digging implement.%n%n§8%nConsult the Thaumonomicon for additional information.
+lostera.quest2604.desc=You have discovered a way of infusing a thaumium shovel with the element of earth.%n%nBy merged the elemental earth you have created a peerless digging implement.%n%n§8Can be repaired with Thaumium.%n%nConsult the Thaumonomicon for additional information.
 
 # Quest.2605 - Pickaxe of the Core
 lostera.quest2605.name=Pickaxe of the Core
-lostera.quest2605.desc=You have discovered a way of infusing a thaumium pickaxe with the element of fire.%n%nBy infusing a thaumium pickaxe with the elemental fire, you have created a pickaxe that glows with the heat of a forge.%n%n§8%nConsult the Thaumonomicon for additional information.
+lostera.quest2605.desc=You have discovered a way of infusing a thaumium pickaxe with the element of fire.%n%nBy infusing a thaumium pickaxe with the elemental fire, you have created a pickaxe that glows with the heat of a forge.%n%n§8Can be repaired with Thaumium.%n%nConsult the Thaumonomicon for additional information.
 
 # Quest.2606 - Axe of the Stream
 lostera.quest2606.name=Axe of the Stream
-lostera.quest2606.desc=You have discovered a way of infusing a thaumium axe with the element of water.%n%nCombining the element of water and a thaumium axe, you have created a tool that embodies the aspects of motion and flow.%n%n§8%nConsult the Thaumonomicon for additional information. 
+lostera.quest2606.desc=You have discovered a way of infusing a thaumium axe with the element of water.%n%nCombining the element of water and a thaumium axe, you have created a tool that embodies the aspects of motion and flow.%n%n§8Can be repaired with Thaumium.%n%nConsult the Thaumonomicon for additional information. 
 
 # Quest.2607 - Hoe of Growth
 lostera.quest2607.name=Hoe of Growth
-lostera.quest2607.desc=You have discovered a way of infusing a thaumium hoe with nurturing and natural magic.%n%nBy merging the magical energy from chaos and order with a thaumium hoe, you have created a farming implement with few equals.%n%n§8%nConsult the Thaumonomicon for additional information.
+lostera.quest2607.desc=You have discovered a way of infusing a thaumium hoe with nurturing and natural magic.%n%nBy merging the magical energy from chaos and order with a thaumium hoe, you have created a farming implement with few equals.%n%n§8Can be repaired with Thaumium.%n%nConsult the Thaumonomicon for additional information.
 
 # Quest.2608 - Thaumic Cake
 lostera.quest2608.name=Thaumic Cake
