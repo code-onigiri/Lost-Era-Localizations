@@ -214,7 +214,7 @@ lostera.quest42.desc=The Reactant Dynamo generates power from §5alchemy reactio
 
 # Quest.43 - Enervation Dynamo
 lostera.quest43.name=Enervation Dynamo
-lostera.quest43.desc=The Enervation Dynamo generates power from §c§4redstone§r at a rate of 30 RF/tick.%n%n§6§nFuel List:%n§rRestone: 35,000 RF%nBlock of Restone: 350,000RF 
+lostera.quest43.desc=The Enervation Dynamo generates power from §c§4redstone§r at a rate of 30 RF/tick.%n%n§6§nFuel List:%n§rRedstone: 35,000 RF%nBlock of Redstone: 350,000RF 
 
 # Quest.44 - Leadstone Energy Cell
 lostera.quest44.name=Leadstone Energy Cell
@@ -9631,7 +9631,7 @@ lostera.quest2397.desc=The Printing Press is used to print books from Print Pres
 
 # Quest.2398 - Vintage Clocks
 lostera.quest2398.name=Vintage Clocks
-lostera.quest2398.desc=Vintage Clocks tell the time of day as well as make chime sounds and emit redstone signals at the time you tell it to.%n%nAt 6 o'clock dawn begins and at 18 o'clock dusk begins.%n%nClocks can also be configured by shift+right-clicking with an empty hand to open the GUI.%n%nIn it you will find the clock GUI with 2 circles of dots, each dot representing half a rotation of the minute hand:%n%nThe §aOuter circle§r is to specify when the clock should chime.%nThe §cInner circle§r defines when the clock should output a redstone signal.%n%n%nYou will find 4 buttons at the bottom:%n%n§6Tick Sound: §rToggle tick sound%n§aChime Sound: §rToggle Chime functionality%n§cRedstone: §rToggle Restone functionality%n§4Pulse/Solid: §rPulse Redstone for 1 second every red dot/Keep Redstone signal up until the clock is met with no red dot.%n%nLastly, 2 Clocks can combined into a Granfather Clock by placing them atop of one another and connecting them with a §bScrewgun§r or §eHand drill§r.
+lostera.quest2398.desc=Vintage Clocks tell the time of day as well as make chime sounds and emit redstone signals at the time you tell it to.%n%nAt 6 o'clock dawn begins and at 18 o'clock dusk begins.%n%nClocks can also be configured by shift+right-clicking with an empty hand to open the GUI.%n%nIn it you will find the clock GUI with 2 circles of dots, each dot representing half a rotation of the minute hand:%n%nThe §aOuter circle§r is to specify when the clock should chime.%nThe §cInner circle§r defines when the clock should output a redstone signal.%n%n%nYou will find 4 buttons at the bottom:%n%n§6Tick Sound: §rToggle tick sound%n§aChime Sound: §rToggle Chime functionality%n§cRedstone: §rToggle Redstone functionality%n§4Pulse/Solid: §rPulse Redstone for 1 second every red dot/Keep Redstone signal up until the clock is met with no red dot.%n%nLastly, 2 Clocks can combined into a Granfather Clock by placing them atop of one another and connecting them with a §bScrewgun§r or §eHand drill§r.
 
 # Quest.2399 - Typewritter
 lostera.quest2399.name=Typewritter
