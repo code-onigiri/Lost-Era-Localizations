@@ -2381,7 +2381,7 @@ lostera.quest584.desc=An oven can be upgraded by placing either a Fume Funnel to
 
 # Quest.585 - Filtered Fume Funnel
 lostera.quest585.name=Filtered Fume Funnel
-lostera.quest585.desc=A Filtered Fume Funnel is an upgrade to the Fume Funnel.%n% It increases the chance of a by-product being produced by a connected witches Oven by a further 5%% above the normal Fume Funnel §6(for a total of +10%% cook speed and +30%% by-product chance)§r.
+lostera.quest585.desc=A Filtered Fume Funnel is an upgrade to the Fume Funnel.%n%n It increases the chance of a by-product being produced by a connected witches Oven by a further 5%% above the normal Fume Funnel §6(for a total of +10%% cook speed and +30%% by-product chance)§r.
 
 # Quest.586 - Anointing Paste
 lostera.quest586.name=Anointing Paste
