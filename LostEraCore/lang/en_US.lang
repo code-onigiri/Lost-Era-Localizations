@@ -6235,7 +6235,7 @@ lostera.quest1548.desc=Universal Fluid Cells are stackable buckets.%n%nOne of th
 
 # Quest.1549 - Pipes
 lostera.quest1549.name=Pipes
-lostera.quest1549.desc=Pipes are a means of transporting items and fluids from one place to another.%n%nThese can greatly aid in automating your processes but this early on you'll mainly want to use fluid pipes to carry out steam from your boilers to your machines%n%n%n§7You can find more about pipes in §7§l"Logistic Adapters"§r.
+lostera.quest1549.desc=Pipes are a means of transporting items and fluids from one place to another.%n%nThese can greatly aid in automating your processes but this early on you'll mainly want to use fluid pipes to carry out steam from your boilers to your machines%n%n%nThis quest unlocks §7§l"Logistic Adapters"§r.
 
 # Quest.1550 - Cutter
 lostera.quest1550.name=Cutter
