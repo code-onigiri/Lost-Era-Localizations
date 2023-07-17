@@ -82,7 +82,7 @@ lostera.quest9.desc=The Smeltery Casting is the main device used in creating met
 
 # Quest.10 - Knapsack
 lostera.quest10.name=Knapsack
-lostera.quest10.desc=The Knapsack is a wearable accessory.%n%nWhen worn, it provides further inventory space equivalent to a chest.%n%n%n§8Whilst in your inventory you will notice a diamond armour tab. %nThis where you can equip accessories such as the Knapsack. 
+lostera.quest10.desc=The Knapsack is a wearable accessory.%n%nWhen worn, it provides further inventory space equivalent to a chest.%n%n%n§8Whilst in your inventory you will notice a diamond armour tab. %nThis is where you can equip accessories such as the Knapsack. 
 
 # Quest.11 - Tool Station
 lostera.quest11.name=Tool Station
@@ -686,7 +686,7 @@ lostera.quest160.desc=Spotting pollinated leaves is an essential skill for those
 
 # Quest.161 - Grafter
 lostera.quest161.name=Grafter
-lostera.quest161.desc=As you may know, leaves rarely drops their saplings. You will rarely get a sapling mutated leaves by simply punching them.%n%nThis where a §lGrafter Knife§r comes really handy!%n%nIt guarantees a §6§l100%% sapling drop rate§r when used to break cross-bred pollinated leaves.%n%nDoes that sound really overpowered? Not so much since it has only §l§n5 uses!§r%nUse it sparingly as there is only so much bronze within this world.%n%n§rThere exists rumours of a Proven Grafter with over §l150 uses§r but only the most seasoned arborists are in possession of such precious tools.
+lostera.quest161.desc=As you may know, leaves rarely drops their saplings. You will rarely get a sapling mutated leaves by simply punching them.%n%nThis is where a §lGrafter Knife§r comes really handy!%n%nIt guarantees a §6§l100%% sapling drop rate§r when used to break cross-bred pollinated leaves.%n%nDoes that sound really overpowered? Not so much since it has only §l§n5 uses!§r%nUse it sparingly as there is only so much bronze within this world.%n%n§rThere exists rumours of a Proven Grafter with over §l150 uses§r but only the most seasoned arborists are in possession of such precious tools.
 
 # Quest.162 - Arborist's Chest
 lostera.quest162.name=Arborist's Chest
@@ -2325,7 +2325,7 @@ lostera.quest570.desc=Routed pipe networks are networks of pipes, specifically r
 
 # Quest.571 - Chip Configuration
 lostera.quest571.name=Chip Configuration
-lostera.quest571.desc=Chips must be configured before they can be placed in a pipe. To configure a chip, right click while holding a chip in your hand.%n%nHere is what each setting does:%n%n§6Priority:§r%nChips with a higher priority value will have items sent to them first, until the inventory becomes full, after which items will be sent to other inventories with valid filters and remaining space.%n%n§cExtraction Orientations:§r%nUsed for blocks that have side-specific inventories.%nFurnaces are an example of this where fuel must be inserted at the bottom, items at the top and final products must be extracted from the side.%n%n§8The extraction orientation can simulate that orientation without having to place the pipe at the appropriate side.%n%n§3Filter rules:§r%nWhitelisted: Only items on the list will be allowed%nBlacklisted: Only items NOT on the list will be allowed%n%n§4§nIf "nothing" is whitelisted only "nothing" will be accepted!%n§r%n§8§lFurther refining your black/whitelist:§r%n§8Metadata -  Are the item data relevant? (E.g. Items containing upgrades)%nNBT - Are item variants looked at? (E.g. Wool colors)%nOreDictionary - are alternatives taken in consideration? (E.g. 2 different copper ingots)%n%nDamage - are durability values looked at? 
+lostera.quest571.desc=Chips must be configured before they can be placed in a pipe. To configure a chip, right click while holding a chip in your hand.%n%nHere is what each setting does:%n%n§6Priority:§r%nChips with a higher priority value will have items sent to them first, until the inventory becomes full, after which items will be sent to other inventories with valid filters and remaining space.%n%n§cExtraction Orientations:§r%nUsed for blocks that have side-specific inventories.%nFurnaces are an example of this, where fuel must be inserted at the bottom, items at the top and final products must be extracted from the side.%n%n§8The extraction orientation can simulate that orientation without having to place the pipe at the appropriate side.%n%n§3Filter rules:§r%nWhitelisted: Only items on the list will be allowed%nBlacklisted: Only items NOT on the list will be allowed%n%n§4§nIf "nothing" is whitelisted only "nothing" will be accepted!%n§r%n§8§lFurther refining your black/whitelist:§r%n§8Metadata -  Are the item data relevant? (E.g. Items containing upgrades)%nNBT - Are item variants looked at? (E.g. Wool colors)%nOreDictionary - are alternatives taken in consideration? (E.g. 2 different copper ingots)%n%nDamage - are durability values looked at? 
 
 # Quest.572 - Master Corporeal Spark
 lostera.quest572.name=Master Corporeal Spark
@@ -7547,7 +7547,7 @@ lostera.quest1876.desc=The Transporter Core is a device that allows teleportatio
 
 # Quest.1877 - Transporter Scanner
 lostera.quest1877.name=Transporter Scanner
-lostera.quest1877.desc=While it is easier to teleport subjects, it is really hard to teleport them whole between 2 point.%n%nThis where Transporter Scanner play an important part, greatly facilitating the scanning of entities directly above.%n§8It is build with 1 Teleporter Scanner in the center while Teleporter Containers are placed around it.§r%n%nA Transporter Scanner must be placed up to 8 blocks away from its Transporter Core.%n%nTeleportation subjects must be locked into place and build up§9 Lock Strenght§r at a sufficient level to ensure safety before teleportation.%n§9Lock strength is measured in percent, 100%% is your target. §r§8%n%nExceeding it gives you some safety but it can quickly become a massive loss of energy. %n%nInsufficient lock strength may work, but when it doesn't the beam may collapse with catastrophic effects on transported entities (read: lucky ones will die quickly to it).§r%n%n§lLock Strenght Values:%n%n§9Transporter Scanner: §r100%%%n§dBeacon:§r 50%%%n§aRemote Location:§r 25%%%n§8%n§nBase Lock Strenght§r §8= (%%Start + %%Destination) : 2§r%n%n%nThe Lock Strenght can be further boosted using more power.%n%n§5Max Lock Strenght§r = Base + (%%Power Factor -100) * 0.5%n%n§rLastly you will notice on the computer GUI 2 Energy requirements:%nEnergy Requirement = §9#EU/t§r then §6#EU/t§r.%n%nThe first is the §9cost per tick for locking a target§r while the second is the consumption of teleporting an entity during the teleportation process §8(it lasts 100 ticks)§r.%n%n§81EU = 4RF 
+lostera.quest1877.desc=While it is easier to teleport subjects, it is really hard to teleport them whole between 2 point.%n%nThis is where Transporter Scanner plays an important part, greatly facilitating the scanning of entities directly above.%n§8It is build with 1 Teleporter Scanner in the center while Teleporter Containers are placed around it.§r%n%nA Transporter Scanner must be placed up to 8 blocks away from its Transporter Core.%n%nTeleportation subjects must be locked into place and build up§9 Lock Strenght§r at a sufficient level to ensure safety before teleportation.%n§9Lock strength is measured in percent, 100%% is your target. §r§8%n%nExceeding it gives you some safety but it can quickly become a massive loss of energy. %n%nInsufficient lock strength may work, but when it doesn't the beam may collapse with catastrophic effects on transported entities (read: lucky ones will die quickly to it).§r%n%n§lLock Strenght Values:%n%n§9Transporter Scanner: §r100%%%n§dBeacon:§r 50%%%n§aRemote Location:§r 25%%%n§8%n§nBase Lock Strenght§r §8= (%%Start + %%Destination) : 2§r%n%n%nThe Lock Strenght can be further boosted using more power.%n%n§5Max Lock Strenght§r = Base + (%%Power Factor -100) * 0.5%n%n§rLastly you will notice on the computer GUI 2 Energy requirements:%nEnergy Requirement = §9#EU/t§r then §6#EU/t§r.%n%nThe first is the §9cost per tick for locking a target§r while the second is the consumption of teleporting an entity during the teleportation process §8(it lasts 100 ticks)§r.%n%n§81EU = 4RF 
 
 # Quest.1878 - Transporter Beacon
 lostera.quest1878.name=Transporter Beacon
@@ -11975,7 +11975,7 @@ lostera.quest2983.desc=You can supply and extract items from the Farm by using F
 
 # Quest.2984 - Farm Gearbox (Power)
 lostera.quest2984.name=Farm Gearbox (Power)
-lostera.quest2984.desc=To power your Farm and have it automatically harvest crops, you will need at least one Farm Gearbox.%n%nThis where your multifarm will accept power.%n%nFarm operations can be hasted with additional Gearboxes that are also powered.
+lostera.quest2984.desc=To power your Farm and have it automatically harvest crops, you will need at least one Farm Gearbox.%n%nThis is where your multifarm will accept power.%n%nFarm operations can be hasted with additional Gearboxes that are also powered.
 
 # Quest.2985 - Farm Control
 lostera.quest2985.name=Farm Control
@@ -12011,7 +12011,7 @@ lostera.quest2992.desc=§rThe Crop Farm harvests the grains, fruits, spices and 
 
 # Quest.2993 - Crop Farm
 lostera.quest2993.name=Crop Farm
-lostera.quest2993.desc=§rThe Vegetable Farm harvests vegetable, tubers, legumes and other similar produce from mature crops.%n%nA supply of Dirt is required to replace over exhausted farmland that has turned to sand. %n%nThis means it will also output sand periodically.%n%n§r§l§bWater (per operation) = §r20 mB%n§r§l§9Fertilizer (per operation) = §r10 mU%n§r§7§o%n1 Bucket= 1000mB%n1 Unit = 1000mU
+lostera.quest2993.desc=§rThe Crop Farm harvests vegetable, tubers, legumes and other similar produce from mature crops.%n%nA supply of Dirt is required to replace over exhausted farmland that has turned to sand. %n%nThis means it will also output sand periodically.%n%n§r§l§bWater (per operation) = §r20 mB%n§r§l§9Fertilizer (per operation) = §r10 mU%n§r§7§o%n1 Bucket= 1000mB%n1 Unit = 1000mU
 
 # Quest.2994 - Infernal Farm
 lostera.quest2994.name=Infernal Farm
@@ -12731,11 +12731,11 @@ lostera.quest3172.desc=The Traveller's Boots, when worn, provides the ability to
 
 # Quest.3173 - Traveller's Gloves
 lostera.quest3173.name=Traveller's Gloves
-lostera.quest3173.desc=The Traveller's Gloves are a wearable accessory.%n%nThey do not do much on their own but can be modified with Redstone to speed up you mining speed.%n%n%n§8Whilst in your inventory you will notice a diamond armour tab. %nThis where you can equip accessories such as the Traveller's Gloves.
+lostera.quest3173.desc=The Traveller's Gloves are a wearable accessory.%n%nThey do not do much on their own but can be modified with Redstone to speed up you mining speed.%n%n%n§8Whilst in your inventory you will notice a diamond armour tab. %nThis is where you can equip accessories such as the Traveller's Gloves.
 
 # Quest.3174 - Traveller's Belt
 lostera.quest3174.name=Traveller's Belt
-lostera.quest3174.desc=The Traveller's Belt is a wearable accessory.%n%nWhen worn, it provides the user an extra hotbar to swap to.%n%n%n§8Whilst in your inventory you will notice a diamond armour tab. %nThis where you can equip accessories such as the Traveller's Belt.
+lostera.quest3174.desc=The Traveller's Belt is a wearable accessory.%n%nWhen worn, it provides the user an extra hotbar to swap to.%n%n%n§8Whilst in your inventory you will notice a diamond armour tab. %nThis is where you can equip accessories such as the Traveller's Belt.
 
 # Quest.3175 - Alloying Metals
 lostera.quest3175.name=Alloying Metals
@@ -13319,7 +13319,7 @@ lostera.quest3319.desc=The Mana Lens: Messenger, when installed on a Mana Spread
 
 # Quest.3320 - Soil Control
 lostera.quest3320.name=Soil Control
-lostera.quest3320.desc=One of the main problems with managing Flora is that it can be difficult to ensure they work in the desired order.%n%nThis where the importance of soil come into play:%n%n§cPodzol§r will give it a small delay to any Functioning Flora above it.%n%nShould that not be enough, using §dMycelium§r instead, will give it an even longer delay.%n%n%nThis usually not a problem with flora of the same type as §6Generating Flowers§r will always have priority over §aFunctional Flowers§r.%n%n%n§8Consult the Lexica Botania for additional information.§r
+lostera.quest3320.desc=One of the main problems with managing Flora is that it can be difficult to ensure they work in the desired order.%n%nThis is where the importance of soil come into play:%n%n§cPodzol§r will give it a small delay to any Functioning Flora above it.%n%nShould that not be enough, using §dMycelium§r instead, will give it an even longer delay.%n%n%nThis usually not a problem with flora of the same type as §6Generating Flowers§r will always have priority over §aFunctional Flowers§r.%n%n%n§8Consult the Lexica Botania for additional information.§r
 
 # Quest.3321 - Hungry for Knowledge
 lostera.quest3321.name=Hungry for Knowledge
@@ -13685,7 +13685,7 @@ lostera.line4.desc=Storage options for your workshops.
 
 # QuestLine.5 -    
 lostera.line5.name=   
-lostera.line5.desc=§c§nFor authorized personnel eyes only.§r%n%nThis where hidden logic quests are nested.%n%n§aKeep it tidy, keep it clean! 
+lostera.line5.desc=§c§nFor authorized personnel eyes only.§r%n%nThis is where hidden logic quests are nested.%n%n§aKeep it tidy, keep it clean! 
 
 # QuestLine.6 - §9¬§r Nuclear Energy
 lostera.line6.name=§9¬§r Nuclear Energy
