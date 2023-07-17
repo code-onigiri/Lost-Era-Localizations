@@ -13457,8 +13457,8 @@ lostera.quest3353.desc=Bronze is an a simple yet very strong alloy especially us
 lostera.quest3354.name=Ritual of the Full Spring
 lostera.quest3354.desc=§lActivation Cost:§r     500 LP%n§lCost:§r     25 LP every refill%n%n%n"Generates a water source above its Master Ritual Stone that can self-replenishing at the cost of 25 LP."%n%n%n§lReagents:§r%n%n§9§nAquasalus:§r Hydrates farmland within the nearby area.%n§c§nOffensa:§r Drowns nearby creatures.%n§3§nCrystallos:§r Forms snow and ice around the ritual.%n§6§nSanctus:§r Fills containers above the Ritual Stone with water.%n§7§nReductus:§r Gives water breathing to its owner.
 
-# Quest.3355 - Ritual of the  Crusher
-lostera.quest3355.name=Ritual of the  Crusher
+# Quest.3355 - Ritual of the Crusher
+lostera.quest3355.name=Ritual of the Crusher
 lostera.quest3355.desc=§lActivation Cost:§r     2,500 LP%n§lCost:§r    7 LP per block%n%n%n"Mines blocks in the 3x3 area directly below itself and places them in the inventory directly above the Master Ritual Stone"%n%n%n§lReagents:§r%n%n§d§nOrbis Terrae:§r Applies 1 level of Fortune.%n§1§nPotentia:§r Applies 1 level of Fortune.%n§3§nVirtus:§r Applies 1 level of Fortune.%n§b§nCrystallos:§r Applies Silk Touch.%n§4§nIncendium:§r Converts Cobblestone and stone into Netherrack.
 
 # Quest.3356 - Serenade of the Nether
@@ -13517,9 +13517,9 @@ lostera.quest3368.desc=§lActivation Cost:§r     10,000 LP%n§lCost:§r     10 
 lostera.quest3369.name=Ritual of the Crusher
 lostera.quest3369.desc=§lActivation Cost:§r     1,000 LP%n§lCost:§r    5 LP per use%n%n%n"Imbues momentum into creatures moving over it towards the direction indicated by the §8§lDusk Rune§r, launching them at great distance"%n%n%n§lReagents:§r%n%n§nAether:§r Increases acceleration.%n§2§nTerrae:§r Decreases height of throw.%n§7§nReductus:§r Prevent fall damage.%n§8§nTennebrae:§r Affect only adult animals.%n§6§nSanctus:§r Affect only baby animals.
 
-# Quest.3370 - Ritual of the  Crusher
-lostera.quest3370.name=Ritual of the  Crusher
-lostera.quest3370.desc=§lActivation Cost:§r     1,000 LP%n§lCost:§r    5 LP per use%n%n%n"Increases the speed at which animals mature in the area above the ritual."%n%n%n§lReagents:§r%n§3§nVirtus:§r Feeds animals from inventories adjacent to the Master Stone for mating.%n§7§nReductus:§r Further speeds up growth rate.
+# Quest.3370 - Ritual of the Shepherd
+lostera.quest3370.name=Ritual of the Shepherd
+lostera.quest3370.desc=§lActivation Cost:§r     10,000 LP%n§lCost:§r    400 LP per use%n%n%n"Increases the speed at which animals mature in the area above the ritual."%n%n%n§lReagents:§r%n§3§nVirtus:§r Feeds animals from inventories adjacent to the Master Stone for mating.%n§7§nReductus:§r Further speeds up growth rate.
 
 # Quest.3371 - Well of Suffering
 lostera.quest3371.name=Well of Suffering
@@ -13537,8 +13537,8 @@ lostera.quest3373.desc=§lActivation Cost:§r     50,000 LP%n§lCost:§r    20 L
 lostera.quest3374.name=Ballad of Alchemy
 lostera.quest3374.desc=§lActivation Cost:§r     20,000 LP%n§lCost:§r    60 LP per operation%n%n"Autonomously processes alchemical recipes from the §cAlchemy Chemistry §cSet§r."%n%n"To function, it requires the Master Stone to be surrounded by 3 chests + 1 §cAlchemy Set§r with 1 §4Blood Altar§r on top of the Master Stone."%n%n§lUsage:§r%n"Specify the desired finished output in the §4Blood Altar§r and if the ritual is provided with all the ingredients and a functioning §cAlchemy Set§r, it will output the result in chest §nopposite§r the Alchemy Set. The side chests are for providing the alchemy ingredients."%n%n%n§lReagents:§r%n%n§1§nPotentia:§r Increases ritual speed by x5.
 
-# Quest.3375 - Ritual of the Feathered Knife
-lostera.quest3375.name=Ritual of the Feathered Knife
+# Quest.3375 - Aura of Expulsion
+lostera.quest3375.name=Aura of Expulsion
 lostera.quest3375.desc=§lActivation Cost:§r     1,000,000 LP%n§lCost:§r    1,000 LP per teleport%n%n"Teleports unauthorized individuals 100 blocks away should they get in a 25 block radius of the ritual."%n%n§7§oThe owner of the ritual is authorized by default.§r%n%n"To authorize others, place a chest above the Ritual Master Stone. Any Blood Orbs placed in it will have the ritual ignore the owners of the binded orbs."%n%n%n§lReagents:§r%n%n§8§nTennebrae:§r Affect every creature, not just players.%n§3§nVirtus:§r Teleport intruders x3 as far.%n§1§nPotentia:§r Doubles the ritual's range of detection.
 
 # Quest.3376 - Reap of the Harvest Moon
@@ -13553,8 +13553,8 @@ lostera.quest3377.desc=§lActivation Cost:§r     25,000 LP%n§lCost:§r    20 L
 lostera.quest3378.name=Song of Evaporation
 lostera.quest3378.desc=§lActivation Cost:§r     20,000 LP%n§lCost:§r    0 LP per teleport%n%n"Destroys all liquids suppressed by the §lSigil of Suppression§r or §lRitual of §lof Suppression§r in a 9 block radius."%n%n§cOnly deletes sources upon activation.§r%n§8§oIt is not a constantly running ritual.§r%n
 
-# Quest.3379 - Ritual of the Feathered Knife
-lostera.quest3379.name=Ritual of the Feathered Knife
+# Quest.3379 - Ward of Sacrosanctity
+lostera.quest3379.name=Ward of Sacrosanctity
 lostera.quest3379.desc=§lActivation Cost:§r     150,000 LP%n§lCost:§r    300 LP every second%n%n"Prevents hostile creatures from spawning in a 31 block radius around the Master Ritual Stone regardless of light level."%n
 
 # Quest.3380 - Veil of Evil
