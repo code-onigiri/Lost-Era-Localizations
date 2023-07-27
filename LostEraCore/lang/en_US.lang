@@ -2062,7 +2062,7 @@ lostera.quest504.desc=Smaller portable machines to solve problems on the go or d
 
 # Quest.505 - Farming
 lostera.quest505.name=Farming
-lostera.quest505.desc=After foraging for seeds, farming is the next step forward. For that you will require a hoe and access to water.%n%nWhen hoeing land, it is advisable that you do so near water as plants will not last long on dry farmland.%n%nAt this early stage getting buckets will prove to be a challenging task but you may always opt for a cheaper, more mundane Clay Bucket.%n§8§oJust remember to cook it up before use.§r%n%nOnce you have created a suitable environment for your garden, you may place your seeds into the farmland by right-click.%n%nThe use of any §6Sickle§r is recommended for its ability to harvest without needing replanting via sneak right-clicking.
+lostera.quest505.desc=After foraging for seeds, farming is the next step forward. For that you will require a hoe and access to water.%n%nWhen hoeing land, it is advisable that you do so near water as plants will not last long on dry farmland.%n%nAt this early stage getting buckets will prove to be a challenging task but you may always opt for a cheaper, more mundane Clay Bucket.%n§8§oJust remember to cook it up before use.§r%n%nOnce you have created a suitable environment for your garden, you may place your seeds into the farmland by right-click.%n%nThe use of any §6Sickle§r is recommended for its ability to harvest without needing replanting via right-clicking.
 
 # Quest.506 - Oven
 lostera.quest506.name=Oven
