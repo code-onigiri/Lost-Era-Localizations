@@ -7575,7 +7575,7 @@ lostera.quest1883.desc=These are the final upgrades that can be given to both Fo
 
 # Quest.1884 - Machine Ports
 lostera.quest1884.name=Machine Ports
-lostera.quest1884.desc=Many machine from Gregtech have additional buttons available within their GUI called Ports.%n%nMachine Ports can be used to send items or power to other machines natively without needing Ejectors or Pulling Upgrades.%n%n%n%nThey can be configured within the machine's GUI:%n%n§b▉§6▉§8▉%n%n§b§lThunderbolt Button:%n§rToggles power sharing of that machine's voltage to another machine directly adjacent to the port.%n%n§6§lOutput Button:§r%nToggles the output of items from its product slot to another machine directly adjacent to the port.%n%n§8§lInput Button:§r%nToggles the 2 input slots between being treated as 1 inventory or 2 separate inventories. 
+lostera.quest1884.desc=Many machine from Gregtech have additional buttons available within their GUI called Ports.%n%nMachine Ports can be used to send items or power to other machines natively without needing Ejectors or Pulling Upgrades.%n%n%n%nThey can be configured within the machine's GUI:%n%n§b▉§6▉§8▉%n%n§b§lThunderbolt Button:%n§rToggles power sharing of that machine's voltage to another machine directly adjacent to the port.%n%n§6§lOutput Button:§r%nToggles the output of items from its product slot to another machine directly adjacent to the port.%n%n§8§lMulti-Sided Input Button:§r%nToggles if both machine input slots between accepts items from all faces or each input is sided (first slot accepts only from the sides while second accepts only from top/bottom). 
 
 # Quest.1885 - Test Dummy
 lostera.quest1885.name=Test Dummy
