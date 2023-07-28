@@ -484,9 +484,9 @@ lostera.quest109.desc=Potions Generator consumes Potions as fuel and produces RF
 lostera.quest110.name=Pink Generator
 lostera.quest110.desc=§dThe Pink Generator produces 1 RF/t from any item or block made of Pink Dye or Pink Wool.%n%nIt has an internal energy buffer of 100,000 RF.%n%nEach item will burn for 30 seconds. It shows the time left to burn the fuel inside it and keeps the RF charge stored when removed. 
 
-# Quest.111 - Culinary Generator
-lostera.quest111.name=Culinary Generator
-lostera.quest111.desc=Culinary Generator produces energy from burning different types of food as fuel. %n%nThe GUI shows the time left to burn the fuel unit consumed. The Generator keeps the energy stored when removed. 
+# Quest.111 -
+lostera.quest111.name=
+lostera.quest111.desc=
 
 # Quest.112 - Heated Redstone Generator
 lostera.quest112.name=Heated Redstone Generator
