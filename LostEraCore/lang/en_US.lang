@@ -13530,7 +13530,7 @@ lostera.quest3372.desc=§lActivation Cost:§r     25,000 LP%n§lCost:§r    20 L
 
 # Quest.3373 - Ritual of the Feathered Knife
 lostera.quest3373.name=Ritual of the Feathered Knife
-lostera.quest3373.desc=§lActivation Cost:§r     50,000 LP%n§lCost:§r    20 LP per drain%n%n"Drains health from healthy players in a 15 block radius of its Master Stone converting 1 heart to 100 transfering it to the nearest Blood Altar in a 9 block radius."%n%n§7§oRunes of Self-Sacrifice from the Altar will still augment the LP fed into it by the ritual."§r%n%n%n§lReagents:§r%n%n§6§nSanctus:§r Ignore players below 7 hearts.%n§7§nReductus:§r Decreases range to a 8 block radius.%n§d§nMagicales:§r Only drain the player who activated the ritual.%n§1§nPotentia:§r Doubles the rate of life drain.%n
+lostera.quest3373.desc=§lActivation Cost:§r     50,000 LP%n§lCost:§r    20 LP per drain%n%n"Drains health from healthy players in a 15 block radius of its Master Stone converting 1 heart to 125 transfering it to the nearest Blood Altar in a 9 block radius."%n%n§7§oRunes of Self-Sacrifice from the Altar will still augment the LP fed into it by the ritual."§r%n%n%n§lReagents:§r%n%n§6§nSanctus:§r Ignore players below 7 hearts.%n§7§nReductus:§r Decreases range to a 8 block radius.%n§d§nMagicales:§r Only drain the player who activated the ritual.%n§1§nPotentia:§r Doubles the rate of life drain.%n
 
 # Quest.3374 - Ballad of Alchemy
 lostera.quest3374.name=Ballad of Alchemy
