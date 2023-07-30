@@ -742,11 +742,11 @@ lostera.quest174.desc=The Lepidopterist's Backpack is effectively a mobile Lepid
 
 # Quest.175 - Frames
 lostera.quest175.name=Frames
-lostera.quest175.desc=Frames offer ways to improve and alter the efficiency and behaviours of bees.%n%nThere are 3 basic frames available to you early on:%n%n§bUntreated Frame§r %nDurability: 80%nProduction: §2x2§8 (Max: 1000%%)%nMutation Meltdown: §8-10%% %n%n§6Impregnanted Frame:§r %nDurability: 240 %nProduction: §2x2 §8(Max: 1000%%)%nMutation Meltdown: §8-60%% %n%n§5Proven Frame:§r %nDurability: 720 %nProduction: §2x2§8 (Max: 1000%%)%nMutation Meltdown: §8-70%%%n%n§rOverworking bees by boosting the production rate §nover 1000%%§r will lead to §4permanent genetic damage§r.
+lostera.quest175.desc=Frames offer ways to improve and alter the efficiency and behaviours of bees.%n%nThere are 3 basic frames available to you early on:%n%n§bUntreated Frame§r %nDurability: 80%nProduction: §2+100%%§8 (Max: 1000%%)%nMutation Meltdown: §8-10%% %n%n§6Impregnanted Frame:§r %nDurability: 240 %nProduction: §2+100%% §8(Max: 1000%%)%nMutation Meltdown: §8-60%% %n%n§5Proven Frame:§r %nDurability: 720 %nProduction: §2+100%§8 (Max: 1000%%)%nMutation Meltdown: §8-70%%%n%n§rOverworking bees by boosting the production rate §nover 1000%%§r will lead to §4permanent genetic damage§r.
 
 # Quest.176 - Apiary
 lostera.quest176.name=Apiary
-lostera.quest176.desc=A little more complex than the Bee House.%n%nIn the Apiary bees will have a higher yield of produce and have shorter lifespan compared to the Bee House. %n%nThis means that it has a higher speed of comb production than a Bee House but it will produce less overall combs per lifecycle of a Queen.%n%nAdditionally, the Apiary will allow for bees §a§nto mutate to new species.§r%n%n%n§lThese extra factors will require more supervision from your part as a consequence.§r%n%n%nIf the increase production speed and potential to discover innumerable new bee species still didn't quite appeal to you, it gets better!%n%nUnlike the Bee House, it allows for automation using pipes.%n%n%n§d§nApiary:%n§r§7Production: 10%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 100%%%n%nMutation Chance: 100%%%nMutation Meltdown: 100%%%n§8§o§8%n§o*Frames insertion/extraction cannot be automated. 
+lostera.quest176.desc=A little more complex than the Bee House.%n%nIn the Apiary bees will have a higher yield of produce and have shorter lifespan compared to the Bee House. %n%nThis means that it has a higher speed of comb production than a Bee House but it will produce less overall combs per lifecycle of a Queen.%n%nAdditionally, the Apiary will allow for bees §a§nto mutate to new species.§r%n%n%n§lThese extra factors will require more supervision from your part as a consequence.§r%n%n%nIf the increase production speed and potential to discover innumerable new bee species still didn't quite appeal to you, it gets better!%n%nUnlike the Bee House, it allows for automation using pipes.%n%n%n§d§nApiary:%n§r§7Production Bonus: -90%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 100%%%n%nMutation Chance: 100%%%nMutation Meltdown: 100%%%n§8§o§8%n§o*Frames insertion/extraction cannot be automated. 
 
 # Quest.177 - §2¬§r Force of Nature
 lostera.quest177.name=§2¬§r Force of Nature
@@ -842,7 +842,7 @@ lostera.quest199.desc=Pollen cluster is a necessary component for building Scent
 
 # Quest.200 - Alveary
 lostera.quest200.name=Alveary
-lostera.quest200.desc=The Alveary is the most advanced bee housing available to an Apiarist. %nIt allows for combs to be produced faster due to its natural speed increase to production and it is also highly customizable.%n%nThe Alveary itself is a 3x3x3 multiblock consisting of Alveary Blocks. The top must be then covered in slabs for the Alveary to form.%n%nThe cross of the top layer of Alveary blocks must be regular Alveary blocks, but the bottom two rows and corners of the top layer can be replaced with other varieties of Alveary block to influence the Alveary's operation.%n%n%n§e§nAlveary:§7%nProduction: 100%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 200%%%n%nMutation Chance: 100%%%nMutation Meltdown: -0%%
+lostera.quest200.desc=The Alveary is the most advanced bee housing available to an Apiarist. %nIt allows for combs to be produced faster due to its natural speed increase to production and it is also highly customizable.%n%nThe Alveary itself is a 3x3x3 multiblock consisting of Alveary Blocks. The top must be then covered in slabs for the Alveary to form.%n%nThe cross of the top layer of Alveary blocks must be regular Alveary blocks, but the bottom two rows and corners of the top layer can be replaced with other varieties of Alveary block to influence the Alveary's operation.%n%n%n§e§nAlveary:§7%nProduction Bonus: 0%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 200%%%n%nMutation Chance: 100%%%nMutation Meltdown: -0%%
 
 # Quest.201 - Swarmer
 lostera.quest201.name=Swarmer
@@ -902,15 +902,15 @@ lostera.quest214.desc=While normal Frames are able to just increase performance,
 
 # Quest.215 - Healing Frame
 lostera.quest215.name=Healing Frame
-lostera.quest215.desc=The Healing Frame increases a Queen's lifespan at the cost of a lesser productivity and a decreased mutation rate.%n%n§lDurability: §r240%n%n%n§3§lLifespan:§r §2x1.5§r%n§7§lMax: §8500%%%n%n§a§lMutation Rate: §r§4x0.5%n§7§lMax: §820%%%n%n§6§lProductivity:§r §4x0.75%n§7§lMax: §810%%%n%nThe Queen will live longer, produce less produce per cycle and have its mutation chance cut in half.§r
+lostera.quest215.desc=The Healing Frame increases a Queen's lifespan at the cost of a lesser productivity and a decreased mutation rate.%n%n§lDurability: §r240%n%n%n§3§lLifespan:§r §2x1.5§r%n§7§lMax: §8500%%%n%n§a§lMutation Rate: §r§4x0.5%n§7§lMax: §820%%%n%n§6§lProductivity:§r §4-25%%%n§7§lMax: §810%%%n%nThe Queen will live longer, produce less produce per cycle and have its mutation chance cut in half.§r
 
 # Quest.216 - Chocolate Frame
 lostera.quest216.name=Chocolate Frame
-lostera.quest216.desc=The Chocolate Frame will effectively increase a Queen's productivity speed at the cost of a shorter lifespan.%n%n§lDurability: §r240%n%n%n§6§lProduction: §r§2x1.5%n§8§7§lMax: §8500%%%n%n§3§lLifespan:§r §4x0.75%n§7§lMax: §825%%%n%n%nYou will end up with same amount of produce per cycle but each cycle are going to be much shorter.§r
+lostera.quest216.desc=The Chocolate Frame will effectively increase a Queen's productivity speed at the cost of a shorter lifespan.%n%n§lDurability: §r240%n%n%n§6§lProduction: §r§2+50%%%n§8§7§lMax: §8500%%%n%n§3§lLifespan:§r §4x0.75%n§7§lMax: §825%%%n%n%nYou will end up with same amount of produce per cycle but each cycle are going to be much shorter.§r
 
 # Quest.217 - Restraint Frame
 lostera.quest217.name=Restraint Frame
-lostera.quest217.desc=The Restraint Frame decreases a bee's territory at the cost of lesser productivity and a shorter lifespan.%n%n§lDurability: §r240%n%n%n§c§lTerritory: §r§4x0.5%n§7§lMax: §810%%%n%n§3§lLifespan:§r §4x0.75%n§7§lMax: §850%%%n%n§6§lProductivity:§r §4x0.75%n§7§lMax: §850%%%n%nA decrease in the bee's territory means that special effects such as poison or aggression have a smaller range. 
+lostera.quest217.desc=The Restraint Frame decreases a bee's territory at the cost of lesser productivity and a shorter lifespan.%n%n§lDurability: §r240%n%n%n§c§lTerritory: §r§4x0.5%n§7§lMax: §810%%%n%n§3§lLifespan:§r §4x0.75%n§7§lMax: §850%%%n%n§6§lProductivity:§r §4-25%%%n§7§lMax: §850%%%n%nA decrease in the bee's territory means that special effects such as poison or aggression have a smaller range. 
 
 # Quest.218 - Magical Frames
 lostera.quest218.name=Magical Frames
@@ -918,23 +918,23 @@ lostera.quest218.desc=The Magic Frame is a magically reinforced frame with 3x th
 
 # Quest.219 - Resilient Frame
 lostera.quest219.name=Resilient Frame
-lostera.quest219.desc=The Resilient Frame it the most durable frame in existence with x4 the durability of the Magic Frame. %n%n§lDurability: §r800%n%n%n§6§lProduction: §r§2x2%n%n§r§9§lMutation Meltdown:§r§7 -50%%
+lostera.quest219.desc=The Resilient Frame it the most durable frame in existence with x4 the durability of the Magic Frame. %n%n§lDurability: §r800%n%n%n§6§lProduction: §r§2+100%%%n%n§r§9§lMutation Meltdown:§r§7 -50%%
 
 # Quest.220 - Soul Frame
 lostera.quest220.name=Soul Frame
-lostera.quest220.desc=The Soul Frame uses tortured souls from the Nether to increase the chance of mutation at the cost of drastically reduced production and a shorter lifespan as a result from the trauma.%n%n§lDurability: §r80%n%n%n§a§lMutation Rate: §r§2x1.5%n§7§lMax: §8500%%%n%n§3§lLifespan:§r §4x0.75%n§7§lMax: §850%%%n%n§6§lProductivity:§r §4x0.25%n§7§lMax: §810%%%n%n%nThe Queen will die fast, produce less produce per cycle and but have a higher chance to mutate to a new breed.§r
+lostera.quest220.desc=The Soul Frame uses tortured souls from the Nether to increase the chance of mutation at the cost of drastically reduced production and a shorter lifespan as a result from the trauma.%n%n§lDurability: §r80%n%n%n§a§lMutation Rate: §r§2x1.5%n§7§lMax: §8500%%%n%n§3§lLifespan:§r §4x0.75%n§7§lMax: §850%%%n%n§6§lProductivity:§r §4-25%%%n§7§lMax: §810%%%n%n%nThe Queen will die fast, produce less produce per cycle and but have a higher chance to mutate to a new breed.§r
 
 # Quest.221 - Metabolic Frame
 lostera.quest221.name=Metabolic Frame
-lostera.quest221.desc=The Metabolic Frame enhances the metabolism of bees, increasing their productivity.%nAs a result of this enhancement, bees are also more likely to mutate.%n%n§lDurability: §r130%n%n%n§6§lProductivity:§r §2x1.2%n%n§a§lMutation Rate: §r§2x1.8
+lostera.quest221.desc=The Metabolic Frame enhances the metabolism of bees, increasing their productivity.%nAs a result of this enhancement, bees are also more likely to mutate.%n%n§lDurability: §r130%n%n%n§6§lProductivity:§r §2+20%%%n%n§a§lMutation Rate: §r§2x1.8
 
 # Quest.222 - Gentle Frame
 lostera.quest222.name=Gentle Frame
-lostera.quest222.desc=The Gentle Frame extends the life expectancy of a working queen and encourages the workers to move at a slightly increased pace.%n %nAs a result is that the bees live longer, and produce more while they are alive.%n%n§lDurability: §r200%n%n%n§6§lProductivity:§r §2x1.4%n%n§a§lMutation Rate: §r§4x0.7%n%n§3§lLifespan:§r §2x1.5%n%n%n§r§9§lMutation Meltdown:§r§7 -99%% 
+lostera.quest222.desc=The Gentle Frame extends the life expectancy of a working queen and encourages the workers to move at a slightly increased pace.%n %nAs a result is that the bees live longer, and produce more while they are alive.%n%n§lDurability: §r200%n%n%n§6§lProductivity:§r §2+40%%%n%n§a§lMutation Rate: §r§4x0.7%n%n§3§lLifespan:§r §2x1.5%n%n%n§r§9§lMutation Meltdown:§r§7 -99%% 
 
 # Quest.223 - Necrotic Frame
 lostera.quest223.name=Necrotic Frame
-lostera.quest223.desc=The Necrotic Frame decreases a bee's lifespan at the cost of productivity.%n%n§lDurability: §r280%n%n%n§6§lProductivity:§r §4x0.75%n%n§3§lLifespan:§r §4x0.3%n%n%n§r§9§lMutation Meltdown:§r§7 +20%%
+lostera.quest223.desc=The Necrotic Frame decreases a bee's lifespan at the cost of productivity.%n%n§lDurability: §r280%n%n%n§6§lProductivity:§r §4-25%%%n%n§3§lLifespan:§r §4x0.3%n%n%n§r§9§lMutation Meltdown:§r§7 +20%%
 
 # Quest.224 - Oblivion Frame
 lostera.quest224.name=Oblivion Frame
@@ -946,7 +946,7 @@ lostera.quest225.desc=The Temporal Frame drastically increases a Queen's lifespa
 
 # Quest.226 - Magic Apiary
 lostera.quest226.name=Magic Apiary
-lostera.quest226.desc=The Magic Apiary is an upgraded version of an Apiary. %n%nIt works similarly to the regular Apiary but with increased §6Production§r and §rreduced §4Mutation Meltdown§r, so that your bees produce more goods while your Ignoble Bees decay slower.%n%nWhen an Apiary Booster of any type is placed nearby, the Apiary will consume aspects to enable additional boosts.%n%n%n§5§nMagic Apiary:%n§r§7Production: 90%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 100%%%n%nMutation Chance: 100%%%nMutation Meltdown: -20%%
+lostera.quest226.desc=The Magic Apiary is an upgraded version of an Apiary. %n%nIt works similarly to the regular Apiary but with increased §6Production§r and §rreduced §4Mutation Meltdown§r, so that your bees produce more goods while your Ignoble Bees decay slower.%n%nWhen an Apiary Booster of any type is placed nearby, the Apiary will consume aspects to enable additional boosts.%n%n%n§5§nMagic Apiary:%n§r§7Production Bonus: +40%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 100%%%n%nMutation Chance: 100%%%nMutation Meltdown: -20%%
 
 # Quest.227 - Vis Apiary Booster
 lostera.quest227.name=Vis Apiary Booster
@@ -12150,7 +12150,7 @@ lostera.quest3027.desc=The first thing to notice about bees is that they are cle
 
 # Quest.3028 - Bee House
 lostera.quest3028.name=Bee House
-lostera.quest3028.desc=To rear your newly found bees into a bee family brimming with honey you'll need the Bee House. %n%nThe Bee House is the simplest bee housing you can build, just requiring some wood and a honeycomb. %n§6It will provide a steady supply of honey!§r%n%nThe Bee House will elongate the lifespan of your bees and increase their pollination speeds, which is useful for breeding plants§r.%nIt will however be impossible to crossbreed new species in it.%n%n§r§6§nThis makes them exceptional for manufacturing honey, as §rthe elongated lifespan will lead to more items produced per lifecycle, but obsolete for bee breeding.%n%n%n§6§nBee House:%n§r§7Production: 25%%%nLifespan: 300%%%n%nPollination: 300%%%nTerritory: 100%%%n%nMutation Chance: 0%%%nMutation Meltdown: -100%%%n§8§o%nIt cannot be automated or crossbreed bees. 
+lostera.quest3028.desc=To rear your newly found bees into a bee family brimming with honey you'll need the Bee House. %n%nThe Bee House is the simplest bee housing you can build, just requiring some wood and a honeycomb. %n§6It will provide a steady supply of honey!§r%n%nThe Bee House will elongate the lifespan of your bees and increase their pollination speeds, which is useful for breeding plants§r.%nIt will however be impossible to crossbreed new species in it.%n%n§r§6§nThis makes them exceptional for manufacturing honey, as §rthe elongated lifespan will lead to more items produced per lifecycle, but obsolete for bee breeding.%n%n%n§6§nBee House:%n§r§7Production Bonus: -75%%%nLifespan: 300%%%n%nPollination: 300%%%nTerritory: 100%%%n%nMutation Chance: 0%%%nMutation Meltdown: -100%%%n§8§o%nIt cannot be automated or crossbreed bees. 
 
 # Quest.3029 - Bee House on a Minecart?!
 lostera.quest3029.name=Bee House on a Minecart?!
