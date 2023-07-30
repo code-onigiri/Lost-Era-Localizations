@@ -8593,9 +8593,9 @@ lostera.quest2137.desc=§6§lScientific Name:§r §o Metalliapis Plumbeus%n§9§
 lostera.quest2138.name=Aluminum Bee
 lostera.quest2138.desc=§6§lScientific Name:§r §o Metalliapis Aluminium%n§9§lFamily:§r  §oApidae Metalliapis%n%n§r§d§lBranch:§r Metallic Branch%n%n§a§lOrigin:§r Industrious bee + Cultivated bee §8%n(Requires a block of Aluminium as foundation)%n%n§7§l%nDescription:§r %n%nCrinkly, shiny, and extremely malleable.
 
-# Quest.2139 - Osmium Bee
-lostera.quest2139.name=Osmium Bee
-lostera.quest2139.desc=§6§lScientific Name:§r §o Metalliapis Hyacintho%n§9§lFamily:§r  §oApidae Metalliapis%n%n§r§d§lBranch:§r Metallic Branch%n%n§a§lOrigin:§r Argentum bee + Cobalt bee §8%n(Requires a block of Osmium as foundation)%n%n§7§l%nDescription:§r %n%nOccasionally confused for Iridium bees, despite their lack of goopy texture and pink coloration as described in older books.
+# Quest.2139 -
+lostera.quest2139.name=
+lostera.quest2139.desc=
 
 # Quest.2140 - Cobalt Bee
 lostera.quest2140.name=Cobalt Bee
