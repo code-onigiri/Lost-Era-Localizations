@@ -13598,11 +13598,11 @@ lostera.quest3389.desc=§lActivation Cost:§r     15,000,000 LP%n§lCost:§r    
 
 # Quest.3390 - Survival To-Do List
 lostera.quest3390.name=Survival To-Do List
-lostera.quest3390.desc=These are important checkpoints to maximize your chances of survival in this wilderness:%n%n-Conserve energy until you've obtained a sustainable source of food.%n§7§oRunning and jumping is taxing on your hunger bar early.§r%n%n-Seek shelter at night and search for food during day.%n§7§oFood is everywhere if you know where to look. You should avoid hostile mobs until you are well equipped.§r%n%n-Find a suitable location for a home to start farming.%n§7§oBeing near a body of water would make it especially easy, such as a river lake or even ocean.§r%n%n-Weaponize yourself against hostile mobs.%n§7§oEspecially when exploring the underground for ores.§r%n%n-Avoid hostile habitats (Deserts, Swamps, and Snow Biomes).%n
+lostera.quest3390.desc=These are important checkpoints to maximize your chances of survival in this wilderness:%n%n-Conserve energy until you've obtained a sustainable source of food.%n§8Running and jumping can be taxing on your hunger bar early on.§r%n%n-Seek shelter at night and search for food during day.%n§8Food is everywhere if you know where to look. You should avoid hostile mobs until you are well equipped.§r%n%n-Find a suitable location for a home to start farming.%n§8Being near a body of water would make it especially easy, such as a river, lake or even ocean.§r%n%n-Weaponize yourself against hostile mobs.%n§8Especially when exploring the underground for ores.§r%n%n-Avoid hostile habitats (Deserts, Swamps, and Snow Biomes).%n
 
 # Quest.3391 - Water Sources
 lostera.quest3391.name=Water Sources
-lostera.quest3391.desc=Water is the most basic element of survival.%n%nYou might occasionally find puddles and ponds but these may only prove to be a temporary solution.%n%nWhile there are collect water from the atmosphere, the easiest way is to tap into nearby §9Rivers and Oceans§r for a lifetime unlimited supply.%n%n§aSwamps are also an alternative albeit more dangerous.§r%n%n%nYou may also run into §bWater Springs§r.%n%nOften mistaken as simple puddles, these reach deep underground and hold and unlimited amount of water.%n§7§oIt may require some pump technology for practical use.
+lostera.quest3391.desc=Water is the most basic element of survival.%n%nYou might occasionally find puddles and ponds but these may only prove to be a temporary solution.%n%nWhile there are collect water from the atmosphere, the easiest way is to tap into nearby §9Rivers and Oceans§r for a lifetime unlimited supply.%n%n§aSwamps are also an alternative albeit more dangerous.§r%n%n%nYou may also run into §bWater Springs§r.%n%nOften mistaken as simple puddles, these reach deep underground and hold an unlimited amount of water.%n§7§oIt may require some pump technology for practical use.
 
 # Quest.3392 - Furnace Specializations
 lostera.quest3392.name=Furnace Specializations
@@ -13614,15 +13614,15 @@ lostera.quest3393.desc=The Composter enables you to recycle food and plants into
 
 # Quest.3394 - §cHostile Habitat:§r Snowy
 lostera.quest3394.name=§cHostile Habitat:§r Snowy
-lostera.quest3394.desc=Snow Biome §o(Difficulty: Moderate)§r%n%n"Freezing temperatures pack with predators. Not an ideal place to farm but great for hunting meat and making ice cream".%n%n§c§nDangers:§r%n- Direwolves are ferocious but remain neutral unless approached.%n- Yeti have longer reach with sizeable arms rendering melee combat obsolete.%n%n§a§nBenefits§r%n- Yetis are an excellent source of meat.%n- Wolves that can become your allies.%n- Unlimited snow for ice cream.
+lostera.quest3394.desc=Snow Biome §o(Difficulty: Moderate)§r%n%n"Freezing temperatures packed with predators. Not an ideal place to farm but great for hunting meat and making ice cream".%n%n§c§nDangers:§r%n- Direwolves are ferocious but remain neutral unless approached.%n- Yeti have longer reach with sizeable arms rendering melee combat obsolete.%n%n§a§nBenefits§r%n- Yetis are an excellent source of meat.%n- Wolves that can become your allies.%n- Unlimited snow for ice cream.
 
 # Quest.3395 - §cHostile Habitat:§r Desert
 lostera.quest3395.name=§cHostile Habitat:§r Desert
-lostera.quest3395.desc=Desert§r§o (Difficulty: Medium)§r%n%n"A dry sandy environment with lack of water, vegetation and animals."%n%n§c§nDangers:§r%n- Cockatrice birds that poison you on hit and are found in large groups.%n- Harpies attack in a lunge motion making them hard to evade, also found in groups.%n%n§a§nBenefits§r%n- Excellent source of Enderpearls at night.%n- Cinderpearls provide Blaze Powder.%n- Best source of glass.%n- Renewable source of Saltpeter.%n
+lostera.quest3395.desc=Desert§r§o (Difficulty: Medium)§r%n%n"A dry sandy environment with lack of water, vegetation or animals."%n%n§c§nDangers:§r%n- Cockatrice birds that poison you on hit, found in large groups.%n- Harpies attack in a lunge motion making them hard to evade, also found in groups.%n%n§a§nBenefits§r%n- Excellent source of Enderpearls at night.%n- Cinderpearls provide Blaze Powder.%n- Best source of glass.%n- Renewable source of Saltpeter.%n
 
 # Quest.3396 - §cHostile Habitat:§r Swamp
 lostera.quest3396.name=§cHostile Habitat:§r Swamp
-lostera.quest3396.desc=Swamp §o(Difficulty: Extreme)§r%n%n§r"Hardly navigable with dangerous hostile creatures. However fulfill your water, ink and even salt needs if no other body of water is nearby".%n%n§c§nDangers:§r%n-Travelling over mud slows you down considerably.%n-Sirens are agile archers usually found in groups.%n-Nagas are bulky reptilians, with strong melee attacks.%n-Both heal very rapidly when wet!§r%n%n§a§nBenefits:§r%n-Infinite water source%n-Access to salt (Ocean is still better). %n-Nutritional bonus for crops on cropsticks.
+lostera.quest3396.desc=Swamp §o(Difficulty: Extreme)§r%n%n§r"Hardly navigable terrain with dangerous hostile creatures. However fulfill your water, salt and even ink needs if no other body of water is nearby".%n%n§c§nDangers:§r%n-Travelling over mud slows you down considerably.%n-Sirens are agile archers usually found in groups.%n-Nagas are bulky reptilians, with strong melee attacks.%n-Both heal very rapidly when wet!§r%n%n§a§nBenefits:§r%n-Infinite water source%n-Access to salt (Ocean is still better). %n-Nutritional bonus for crops on cropsticks.
 
 # Quest.3397 - §dSecret:§r Plea of Delayed Insanity
 lostera.quest3397.name=§dSecret:§r Plea of Delayed Insanity
