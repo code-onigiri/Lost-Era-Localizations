@@ -410,7 +410,7 @@ lostera.quest91.desc=Flood Gate is used to place liquid blocks in the world, mak
 
 # Quest.92 - Assembly Table
 lostera.quest92.name=Assembly Table
-lostera.quest92.desc=The Assembly Table is a crafting machine used to craft advanced items, such as Redstone Chipsets, Gates, and Pipe Wires.%n%nIt must be powered using a §4Laser§r themselves powered by Redstone Flux.%n%nThe Laser can provide power to tables no more than §64 blocks away§r.%n%nThe Assembly Table also requires a recipe to be selected.%nAs long as ingredients are available in its inventory, it will continuously craft such a recipe.%n%n%n§8The more lasers are employed, the faster the crafting.%n%nLasers can beam energy through glass.
+lostera.quest92.desc=The Assembly Table is a crafting machine used to craft advanced items, such as Redstone Chipsets, Gates, and Pipe Wires.%n%nIt must be powered using a §4Laser§r themselves powered by Redstone Flux.%n%nThe Laser can provide power to tables no more than §64 blocks away§r.%n%nThe Assembly Table also requires a recipe to be selected.%nAs long as ingredients are available in its inventory, it will continuously craft such a recipe and output it to adjacent inventories.%n%n%n§8The more lasers are employed, the faster the crafting.%n%nLasers can beam energy through glass.
 
 # Quest.93 - Advanced Crafting Table
 lostera.quest93.name=Advanced Crafting Table
