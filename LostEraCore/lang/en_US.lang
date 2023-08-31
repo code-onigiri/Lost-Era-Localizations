@@ -1074,7 +1074,7 @@ lostera.quest257.desc=The Precision Sawmill is used to process Wood into planks 
 
 # Quest.258 - Pressurized Reaction Chamber
 lostera.quest258.name=Pressurized Reaction Chamber
-lostera.quest258.desc=The Pressurized Reaction Chamber is used primarily to create §9Substrate§r, §bHDPE Pellets§r and §6Ethanol§8 (an efficient source of fuel used in the Bio-Generator)§r.%n%nIt accepts a liquid, a gas, and a material and uses them to create another product with some leftover gas. %n%n§8Also used for toughening materials through the Nitriding process.§r 
+lostera.quest258.desc=The Pressurized Reaction Chamber is used primarily to create §9Substrate§r, §bHDPE Pellets§r and §6Ethanol§8 (an efficient source of fuel used in the Bio-Generator)§r.%n%nIt accepts a liquid, a gas, and a material and uses them to create another product with some leftover gas.
 
 # Quest.259 - Chemical Injection Chamber
 lostera.quest259.name=Chemical Injection Chamber
@@ -11886,7 +11886,7 @@ lostera.quest2961.desc=The Detector Redstone Unit works just like a Detector Uni
 
 # Quest.2962 - Thermionic Fabricator
 lostera.quest2962.name=Thermionic Fabricator
-lostera.quest2962.desc=The Thermionic Fabricator requires RF power to generate heat. %n%nThis heat is then used to melt sand, glass and glass panes into Liquid Glass which forms part of the recipe for Electron Tubes.%n%nElectron Tubes will be needed to upgrade certain machines or to configure your farm, but more on that later.%n%nTHe Thermionic Fabricator can also be used to fireproof Forestry logs when provided with Refractory Wax%n%n%n§oBeware that if it has any leftover molten glass after use, it will continually draw power to keep it molten.
+lostera.quest2962.desc=The Thermionic Fabricator requires RF power to generate heat. %n%nThis heat is then used to melt sand, glass and glass panes into Liquid Glass which forms part of the recipe for Electron Tubes.%n%nElectron Tubes will be needed to upgrade certain machines or to configure your farm, but more on that later.%n%nThe Thermionic Fabricator can also be used to fireproof Forestry logs when provided with Refractory Wax%n%n%n§oBeware that if it has any leftover molten glass after use, it will continually draw power to keep it molten.
 
 # Quest.2963 - Biogas Engine
 lostera.quest2963.name=Biogas Engine
@@ -11902,7 +11902,7 @@ lostera.quest2965.desc=The simplest engine to get started with is the Clockwork 
 
 # Quest.2966 - Carpenter
 lostera.quest2966.name=Carpenter
-lostera.quest2966.desc=The Carpenter uses RF power to craft recipes involving liquids, requiring §bWater§r, §aSeed Oil§r, §6Honey§r or §cLava§r depending on the recipe.%n%nSuch an example of this is are Bronze Ingots, crafted from 3 Copper and 1 Tin Ingot and Lava.%n%n%n§lThis quest unlocks "Crop Hybridization".
+lostera.quest2966.desc=The Carpenter uses RF power to craft recipes involving liquids, requiring §bWater§r, §aSeed Oil§r, §6Honey§r or §cLava§r depending on the recipe.%n%nSuch an example of this are Bronze Ingots, crafted from 3 Copper and 1 Tin Ingot and Lava.%n%n%n§lThis quest unlocks "Crop Hybridization".
 
 # Quest.2967 - Squeezer
 lostera.quest2967.name=Squeezer
