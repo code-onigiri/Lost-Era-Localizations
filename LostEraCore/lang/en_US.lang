@@ -122,7 +122,7 @@ lostera.quest19.desc=The Wild Grain is the easiest and most common of the grain 
 
 # Quest.20 - Bread
 lostera.quest20.name=Bread
-lostera.quest20.desc=Making your own sourdough bread does take a while, but the amount of actual work is minimal and the bread you'll get is spectacular!
+lostera.quest20.desc=Making your own sourdough bread does take a while, but the amount of actual work is minimal and the bread you'll get is spectacular!%n%n%n%n§lThis quest unlocks "From Garden to Table".
 
 # Quest.21 - Furnace
 lostera.quest21.name=Furnace
@@ -222,7 +222,7 @@ lostera.quest44.desc=Energy Cells store Redstone Flux (RF) and can be picked up 
 
 # Quest.45 - Hardened Cell
 lostera.quest45.name=Hardened Cell
-lostera.quest45.desc=Energy Cells store Redstone Flux (RF) and can be picked up with a Pickaxe or a Crescent Hammer keeping the stored RF intact.%n%nWhen placed all sides are set to input (blue) except the bottom which is set to output (orange).%n %nThe Energy's GUI is able to configure redstone response, input and output rate, and face interaction.%n%n§7§nThe Hardened Energy Cell§r has:%nCapacity:   2,000,000 RF%nMax Input & Output:   800 RF/tick%n%n%n§r§lThis quest unlocks "RF Utilities".
+lostera.quest45.desc=Energy Cells store Redstone Flux (RF) and can be picked up with a Pickaxe or a Crescent Hammer keeping the stored RF intact.%n%nWhen placed all sides are set to input (blue) except the bottom which is set to output (orange).%n %nThe Energy's GUI is able to configure redstone response, input and output rate, and face interaction.%n%n§7§nThe Hardened Energy Cell§r has:%nCapacity:   2,000,000 RF%nMax Input & Output:   800 RF/tick
 
 # Quest.46 - Redstone Cell
 lostera.quest46.name=Redstone Cell
@@ -410,7 +410,7 @@ lostera.quest91.desc=Flood Gate is used to place liquid blocks in the world, mak
 
 # Quest.92 - Assembly Table
 lostera.quest92.name=Assembly Table
-lostera.quest92.desc=The Assembly Table is a crafting machine used to craft advanced items, such as Redstone Chipsets, Gates, and Pipe Wires.%n%nIt must be powered using a §4Laser§r themselves powered by Redstone Flux.%n%nThe Laser can provide power to tables no more than §64 blocks away§r.%n%nThe Assembly Table also requires a recipe to be selected.%nAs long as ingredients are available in its inventory, it will continuously craft such a recipe and output it to adjacent inventories.%n%n%n§8The more lasers are employed, the faster the crafting.%n%nLasers can beam energy through glass.
+lostera.quest92.desc=The Assembly Table is a crafting machine used to craft advanced items, such as Redstone Chipsets, Gates, and Pipe Wires.%n%nIt must be powered using a §4Laser§r themselves powered by Redstone Flux.%n%nThe Laser can provide power to tables no more than §64 blocks away§r.%n%nThe Assembly Table also requires a recipe to be selected.%nAs long as ingredients are available in its inventory, it will continuously craft such a recipe and output it to adjacent inventories.%n%n%n§8The more lasers are employed, the faster the crafting.%nLasers can beam energy through glass.§r%n%n%n§lThis quest unlocks "Artificial Intelligence".
 
 # Quest.93 - Advanced Crafting Table
 lostera.quest93.name=Advanced Crafting Table
@@ -734,7 +734,7 @@ lostera.quest172.desc=In the §lGeneral§r section of your Beealyzer you will fi
 
 # Quest.173 - Environment & Produce
 lostera.quest173.name=Environment & Produce
-lostera.quest173.desc=In the §lEnvironment§r section of your Beealyzer you will find the requirements for your bees to work.%n%nEach trait has different effects but only active ones take effect:%n%n§5§r§l§8§5§l§e§cClimate§r - Determines the bee’s native temperature.%n§a§4Climate Tolerance§r - Determines the difference from its preferred Climate a bee will be able to work in.%n%n§e§d§c§9§b§b§bHumidity §r- Determines the bee’s native humidity.%n§9§d§1§3Humidity Tolerance §r- Determines the difference from its preferred Humidity a bee will be able to work in.%n§7§o§8%nSee "Thermometer" quest for more info. %n%n§b§6§eNocturnal §r-  Determines the whether or not the bee will work during night-time.%n§6§b§9Flyer §r- Describes whether bees will be able to work during a bad weather.%n§9§7Cave§r - Determines whether bee’s housing must be exposed to sunlight for the bees to work.%n%n§e§aOrigin Type§r* §r- Describes whether the bee is of Pristine or Ignoble Origin.%n§r§4§2§dGenerations in Captivity§r - The number of generations since the original Princess that was acquired from a hive.%n %n§6Produce§r - All the produce the bee will manufacture. %n§5Specialty§r - Special produce only created if in their Native environment.%n%n§8%nProduce, Climate and Humidity cannot be altered through breeding. %n%nNative environment involves only Climate, Humidity and any Special Requirements if they have one (like biomes).
+lostera.quest173.desc=In the §lEnvironment§r section of your Beealyzer you will find the requirements for your bees to work.%n%nEach trait has different effects but only active ones take effect:%n%n§5§r§l§8§5§l§e§cClimate§r - Determines the bee’s native temperature.%n§a§4Climate Tolerance§r - Determines the difference from its preferred Climate a bee will be able to work in.%n%n§e§d§c§9§b§b§bHumidity §r- Determines the bee’s native humidity.%n§9§d§1§3Humidity Tolerance §r- Determines the difference from its preferred Humidity a bee will be able to work in.%n§7§o§8%nSee "Thermometer" quest for more info. %n%n§b§6§eNocturnal §r-  Determines the whether or not the bee will work during nighttime.%n§6§b§9Flyer §r- Describes whether bees will be able to work during a bad weather.%n§9§7Cave§r - Determines whether bee’s housing must be exposed to sunlight for the bees to work.%n%n§e§aOrigin Type§r* §r- Describes whether the bee is of Pristine or Ignoble Origin.%n§r§4§2§dGenerations in Captivity§r - The number of generations since the original Princess that was acquired from a hive.%n %n§6Produce§r - All the produce the bee will manufacture. %n§5Specialty§r - Special produce only created if in their Native environment.%n%n§8%nProduce, Climate and Humidity cannot be altered through breeding. %n%nNative environment involves only Climate, Humidity and any Special Requirements if they have one (like biomes).
 
 # Quest.174 - Lepidopterist's Backpack
 lostera.quest174.name=Lepidopterist's Backpack
@@ -1074,7 +1074,7 @@ lostera.quest257.desc=The Precision Sawmill is used to process Wood into planks 
 
 # Quest.258 - Pressurized Reaction Chamber
 lostera.quest258.name=Pressurized Reaction Chamber
-lostera.quest258.desc=The Pressurized Reaction Chamber is used primarily to create §9Substrate§r, §bHDPE Pellets§r and §dEthylene §8(an efficient source of fuel used in the Gas-Burning Generator)§r.%n%nIt accepts a liquid, a gas, and a material and uses them to create another product with some leftover gas. %n%n§8Also used for toughening materials through the Nitriding process.§r 
+lostera.quest258.desc=The Pressurized Reaction Chamber is used primarily to create §9Substrate§r, §bHDPE Pellets§r and §6Ethanol§8 (an efficient source of fuel used in the Bio-Generator)§r.%n%nIt accepts a liquid, a gas, and a material and uses them to create another product with some leftover gas. %n%n§8Also used for toughening materials through the Nitriding process.§r 
 
 # Quest.259 - Chemical Injection Chamber
 lostera.quest259.name=Chemical Injection Chamber
@@ -2146,7 +2146,7 @@ lostera.quest525.desc=The Drying Rack is used to make different types of jerky.%
 
 # Quest.526 - Nutrition
 lostera.quest526.name=Nutrition
-lostera.quest526.desc=You will have to maintain a balanced diet while surviving.%n%nBased on how you manage your diet, foods you eat will either receive a §6nutritional bonus or penalty§r.%n%nA balanced diet should include at least §55 food groups§r out of your past 15 meals.%n§8Reaching this criteria clears you of any penalty.§r%n%nHealthy diet not only can it make your food last longer but also increase §cMax Health§r.%n%nFor every new food is eaten, its nutritional value will count towards your Dietary Milestones §8(This includes any bonuses or penalties you may have)§r.§r%n%nFor each Milestone secured your Max Health increases by §c+1 Heart§r.%n%n§rThe §aFood Journal §rwill prove invaluable in any dietary planning for it tracks your past 15 meals and your progress with Dietary Milestones.%n%n%n%n§lThis quest unlocks "From Garden to Table".
+lostera.quest526.desc=You will have to maintain a balanced diet while surviving.%n%nBased on how you manage your diet, foods you eat will either receive a §6nutritional bonus or penalty§r.%n%nA balanced diet should include at least §55 food groups§r out of your past 15 meals.%n§8Reaching this criteria clears you of any penalty.§r%n%nHealthy diet not only can it make your food last longer but also increase §cMax Health§r.%n%nFor every new food is eaten, its nutritional value will count towards your Dietary Milestones §8(This includes any bonuses or penalties you may have)§r.§r%n%nFor each Milestone secured your Max Health increases by §c+1 Heart§r.%n%n§rThe §aFood Journal §rwill prove invaluable in any dietary planning for it tracks your past 15 meals and your progress with Dietary Milestones.
 
 # Quest.527 - XP Storage
 lostera.quest527.name=XP Storage
@@ -2190,7 +2190,7 @@ lostera.quest536.desc=The Campfire is used to cook different food items without 
 
 # Quest.537 - §d¬§r Becoming an Artisan
 lostera.quest537.name=§d¬§r Becoming an Artisan
-lostera.quest537.desc=You may, of course, be satisfied in the current simplicity of farming and animal husbandry. %n%nHowever, you can take it one step further and create Artisan Goods by using your fresh ingredients or even obtain more exotic goods.%n%nItems like ale, dragonfruit, or wax require a little more machinery to obtain.%n%n%nGetting your hands on bronze would be the first step forward:§r%n%n§l§nBronze Recipe:§r%n%n- Grind down copper and tin ingots (A mortar will do)*%n- Mix these dusts in a 3:1 ratio at Crafting Table%n- Bake the resulting dust until hardened%n%n§7*§8Using a Grindstone to obtain dusts is also an option.§r%n%n§lThis quest unlocks "Artisan Valley".
+lostera.quest537.desc=You may, of course, be satisfied in the current simplicity of farming and animal husbandry. %n%nHowever, you can take it one step further and create Artisan Goods by using your fresh ingredients or even obtain more exotic goods.%n%nItems like ale, dragonfruit, or wax require basic bronze appliances to obtained and processed.%n%n%nGetting your hands on bronze would be the first step forward:§r%n%n§l§nBronze Recipe:§r%n%n- Grind down copper and tin ingots (A mortar will do)*%n- Mix these dusts in a 3:1 ratio at Crafting Table%n- Bake the resulting dust until hardened%n%n§7*§8Using a Grindstone to obtain dusts is also an option.§r%n%n§lThis quest unlocks "Artisan Valley".
 
 # Quest.538 - Technology
 lostera.quest538.name=Technology
@@ -2263,8 +2263,8 @@ lostera.quest554.desc=This job class is for those set on creating the farm of th
 lostera.quest555.name=§d¬§r Artisan Valley
 lostera.quest555.desc=This path will not only give you access to more complex and rewarding ingredients but will also show you ways to use farm produce in ways you never thought before.%n%nBe it creating your own green energy source, brewing mead from honey or even making your very own designer flowers everything is in the cards if you will it.
 
-# Quest.556 - §d¬§r Environmental Science
-lostera.quest556.name=§d¬§r Environmental Science
+# Quest.556 - §d¬§r Crop Hybridization
+lostera.quest556.name=§d¬§r Crop Hybridization
 lostera.quest556.desc=This the path in breeding crops to create to ultimate bountiful farm.%n%nIt can not only be used to obtain never before seen crops like hops, commonly used for beer, but also to breed them to make faster and higher yielding crops.
 
 # Quest.557 - §d¬§r Prize Breeds
@@ -2657,7 +2657,7 @@ lostera.quest653.desc=A Mystic Branch allows to draw glyphs into the air to cast
 
 # Quest.654 - Wasteful Cauldron
 lostera.quest654.name=Wasteful Cauldron
-lostera.quest654.desc=A §5Witches' Cauldron§r proves to be more than sufficient for simple brews.%n%nHowever, any practitioner worth their salt will realize that such a mundane device is far from suitable at handling brews requiring magic power.%n%nSuch a simple cauldron is unable to properly contain Altar Power as most of it just ends up leaking everywhere, making the process needlessly wasteful and expensive.%n%nHowever, surrounding a cauldron with §lWhite Circle Glyphs§r will upgrade a §dWitches' Cauldron§r capacity to contain magic, so that the only altar power expended goes into brewing:%n%n §7      ⋇ ⋇ ⋇ ⋇ ⋇%n    ⋇             ⋇%n  ⋇      ⋇ ⋇ ⋇      ⋇%n  ⋇    ⋇       ⋇    ⋇%n  ⋇    ⋇   §r§5⌗ §o§7  ⋇    ⋇%n  ⋇    ⋇       ⋇    ⋇%n  ⋇      ⋇ ⋇ ⋇      ⋇%n    ⋇             ⋇%n       ⋇ ⋇ ⋇ ⋇ ⋇%n§r%nYou can also significantly reduce altar power costs of a Witches' Cauldron by using §c§lInfernal Circles Glyphs§r instead.%n%nSuch a setup taps into the power of the demon world, reducing the altar power cost by 1/3!%n§4§oHowever Infernal Circle Glyphs comes with side effects and has a chance of failure.§r%n%nYou can of course mix and match circles to match your riskbenefit appetite.%n%n%nThe book, §9Witches' Brews §rgives a complete overview of all ingredients and what they can do when added to a brew.%n§7Altar Power costs shown in the book accounts for a full White Circle Glyph.
+lostera.quest654.desc=A §5Witches' Cauldron§r proves to be more than sufficient for simple brews.%n%nHowever, any practitioner worth their salt will realize that such a mundane device is far from suitable at handling brews requiring magic power.%n%nSuch a simple cauldron is unable to properly contain Altar Power as most of it just ends up leaking everywhere, making the process needlessly wasteful and expensive.%n%nHowever, surrounding a cauldron with §lWhite Circle Glyphs§r will upgrade a §dWitches' Cauldron§r capacity to contain magic, so that the only altar power expended goes into brewing:%n%n §7      ⋇ ⋇ ⋇ ⋇ ⋇%n    ⋇             ⋇%n  ⋇      ⋇ ⋇ ⋇      ⋇%n  ⋇    ⋇       ⋇    ⋇%n  ⋇    ⋇   §r§5⌗ §o§7  ⋇    ⋇%n  ⋇    ⋇       ⋇    ⋇%n  ⋇      ⋇ ⋇ ⋇      ⋇%n    ⋇             ⋇%n       ⋇ ⋇ ⋇ ⋇ ⋇%n§r%nYou can also significantly reduce altar power costs of a Witches' Cauldron by using §c§lInfernal Circles Glyphs§r instead.%n%nSuch a setup taps into the power of the demon world, reducing the altar power cost by 1/3!%n§4§oHowever Infernal Circle Glyphs comes with side effects and has a chance of failure.§r%n%nYou can of course mix and match circles to match your riskbenefit appetite.%n%n%nThe book, §9Witches' Brews §rgives a complete overview of all ingredients and what they can do when added to a brew.%n§7Altar Power costs shown in the book accounts for a full White Circle Glyph.§r%n%n§lThis quest unlocks "Otherworldy Concoctions".
 
 # Quest.655 - Player Compass
 lostera.quest655.name=Player Compass
@@ -2683,8 +2683,8 @@ lostera.quest659.desc=These are creatures able shapeshift into a wolf or a theri
 lostera.quest660.name=Lunar Authority
 lostera.quest660.desc=A Moon Charm is gifted to werewolves via a Wolf Altar.%n%nIt enables the cursed individual to have control over their lycanthrope form.%n%nWhen in Werewolf form you obtain new abilities and restrictions:%n%n§aBenefits:§r%n-Faster movement speed%n-Higher jump %n-Increased step height %n-Night vision%n-Immunity to poison and disease%n-Much tougher §8(natural armor)§r%n-Significant damage increase%n-Significant health increase%n-Resistant to physical and magical damage%n%n§cRestrictions:§r%n- Cannot wear armor%n- Cannot hold items%n- Weak to silver attacks
 
-# Quest.661 - night-time Stories
-lostera.quest661.name=night-time Stories
+# Quest.661 - Nighttime Stories
+lostera.quest661.name=Nighttime Stories
 lostera.quest661.desc=This rare to find, often incomplete, book, seems to be the journal of a scholar who was a guest of an undead being. %n%nWhat its contents can tell a reader can only be guessed at.%n%nThe book is most often found in libraries and book archives, although Torn Pages from it have been found all over. %n%n§8Crafting the Pages with the book adds them to it.%n%n§r%n§lThis quest unlocks "Creatures of the Night".
 
 # Quest.662 - Becoming a Patron
@@ -3409,7 +3409,7 @@ lostera.quest841.desc=The Mana Lens: Flare, when installed on a Mana Spreader, c
 
 # Quest.842 - A Portal between Worlds
 lostera.quest842.name=A Portal between Worlds
-lostera.quest842.desc=To enter the Twilight Forest you require to build its portal:%n%n%n-Create a shallow pond of §9water§r:%n%n§9  ▉▉%n  ▉▉%n§r%n-Surround it with §anatural vegetation§r, such as flowers or mushrooms:%n%n§9§a▉▉▉▉%n§a▉§9▉▉§a▉%n▉§9▉▉§a▉%n▉▉▉▉%n§r%n%n-Drop a §6World Seed§r within to activate it.%n§8%n§oIf done correctly a thunder will strike down the pond and turn it into a portal.%n§lThe ritual cannot be done indoors.
+lostera.quest842.desc=To enter the Twilight Forest you require to build its portal:%n%n%n-Create a shallow pond of §9water§r:%n%n§9  ▉▉%n  ▉▉%n§r%n-Surround it with §anatural vegetation§r, such as flowers or mushrooms:%n%n§9§a▉▉▉▉%n§a▉§9▉▉§a▉%n▉§9▉▉§a▉%n▉▉▉▉%n§r%n%n-Drop a §6World Seed§r within to activate it.%n§8%n§oIf done correctly a thunder will strike down the pond and turn it into a portal.%n§lThe ritual cannot be done indoors.§r%n%n§lThis quest unlocks "Staffmancy".
 
 # Quest.843 - Magic Map
 lostera.quest843.name=Magic Map
@@ -3421,7 +3421,7 @@ lostera.quest844.desc=Potential values for Hydrogen's fuel combinations:%n%n%n§
 
 # Quest.845 - The Courtyard
 lostera.quest845.name=The Courtyard
-lostera.quest845.desc=Home to the aggressive Naga, the Courtyard is an impressive sight for new adventurers in the Twilight Forest. %n%nIt consist mainly of stone blocks, both uncut and dressed Nagastone, with various patterns etched with a distinct snake motif, either in reverence, or perhaps in warning, of the monstrous resident within the walls. %n%nNo exact age has been determined but given the cracked and crumbling blocks in some places, these courtyards must be at least centuries old.%n%n%n§6The scales of the Naga are well sought after for, when worn, it has powerful defensive incantations and the ability to dispel magical forcefields.%n§r%n%n§lThis quest unlocks "Arcane Arts". 
+lostera.quest845.desc=Home to the aggressive Naga, the Courtyard is an impressive sight for new adventurers in the Twilight Forest. %n%nIt consist mainly of stone blocks, both uncut and dressed Nagastone, with various patterns etched with a distinct snake motif, either in reverence, or perhaps in warning, of the monstrous resident within the walls. %n%nNo exact age has been determined but given the cracked and crumbling blocks in some places, these courtyards must be at least centuries old.%n%n%n§6The scales of the Naga are well sought after for, when worn, it has powerful defensive incantations and the ability to dispel magical forcefields.
 
 # Quest.846 - Heavy Duty Workbench
 lostera.quest846.name=Heavy Duty Workbench
@@ -3625,11 +3625,11 @@ lostera.quest895.desc=This the first tool you need to start your adventures.%n%n
 
 # Quest.896 - Research Table
 lostera.quest896.name=Research Table
-lostera.quest896.desc=Before you can build most thaumaturgical items and blocks, you first need to discover how to do so.%n%nThere are several steps in this process:%n%n-Exploring the world and examining blocks, items and creatures with a §5Thaumometer§r.%n%n-Taking the research points you gathered from the first step and expanding your aspect knowledge with the Research Table.%n%n-Using the aspects and points you've collected to discover practical knowledge and recipes with the Research Table.%n%n§8Only after truly grasping the fundamentals of an artifact's inner workings will you be able to create a working prototype.%n%n%n§6For more information consult the "Research" page located in "General Information" section of the Thaumonomicon.
+lostera.quest896.desc=Creating thaumaturgic artifacts require requires grasping its inner workings through research and development.%n%nThere are several steps in this process:%n%n-Exploring the world and examining blocks, items and creatures with a §5Thaumometer§r.%n%n-Taking the research points you gathered from the first step and expanding your aspect knowledge with the Research Table.%n%n-Using the aspects and points you've collected to discover practical knowledge and recipes with the Research Table.%n%n%n§6For more information consult the "Research" page located in "General Information" section of the Thaumonomicon.
 
 # Quest.897 - Arcane Worktable
 lostera.quest897.name=Arcane Worktable
-lostera.quest897.desc=The Arcane Worktable enables you to craft magical items, which requires a certain amount of vis supplied by a wand.%n%n%n§8The vis required to craft an item will be shown in the six circular symbols surrounding the crafting grid.%n%n%n§r§lThis quest unlocks "Scholarly Artefacts".%n%n§r§lThis quest unlocks "Humunculi Constructs".
+lostera.quest897.desc=The Arcane Worktable enables you to craft magical items, which requires a certain amount of vis supplied by a wand.%n%n%n§8The vis required to craft an item will be shown in the six circular symbols surrounding the crafting grid.%n%n%n§r§lThis quest unlocks "Scholarly Artefacts".%n%nThis quest unlocks "Humunculi Constructs".
 
 # Quest.898 - Node Brightness
 lostera.quest898.name=Node Brightness
@@ -3935,8 +3935,8 @@ lostera.quest972.desc=This card allows ME Network devices to draw on the §5ME A
 lostera.quest973.name=Capacity Card
 lostera.quest973.desc=This Card adds capacity to the config inventory of the §bME Network Import §rand §6Export Bus§r devices.
 
-# Quest.974 - Basic Materials
-lostera.quest974.name=Basic Materials
+# Quest.974 - §6¬§r Basic Materials
+lostera.quest974.name=§6¬§r Basic Materials
 lostera.quest974.desc=The surface, while it provides food and wood, it does not have the materials necessary for your needs.%n%nYou need to go deeper to mine for some basic materials. §l%n%nThis quest unlocks "Tinker's Tools".
 
 # Quest.975 - Pechs
@@ -4205,15 +4205,15 @@ lostera.quest1040.desc=The HV Solar Hat functions as an improved Solar Helmet.%n
 
 # Quest.1041 - CESU
 lostera.quest1041.name=CESU
-lostera.quest1041.desc=The Chemical Electrical Storage Unit or CESU, is the second tier of EU storage.%n%nIt can store up to 300,000 EU and receive energy up to §aMedium Voltage§r from any of its five input faces. %n%nThe output face delivers 128 EU/t and can be reoriented by right-clicking on a non-output face with a Wrench.%n%nHolding the sneak key while using the tool on the output face will cause the face opposite to the one being clicked to become the output. %n%nOn all other faces it will dismantle the CESU.%n%n§8The CESU can also accept a redstone input. This will change the action of the CESU depending on the setting is selected. %n%nThis setting can be changed by clicking the button with an image of redstone on the top right.%n§r%n%n§lThis quest unlocks "Nuclear Energy".
+lostera.quest1041.desc=The CESU (Chemical Electrical Storage Unit) is the second tier of EU storage.%n%nIt can store up to 300,000 EU and receive energy up to §aMedium Voltage§r from any of its five input faces. %n%nThe output face delivers 128 EU/t and can be reoriented by right-clicking on a non-output face with a Wrench.%n%nHolding the sneak key while using the tool on the output face will cause the face opposite to the one being clicked to become the output. %n%nOn all other faces it will dismantle the CESU.%n%n§8The CESU can also accept a redstone input. This will change the action of the CESU depending on the setting is selected. %n%nThis setting can be changed by clicking the button with an image of redstone on the top right.%n§r%n%n§lThis quest unlocks "Nuclear Energy".
 
 # Quest.1042 - MFE
 lostera.quest1042.name=MFE
-lostera.quest1042.desc=The MFE (short for Multi-Functional Energy Transmitter) is the third tier of EU storage.%n%nIt can store up to 4,000,000 EU and receive energy up to §eHigh Voltage§r from any of its five input faces. %n%nThe output face delivers 512 EU/t and can be reoriented by right-clicking on a non-output face with a Wrench.%n%nHolding the sneak key while using the tool on the output face will cause the face opposite to the one being clicked to become the output. %n%nOn all other faces it will dismantle the MFE.%n%n§8The MFE can also accept a redstone input. This will change the action of the MFE depending on the setting is selected. %n%nThis setting can be changed by clicking the button with an image of redstone on the top right.%n§r%n%n§lThis quest unlocks "Matter Conversion".
+lostera.quest1042.desc=The MFE (Multi-Functional Electric Transmitter) is the third tier of EU storage.%n%nIt can store up to 4,000,000 EU and receive energy up to §eHigh Voltage§r from any of its five input faces. %n%nThe output face delivers 512 EU/t and can be reoriented by right-clicking on a non-output face with a Wrench.%n%nHolding the sneak key while using the tool on the output face will cause the face opposite to the one being clicked to become the output. %n%nOn all other faces it will dismantle the MFE.%n%n§8The MFE can also accept a redstone input. This will change the action of the MFE depending on the setting is selected. %n%nThis setting can be changed by clicking the button with an image of redstone on the top right.§r%n%n%n§lThis quest unlocks "Warp Speed".
 
 # Quest.1043 - MFSU
 lostera.quest1043.name=MFSU
-lostera.quest1043.desc=The MFSU (short for Multi-Functional Store Unit) is the fourth tier of EU storage.%n%nIt can store up to 40,000,000 EU and receive energy up to§c Extreme Voltage§r from any of its five input faces. %n%nThe output face delivers 2048 EU/t and can be reoriented by right-clicking on a non-output face with a Wrench.%n%nHolding the sneak key while using the tool on the output face will cause the face opposite to the one being clicked to become the output. %n%nOn all other faces it will dismantle the MFSU.%n%n§8The MFSU can also accept a redstone input. This will change the action of the MFSU depending on the setting is selected. %n%nThis setting can be changed by clicking the button with an image of redstone on the top right.%n%n%n§lThis quest unlocks "Warp Speed".
+lostera.quest1043.desc=The MFSU (Multi-Functional Storage Unit) is the fourth tier of EU storage.%n%nIt can store up to 40,000,000 EU and receive energy up to§c Extreme Voltage§r from any of its five input faces. %n%nThe output face delivers 2048 EU/t and can be reoriented by right-clicking on a non-output face with a Wrench.%n%nHolding the sneak key while using the tool on the output face will cause the face opposite to the one being clicked to become the output. %n%nOn all other faces it will dismantle the MFSU.%n%n§8The MFSU can also accept a redstone input. This will change the action of the MFSU depending on the setting is selected. %n%nThis setting can be changed by clicking the button with an image of redstone on the top right.§r%n%n%n§lThis quest unlocks "Matter Conversion".
 
 # Quest.1044 - Mining Drill
 lostera.quest1044.name=Mining Drill
@@ -4517,7 +4517,7 @@ lostera.quest1118.desc=The High Voltage Solar Array is the third and topmost tie
 
 # Quest.1119 - Geology
 lostera.quest1119.name=Geology
-lostera.quest1119.desc=Technology relies on a great quantities of resources, specifically metals and gems.%n%nWhile you will find satisfactory quantities of materials just beneath your feet, the uninformed amateur will miss out on monumentally large veins of mineral blends or resources that are specifically only found in unique climates.%n%nThe process of extracting pure metals from blends, while commonly practiced, are extremely wasteful and it is never used in the same extent as the methods found within this chapter.%n%nA geologist will tap on the true value of every ore and can extract all of its resources without squandering any part of it.%n%n%nAdditionally, a true geologist is also a master topographist by nature, able to specifically know where to find hidden resources and uncover their presence by the touch of a hammer.%n%n%n§dThis book does contains the most basic knowledge necessary for the amateurs, the rest comes with experience.
+lostera.quest1119.desc=Technology relies on a great quantities of resources, specifically metals and gems.%n%nWhile you will find satisfactory quantities of materials just beneath your feet, the uninformed amateur will miss out on monumentally large veins of mineral blends or resources that are specifically only found in unique climates.%n%nA geologist will tap on the true value of every ore and can extract all of its resources without squandering any part of it.%n%n%n§dThis book does contains the most basic knowledge necessary for the amateurs, the rest comes with experience.
 
 # Quest.1120 - Hammer
 lostera.quest1120.name=Hammer
@@ -6263,7 +6263,7 @@ lostera.quest1555.desc=The Plate Bending Machine is used to make metal Plates ou
 
 # Quest.1556 - Automatic Wiremill
 lostera.quest1556.name=Automatic Wiremill
-lostera.quest1556.desc=The Automatic Wiremill is a machine used to increase the material efficiency at which metal Cables can be produced.%n%nIt is also used to process Heating Coils or Soldering metals.%n%nThe time and energy used per operation is dependent on the material being processed. %n%n%n§lMaximum Input: §bLow Voltage%n%n§r§6Possible Upgrades:§r%n%nOverclocker§8 - Increased speed and decreased efficiency§r%nTransformer§8 - Increases maximum voltage input by 1%n§rBattery§8 - Increases EU Capacity%n§rMJ §8- EU to RF conversion§r%n§rSteam§8 - EU to Steam conversion§r%n%n§l%nThis quest unlocks "Industrial Revolution Redux".
+lostera.quest1556.desc=The Automatic Wiremill is a machine used to increase the material efficiency at which metal Cables can be produced.%n%nIt is also used to process Heating Coils or Soldering metals.%n%nThe time and energy used per operation is dependent on the material being processed. %n%n%n§lMaximum Input: §bLow Voltage%n%n§r§6Possible Upgrades:§r%n%nOverclocker§8 - Increased speed and decreased efficiency§r%nTransformer§8 - Increases maximum voltage input by 1%n§rBattery§8 - Increases EU Capacity%n§rMJ §8- EU to RF conversion§r%n§rSteam§8 - EU to Steam conversion§r
 
 # Quest.1557 - Automatic Macerator
 lostera.quest1557.name=Automatic Macerator
@@ -6951,7 +6951,7 @@ lostera.quest1727.desc=The Wireless Tracker is placed on mobs and players with t
 
 # Quest.1728 - REP
 lostera.quest1728.name=REP
-lostera.quest1728.desc=The REP (short for Redstone Ether Pulse) is a wireless redstone EMP (electromagnetic pulse). %n%nIt will disable wireless devices in the detonation radius and may or may not damage entities nearby. %n%nIt is effectively a portable version of the§e Wireless Jammer§r.
+lostera.quest1728.desc=The REP (Redstone Ether Pulse) is a wireless redstone EMP (electromagnetic pulse). %n%nIt will disable wireless devices in the detonation radius and may or may not damage entities nearby. %n%nIt is effectively a portable version of the§e Wireless Jammer§r.
 
 # Quest.1729 - Private Sniffer
 lostera.quest1729.name=Private Sniffer
@@ -7435,7 +7435,7 @@ lostera.quest1848.desc=Once a ship warps at a high enough altitude it will leave
 
 # Quest.1849 - Air Generators
 lostera.quest1849.name=Air Generators
-lostera.quest1849.desc=Air Generators, when powered with either §9EU§r or §cRF§r, fill a sealed area with breathable air.%n%nThe higher the tier the larger their operational space is:%n%n§aBasic:§r %nCover up to 16 block radius around itself in a spherical shape,%n%n§6Advanced:§r %nCover up to 48 block radius around itself in a spherical shape,%n%n§5Superior:§r %nCover up to 144 block radius around itself in a spherical shape,%n%n%n%n§4You must ensure the area is completely sealed to avoid the air from escaping into open space.§r 
+lostera.quest1849.desc=Air Generators, when powered with either §9EU§r or §cRF§r, fill a sealed area with breathable air.%n%nThe higher the tier the larger their operational space is:%n%n§aBasic:§r %nCover up to 16 block radius around itself in a spherical shape,%n%n§6Advanced:§r %nCover up to 48 block radius around itself in a spherical shape,%n%n§5Superior:§r %nCover up to 144 block radius around itself in a spherical shape,%n%n§4You must ensure the area is completely sealed to avoid the air from escaping into open space.§r%n%n%n§lThis quest unlocks "The Final Frontier".
 
 # Quest.1850 - Space Suit
 lostera.quest1850.name=Space Suit
@@ -10994,7 +10994,7 @@ lostera.quest2738.desc=The Water Tank is a structure that collects water from th
 
 # Quest.2739 - The Math
 lostera.quest2739.name=The Math
-lostera.quest2739.desc=For all those Efficiency Freaks:%n%n%n§lSteam/tick =§r ( 10 LP or 20 HP ) * numTanks * heat/maxHeat%n10 RF = 5 Steam%n160 mB of Steam per 1 mB Water%n%n§lfuel used per tick = §r( ( 8 - ( numTanks * 0.1 ) + ( 0.8 * heat/maxHeat ) + ( 4 * maxHeat/1000 ) ) * numTanks ) / ticksPerCycle%n%n§lmaxHeat =§r 500 for Low Pressure and 1000 for High Pressure%n%n§lticksPerCycle =§r 16 for Low Pressure and 8 for High Pressure%n%n§o§7§oLP=Low Pressure HP=High Pressure%nnumTanks= Number of Tanks%n%n%n§r%n§lThis quest unlocks "Mechanical Innovation".
+lostera.quest2739.desc=For all those Efficiency Freaks:%n%n%n§lSteam/tick =§r ( 10 LP or 20 HP ) * numTanks * heat/maxHeat%n10 RF = 5 Steam%n160 mB of Steam per 1 mB Water%n%n§lfuel used per tick = §r( ( 8 - ( numTanks * 0.1 ) + ( 0.8 * heat/maxHeat ) + ( 4 * maxHeat/1000 ) ) * numTanks ) / ticksPerCycle%n%n§lmaxHeat =§r 500 for Low Pressure and 1000 for High Pressure%n%n§lticksPerCycle =§r 16 for Low Pressure and 8 for High Pressure%n%n§o§7§oLP=Low Pressure HP=High Pressure%nnumTanks= Number of Tanks
 
 # Quest.2740 - Steam Oven
 lostera.quest2740.name=Steam Oven
@@ -11218,7 +11218,7 @@ lostera.quest2794.desc=Like the look of Gravel under your rail, but can't be bot
 
 # Quest.2795 - Tunnel Bore
 lostera.quest2795.name=Tunnel Bore
-lostera.quest2795.desc=Tired of digging miles of tunnels by hand? You've come to the right place. The Tunnel Bore can do it for you!%n%nThe Tunnel Bore is an automatic miner capable of digging a 3×3 tunnel in whichever direction it travels.%n%nIt will automatically place tracks as they are supplied to it.%nAs well as automatically placing tracks, it will also automatically place gravel if there is not a spot to place the tracks, assuming it has enough gravel.%n%nThe Tunnel Bore requires fuel and a Bore Head to operate.%n%n§4§nBore can stop for several reasons;§r %n-The Bore Head has broken%n- It has run out of fuel, tracks, or gravel%n-There is a hole greater than 10 blocks deep%n-Water is encountered, lava is suspected, or an unbreakable block is in its path.%n%n§7§oMined items will be placed in linked Chestcarts.%nFuel and Gravel will be retrieved from linked Chestcarts when the Bore runs low.
+lostera.quest2795.desc=Tired of digging miles of tunnels by hand? You've come to the right place. The Tunnel Bore can do it for you!%n%nThe Tunnel Bore is an automatic miner capable of digging a 3×3 tunnel in whichever direction it travels.%n%nIt will automatically place tracks and gravel if there is not a spot to place the tracks.%n%nThe Tunnel Bore requires fuel and a Bore Head to operate.%n%n§4§nBore can stop for several reasons;§r %n-The Bore Head has broken%n- It has run out of fuel, tracks, or gravel%n-There is a hole greater than 10 blocks deep%n-Water is encountered, lava is suspected, or an unbreakable block is in its path.%n%n§7Mined items will be placed in linked Chestcarts.%nFuel and Gravel will be retrieved from linked Chestcarts when the Bore runs low.§r%n%n%n§lThis quest unlocks "Modular Carts".
 
 # Quest.2796 - Steam Locomotive
 lostera.quest2796.name=Steam Locomotive
@@ -11902,7 +11902,7 @@ lostera.quest2965.desc=The simplest engine to get started with is the Clockwork 
 
 # Quest.2966 - Carpenter
 lostera.quest2966.name=Carpenter
-lostera.quest2966.desc=The Carpenter uses RF power to craft recipes involving liquids, requiring §bWater§r, §aSeed Oil§r, §6Honey§r or §cLava§r depending on the recipe.%n%nSuch an example of this is are Bronze Ingots, crafted from 3 Copper and 1 Tin Ingot and Lava.
+lostera.quest2966.desc=The Carpenter uses RF power to craft recipes involving liquids, requiring §bWater§r, §aSeed Oil§r, §6Honey§r or §cLava§r depending on the recipe.%n%nSuch an example of this is are Bronze Ingots, crafted from 3 Copper and 1 Tin Ingot and Lava.%n%n%n§lThis quest unlocks "Crop Hybridization".
 
 # Quest.2967 - Squeezer
 lostera.quest2967.name=Squeezer
@@ -13690,8 +13690,8 @@ lostera.line5.desc=§c§nFor authorized personnel eyes only.§r%n%nThis is where
 lostera.line6.name=§9¬§r Nuclear Energy
 lostera.line6.desc=How I Learned to Stop Worrying and Love the Bomb
 
-# QuestLine.7 - §d¬§r Environmental Science
-lostera.line7.name=§d¬§r Environmental Science
+# QuestLine.7 - §d¬§r Crop Hybridization
+lostera.line7.name=§d¬§r Crop Hybridization
 lostera.line7.desc=Sometimes science is a lot more art than science. A lot of people don’t get that.
 
 # QuestLine.8 - §7¬§r Off the Rails!
