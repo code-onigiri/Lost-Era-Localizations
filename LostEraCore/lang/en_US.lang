@@ -914,7 +914,7 @@ lostera.quest217.desc=The Restraint Frame decreases a bee's territory at the cos
 
 # Quest.218 - Magical Frames
 lostera.quest218.name=Magical Frames
-lostera.quest218.desc=The Magic Frame is a magically reinforced frame with 3x the durability of the Untreated Frame.%n%n§lDurability: §r240%n%n%n§6§lProduction: §rx2%n%n§9§lMutation Meltdown: §r§7-40%% 
+lostera.quest218.desc=The Magic Frame is a magically reinforced frame with 3x the durability of the Untreated Frame.%n%n§lDurability: §r240%n%n%n§6§lProduction: §r§2+110%%%n%n§9§lMutation Meltdown: §r§7-40%% 
 
 # Quest.219 - Resilient Frame
 lostera.quest219.name=Resilient Frame
@@ -926,15 +926,15 @@ lostera.quest220.desc=The Soul Frame uses tortured souls from the Nether to incr
 
 # Quest.221 - Metabolic Frame
 lostera.quest221.name=Metabolic Frame
-lostera.quest221.desc=The Metabolic Frame enhances the metabolism of bees, increasing their productivity.%nAs a result of this enhancement, bees are also more likely to mutate.%n%n§lDurability: §r130%n%n%n§6§lProductivity:§r §2+20%%%n%n§a§lMutation Rate: §r§2x1.8
+lostera.quest221.desc=The Metabolic Frame enhances the metabolism of bees, increasing their productivity.%nAs a result of this enhancement, bees are also more likely to mutate.%n%n§lDurability: §r130%n%n%n§6§lProduction: §r§2+20%%%n%n§a§lMutation Rate: §r§2x1.8
 
 # Quest.222 - Gentle Frame
 lostera.quest222.name=Gentle Frame
-lostera.quest222.desc=The Gentle Frame extends the life expectancy of a working queen and encourages the workers to move at a slightly increased pace.%n %nAs a result is that the bees live longer, and produce more while they are alive.%n%n§lDurability: §r200%n%n%n§6§lProductivity:§r §2+40%%%n%n§a§lMutation Rate: §r§4x0.7%n%n§3§lLifespan:§r §2x1.5%n%n%n§r§9§lMutation Meltdown:§r§7 -99%% 
+lostera.quest222.desc=The Gentle Frame extends the life expectancy of a working queen and encourages the workers to move at a slightly increased pace.%n %nAs a result is that the bees live longer, and produce more while they are alive.%n%n§lDurability: §r200%n%n%n§6§lProduction: §r§2+40%%%n%n§a§lMutation Rate: §r§4x0.7%n%n§3§lLifespan:§r §2x1.5%n%n%n§r§9§lMutation Meltdown:§r§7 -99%% 
 
 # Quest.223 - Necrotic Frame
 lostera.quest223.name=Necrotic Frame
-lostera.quest223.desc=The Necrotic Frame decreases a bee's lifespan at the cost of productivity.%n%n§lDurability: §r280%n%n%n§6§lProductivity:§r §4-25%%%n%n§3§lLifespan:§r §4x0.3%n%n%n§r§9§lMutation Meltdown:§r§7 +20%%
+lostera.quest223.desc=The Necrotic Frame decreases a bee's lifespan at the cost of productivity.%n%n§lDurability: §r280%n%n%n§6§lProduction: §r§2-25%%%n%n§3§lLifespan:§r §4x0.3%n%n%n§r§9§lMutation Meltdown:§r§7 +20%%
 
 # Quest.224 - Oblivion Frame
 lostera.quest224.name=Oblivion Frame
@@ -946,15 +946,15 @@ lostera.quest225.desc=The Temporal Frame drastically increases a Queen's lifespa
 
 # Quest.226 - Magic Apiary
 lostera.quest226.name=Magic Apiary
-lostera.quest226.desc=The Magic Apiary is an upgraded version of an Apiary. %n%nIt works similarly to the regular Apiary but with increased §6Production§r and §rreduced §4Mutation Meltdown§r, so that your bees produce more goods while your Ignoble Bees decay slower.%n%nWhen an Apiary Booster of any type is placed nearby, the Apiary will consume aspects to enable additional boosts.%n%n%n§5§nMagic Apiary:%n§r§7Production Bonus: +40%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 100%%%n%nMutation Chance: 100%%%nMutation Meltdown: -20%%
+lostera.quest226.desc=The Magic Apiary is an upgraded version of an Apiary. %n%nIt works similarly to the regular Apiary but with increased §6Production§r and §rreduced §4Mutation Meltdown§r, so that your bees produce more goods while your Ignoble Bees decay slower.%n%nWhen an Apiary Booster of any type is placed nearby, the Apiary will consume aspects to enable additional boosts.%n%n%n§5§nMagic Apiary:%n§r§7Production Bonus: -10%%%nLifespan: 100%%%n%nFlowering: 100%%%nTerritory: 100%%%n%nMutation Chance: 100%%%nMutation Meltdown: -20%%
 
 # Quest.227 - Vis Apiary Booster
 lostera.quest227.name=Vis Apiary Booster
-lostera.quest227.desc=The Vis Apiary Booster can provide additional buffs to the Magic Apiary depending on the CentiVis fed to it.%n%n§bAqua§r          +100%% Mutation Rate%n§5Perditio       -50%% Lifespan%n§eAer            +100%% Production Rate 
+lostera.quest227.desc=The Vis Apiary Booster can provide additional buffs to the Magic Apiary depending on the CentiVis fed to it.%n%n§bAqua§r          +100%% Mutation Rate%n§5Perditio       -50%% Lifespan%n§eAer            +80%% Production Rate 
 
 # Quest.228 - Mana Apiary Booster
 lostera.quest228.name=Mana Apiary Booster
-lostera.quest228.desc=The Mana Apiary Booster if provided with Mana, will boost Magical Apiary in its surroundings to activate and maintain its buffs.%n%n§nBuffs:%n§2x2 §rMutation Rate%n§450%%§r Lifespan%n§2x2 §rProduction Rate 
+lostera.quest228.desc=The Mana Apiary Booster if provided with Mana, will boost Magical Apiary in its surroundings to activate and maintain its buffs.%n%n§nBuffs:%n§2x2 §rMutation Rate%n§450%%§r Lifespan%n§2+80%% §rProduction Rate 
 
 # Quest.229 - Genetics
 lostera.quest229.name=Genetics
