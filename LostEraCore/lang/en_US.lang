@@ -742,7 +742,7 @@ lostera.quest174.desc=The Lepidopterist's Backpack is effectively a mobile Lepid
 
 # Quest.175 - Frames
 lostera.quest175.name=Frames
-lostera.quest175.desc=Frames offer ways to improve and alter the efficiency and behaviours of bees.%n%nThere are 3 basic frames available to you early on:%n%n§bUntreated Frame§r %nDurability: 80%nProduction: §2+100%%§8 (Max: 1000%%)%nMutation Meltdown: §8-10%% %n%n§6Impregnanted Frame:§r %nDurability: 240 %nProduction: §2+100%% §8(Max: 1000%%)%nMutation Meltdown: §8-60%% %n%n§5Proven Frame:§r %nDurability: 720 %nProduction: §2+100%§8 (Max: 1000%%)%nMutation Meltdown: §8-70%%%n%n§rOverworking bees by boosting the production rate §nover 1000%%§r will lead to §4permanent genetic damage§r.
+lostera.quest175.desc=Frames offer ways to improve and alter the efficiency and behaviours of bees.%n%nThere are 3 basic frames available to you early on:%n%n§bUntreated Frame§r %nDurability: 80%nProduction: §2+100%%§8 (Max: 1000%%)%nMutation Meltdown: §8-10%% %n%n§6Impregnanted Frame:§r %nDurability: 240 %nProduction: §2+100%% §8(Max: 1000%%)%nMutation Meltdown: §8-60%% %n%n§5Proven Frame:§r %nDurability: 720 %nProduction: §2+100%%§8 (Max: 1000%%)%nMutation Meltdown: §8-70%%%n%n§rOverworking bees by boosting the production rate §nover 1000%%§r will lead to §4permanent genetic damage§r.
 
 # Quest.176 - Apiary
 lostera.quest176.name=Apiary
@@ -13636,9 +13636,9 @@ lostera.quest3398.desc=The Omega Chamber is an important infrastructure to activ
 lostera.quest3399.name=Using the Questbook
 lostera.quest3399.desc=The Questbook is a trusty guide to everything this world has to offer and more.%n%nAs you progress, more and more chapters will dynamically unlock based on the gameplay choices and will even reward you for achieving major milestones.%n%nThere is no single progression path to follow or restrictions to how many questlines you can follow.%n%n§6Make your path unique, mix and match questlines to your preferences and forge your own signature style!   §r %n%n%nShould you lose the book you can always make another one to catch right back where you started or access it remotely with the " §6`§r " hotkey.
 
-# Quest.3400 - Dining Set
-lostera.quest3400.name=Dining Set
-lostera.quest3400.desc=No dining room would be complete without Tables and Seats!%n%nThe Table is a piece of furniture that can be used to display blocks, items and even maps atop of it via right click (or shift right click with an empty hand).%n§8Placed items can be rotated using the Tape Measure.§r%n%nTables will also connect to one another to become one large table.%n%nTable cloth can be placed to each table by right clicking them with §6carpets§r.%n§8These can be removed with a right click using a Screw Gun/Hand Drill.§r%n%n%nSeats are a piece of furniture for players and named mobs to sit on.%nThese will also emit a redstone signal when anything is sat on it.%n%nSeats can be connected with a Screw Gun/Hand Drill using shift right click.%n%nThe seat fabric can be changed by right clicking it with the carpet of the desired color.%n%nA seat back can also be added to make these seats into proper chairs.%n§8These can be removed with a Screw Gun/Hand Drill via shift right click.§r%n%n%n%nCarpet can also be added beneath Tables and Chairs via shift right click.%n§8These can be removed with a Screw Gun/Hand Drill via shift right click.§r%n
+# Quest.3400 - 
+lostera.quest3400.name=
+lostera.quest3400.desc=
 
 # Quest.3401 - Inscriber Logical Press
 lostera.quest3401.name=Inscriber Logical Press
