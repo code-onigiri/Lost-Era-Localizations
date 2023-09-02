@@ -2709,7 +2709,7 @@ lostera.quest666.desc=The Brew of Sleeping is the normal way for a Witch to ente
 
 # Quest.667 - Dream Weaver of Nightmares
 lostera.quest667.name=Dream Weaver of Nightmares
-lostera.quest667.desc=%n%n%n§rThe Dream Weaver of Nightmares has two effects:%n%nIt will add a short weakness effect to a player when they wake up from a good night sleep. %nIt will corrupt all other nearby dream weavers so that they have the opposite effect. %n%nIf the dream weaver is itself corrupted by another nearby Dream Weaver of Nightmares, it will add a short blindness effect instead of nausea.%n%n§dThe Dream Weaver of Nightmares can also be used to fend off nightmares when a Brew of Sleeping is drunk. Having the Dream Weaver nearby will reduce the chance of a nightmare to 50%% §8(this can be decreased further by other means!)
+lostera.quest667.desc=The Dream Weaver of Nightmares has two effects:%n%nIt will add a short weakness effect to a player when they wake up from a good night sleep. %nIt will corrupt all other nearby dream weavers so that they have the opposite effect. %n%nIf the dream weaver is itself corrupted by another nearby Dream Weaver of Nightmares, it will add a short blindness effect instead of nausea.%n%n§dThe Dream Weaver of Nightmares can also be used to fend off nightmares when a Brew of Sleeping is drunk. Having the Dream Weaver nearby will reduce the chance of a nightmare to 50%% §8(this can be decreased further by other means!)
 
 # Quest.668 - Dream Weaver of Fleet Foot
 lostera.quest668.name=Dream Weaver of Fleet Foot
@@ -4095,9 +4095,9 @@ lostera.quest1012.desc=All Fuel Rods are radioactive and without a Hazmat suit y
 lostera.quest1013.name=Iron Scaffold
 lostera.quest1013.desc=Iron Scaffolds are sturdier versions of wooden Scaffolds able to to extend 5 blocks out from the blocks that support them.%n%nYou may reinforce Scaffolds by using an additional Iron Fence.%n%nRight-clicking on an existing scaffold with an iron fence will reinforce it. This will consume 1 iron fence. %n%n%nOnce a scaffold has been reinforced, you may extend up to 12 blocks away in any cardinal direction.
 
-# Quest.1014 -
-lostera.quest1014.name=
-lostera.quest1014.desc=
+# Quest.1014 - Dream Weaving
+lostera.quest1014.name=Dream Weaving
+lostera.quest3405.desc=A dreamcatcher, or dream snare, is a handmade object normally made from a wooden loop, on which is woven a loose net or web of imbued sinew. The dreamcatcher is then decorated with sacred items such as feathers and beads. %n%nThe resulting "dream catcher", hung above the bed, is used as a charm to protect sleeping people from nightmares by sifting the sleepers' dreams and in some cases weaving them into something new and beneficial to the dreamer. %n%n§8But beware, there is but a fine line between dreams and nightmares, and a less scrupulous practitioner of the art might find ways to sieve the dreams to leave only nightmares.
 
 # Quest.1015 - RE Battery
 lostera.quest1015.name=RE Battery
@@ -4922,9 +4922,9 @@ lostera.quest1219.desc=Shards are the crystallized manifestation of primal vis c
 lostera.quest1220.name=Electrical Engine
 lostera.quest1220.desc=Many machines here will require Redstone Flux for you to use them but fret not.%n%nThe Electrical Engine, if provided EU/t, it will generate enough RF to fill your needs.%n%n§lSpecs:§r%n%n-The engine produces 20 RF/t and requires 6 EU/t to run%n%n-It can be connected to any voltage without exploding%n%n%n§rShould you have a spare §lsoldering iron§r and §lcircuit board§r at hand, you can upgrade its stats further by populating the circuit board with the following:%n%n§7Iron Electron Tube:%n§r§nEfficiency:§r -1 EU/t input, +/-0 RF/t%n%n§cCopper Electron Tube%n§r§nChoke:§r -2 EU/t input, -10 RF/t output%n%n§7§eTin Electron Tube%n§r§nBoost I:§r +7 EU/t input, +20RF/t output%n%n§bBronze Electron Tube%n§r§nBoost II:§r +15 EU/t input, +40 RF/t output 
 
-# Quest.1221 - Update Quests
-lostera.quest1221.name=Update Quests
-lostera.quest1221.desc=Click this button to check and apply any new questing changes from updates.
+# Quest.1221 - Dining Set
+lostera.1221.name=Dining Set
+lostera.1221.desc=No dining room would be complete without Tables and Seats!%n%nThe Table is a piece of furniture that can be used to display blocks, items and even maps atop of it via right click (or shift right click with an empty hand).%n§8Placed items can be rotated using the Tape Measure.§r%n%nTables will also connect to one another to become one large table.%n%nTable cloth can be placed to each table by right clicking them with §6carpets§r.%n§8These can be removed with a right click using a Screw Gun/Hand Drill.§r%n%n%nSeats are a piece of furniture for players and named mobs to sit on.%nThese will also emit a redstone signal when anything is sat on it.%n%nSeats can be connected with a Screw Gun/Hand Drill using shift right click.%n%nThe seat fabric can be changed by right clicking it with the carpet of the desired color.%n%nA seat back can also be added to make these seats into proper chairs.%n§8These can be removed with a Screw Gun/Hand Drill via shift right click.§r%n%n%n%nCarpet can also be added beneath Tables and Chairs via shift right click.%n§8These can be removed with a Screw Gun/Hand Drill via shift right click.§r%n
 
 # Quest.1222 - Crystal Essentia
 lostera.quest1222.name=Crystal Essentia
@@ -10981,7 +10981,7 @@ lostera.quest2735.name=Low Pressure Boiler Tank
 lostera.quest2735.desc=The Low Pressure Boiler Tank will produce steam as efficiently as possible, consuming as little resources. %n%nThese can be recommended for non-24/7 steam boilers, as they do not take long to warm up.%n%nEach cubic meter of Low Pressure Boiler Tanks will produce 10 Steam/tick when completely warmed up.%n%n§7§oBoiler Tanks automatically output steam to any liquid pipes in contact to it due to steam pressure.
 
 # Quest.2736 - Liquid fuelled Firebox
-lostera.quest2736.name=Liquid fuelled Firebox
+lostera.quest2736.name= Liquid fuelled Firebox
 lostera.quest2736.desc=The Liquid fuelled Firebox will allow a boiler to be run off of liquid fuels, such as Fuel. %n%n%n§l§r§n§6The size of the boilers will affect the size of the Firebox:§r%n%n-A 1×1 Firebox can only handle a single cubic meter tank. %n-The 2×2 can handle 8 or 12 cubic meters of Boiler Tank. %n-The massive 3×3 can handle 18, 27, or 36 cubic meters of Boiler Tank.
 
 # Quest.2737 - High Pressure Boiler Tank
@@ -13655,10 +13655,6 @@ lostera.quest3403.desc=The Inscriber Silicon Press is used to produce §dPrinted
 # Quest.3404 - Void Storage Cell
 lostera.quest3404.name=Void Storage Cell
 lostera.quest3404.desc=The Void Storage Cell is used to permanently dispose of unwanted items with ease.%n%nAny transfer done to it is disposed of into the void never to see the light of day again.
-
-# Quest.3405 - Dream Weaving
-lostera.quest3405.name=Dream Weaving
-lostera.quest3405.desc=A dreamcatcher, or dream snare, is a handmade object normally made from a wooden loop, on which is woven a loose net or web of imbued sinew. The dreamcatcher is then decorated with sacred items such as feathers and beads. %n%nThe resulting "dream catcher", hung above the bed, is used as a charm to protect sleeping people from nightmares by sifting the sleepers' dreams and in some cases weaving them into something new and beneficial to the dreamer. %n%n§8But beware, there is but a fine line between dreams and nightmares, and a less scrupulous practitioner of the art might find ways to sieve the dreams to leave only nightmares.
 
 ##################################Line##################################
 
