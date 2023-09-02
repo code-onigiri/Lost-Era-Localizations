@@ -3017,7 +3017,7 @@ lostera.quest743.desc=Flower Pouch is an inventory that can hold up to one stack
 
 # Quest.744 - Mana Lenses
 lostera.quest744.name=Mana Lenses
-lostera.quest744.desc=Mana Lenses, when endowed with a Rune, are capable of altering the properties of the Mana Spreader burst.%n%nThis allows the creation of intricate mana based infrastructure.%n%n%n§8Consult the Lexica Botania for additional information.§r
+lostera.quest744.desc=Mana Lenses, when endowed with a Rune, are capable of altering the properties of the Mana Spreader burst.%n%nThis allows the creation of intricate mana based infrastructure.%n%nLense can be combined by using a Slimeball:%n%nThe resulting composite lense will have the appearance of the first lense but have both effects.%n§8The effects of the lenses occur in order§r.%n%n%n§8Consult the Lexica Botania for additional information.§r
 
 # Quest.745 - Assembly Halo
 lostera.quest745.name=Assembly Halo
