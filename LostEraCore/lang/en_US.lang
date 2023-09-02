@@ -484,9 +484,9 @@ lostera.quest109.desc=Potions Generator consumes Potions as fuel and produces RF
 lostera.quest110.name=Pink Generator
 lostera.quest110.desc=§dThe Pink Generator produces 1 RF/t from any item or block made of Pink Dye or Pink Wool.%n%nIt has an internal energy buffer of 100,000 RF.%n%nEach item will burn for 30 seconds. It shows the time left to burn the fuel inside it and keeps the RF charge stored when removed. 
 
-# Quest.111 -
-lostera.quest111.name=
-lostera.quest111.desc=
+# Quest.111 - Slime Block
+lostera.quest111.name=Slime Block
+lostera.quest111.desc=Slime Blocks are blocks that further expand the pushing abilities of pistons.%n%nWhen pushed, a Slime Block will also push along all blocks it touches except §6Glazed Terracotta§r.%n%nIt is also really bouncy, allowing creatures falling on it to bounce, preventing fall damage.
 
 # Quest.112 - Heated Redstone Generator
 lostera.quest112.name=Heated Redstone Generator
@@ -10981,7 +10981,7 @@ lostera.quest2735.name=Low Pressure Boiler Tank
 lostera.quest2735.desc=The Low Pressure Boiler Tank will produce steam as efficiently as possible, consuming as little resources. %n%nThese can be recommended for non-24/7 steam boilers, as they do not take long to warm up.%n%nEach cubic meter of Low Pressure Boiler Tanks will produce 10 Steam/tick when completely warmed up.%n%n§7§oBoiler Tanks automatically output steam to any liquid pipes in contact to it due to steam pressure.
 
 # Quest.2736 - Liquid fuelled Firebox
-lostera.quest2736.name= Liquid fuelled Firebox
+lostera.quest2736.name=Liquid fuelled Firebox
 lostera.quest2736.desc=The Liquid fuelled Firebox will allow a boiler to be run off of liquid fuels, such as Fuel. %n%n%n§l§r§n§6The size of the boilers will affect the size of the Firebox:§r%n%n-A 1×1 Firebox can only handle a single cubic meter tank. %n-The 2×2 can handle 8 or 12 cubic meters of Boiler Tank. %n-The massive 3×3 can handle 18, 27, or 36 cubic meters of Boiler Tank.
 
 # Quest.2737 - High Pressure Boiler Tank
