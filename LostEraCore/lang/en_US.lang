@@ -5120,27 +5120,27 @@ lostera.quest1269.desc=The Molecular Assembler automates the assembly of items a
 
 # Quest.1270 - Crafting Co-Processing Unit
 lostera.quest1270.name=Crafting Co-Processing Unit
-lostera.quest1270.desc=§8Component of the Crafting CPU§r%n%nCrafting Co-Processing Unit increase the number of tasks the crafting CPU can perform at once, enabling the simultaneous usage of additional §bMolecular Assemblers§r.%n%nThis can be used to make more assemblers active in parallel for the job, and thus increase overall crafting speed. 
+lostera.quest1270.desc=The Crafting Co-Processing Unit increases the max number of concurrent tasks a crafting CPU can perform at once:%n%n§dCrafting Co-Processor: §r2%n§dQuad Crafting Co-Processor:§r 4%n§d16 Crafting Co-Processor:§r 16%n%nThis can be used to make more assemblers active in parallel for the job, and thus increase overall crafting speed.
 
 # Quest.1271 - 1k Crafting Storage
 lostera.quest1271.name=1k Crafting Storage
-lostera.quest1271.desc=§8Required Component of the Crafting CPU%n§r%n1k Crafting Storage provides §61,024 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
+lostera.quest1271.desc=The 1k Crafting Storage provides §61,024 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
 
 # Quest.1272 - Crafting Monitor
 lostera.quest1272.name=Crafting Monitor
-lostera.quest1272.desc=§8Component of the Crafting CPU%n§r%nCrafting Monitor displays the top level job and its current progress so you can monitor at a glance how your crafting jobs are progressing.
+lostera.quest1272.desc=The Crafting Monitor displays the top level job and its current progress so you can monitor at a glance how your crafting jobs are progressing.
 
 # Quest.1273 - 4k Crafting Storage
 lostera.quest1273.name=4k Crafting Storage
-lostera.quest1273.desc=§8Required Component of the Crafting CPU%n§r%n4k Crafting Storage provides §e4,096 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
+lostera.quest1273.desc=The 4k Crafting Storage provides §e4,096 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
 
 # Quest.1274 - 16k Crafting Storage
 lostera.quest1274.name=16k Crafting Storage
-lostera.quest1274.desc=§8Required Component of the Crafting CPU%n§r%n16k Crafting Storage provides §a16,384 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
+lostera.quest1274.desc=The 16k Crafting Storage provides §a16,384 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
 
 # Quest.1275 - 64k Crafting Storage
 lostera.quest1275.name=64k Crafting Storage
-lostera.quest1275.desc=§8Required Component of the Crafting CPU%n§r%n64k Crafting Storage provides §b65,536 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
+lostera.quest1275.desc=The 64k Crafting Storage provides §b65,536 bytes§r of storage for crafting.%n%nThis provides the storage memory necessary for multiple simultaneous crafting orders.
 
 # Quest.1276 - Crafting CPU
 lostera.quest1276.name=Crafting CPU
