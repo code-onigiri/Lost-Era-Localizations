@@ -178,7 +178,7 @@ lostera.quest33.desc=The Infusion of Otherwhere, infuses the power of the End in
 
 # Quest.34 - A Vessel for Recollection
 lostera.quest34.name=A Vessel for Recollection
-lostera.quest34.desc=Upon vanquishing the residual consciousness of the unknown scholar you are overwhelmed with information, perhaps memories of days past? %n%nHowever all this information is all too much and too convoluted, barely accessible in the first place!%n%nThe first step is to always transfer the burden of knowledge into something other than one's brain.%n%nA book would be most ideal but your memories showed that only the entirely §6Bookshelf§r could contain such vast knowledge §8(and even then only barely)§r. 
+lostera.quest34.desc=Upon vanquishing the residual consciousness of the unknown scholar you are overwhelmed with information, perhaps memories of days past? %n%nHowever all this information is all too much and too convoluted, barely accessible in the first place!%n%nThe first step is to always transfer the burden of knowledge into something other than one's brain.%n%nA book would be most ideal but your memories showed that only an entire §6Bookshelf§r could contain such vast knowledge §8(and even then only barely)§r. 
 
 # Quest.35 - §5¬§r The Tome of Miracles
 lostera.quest35.name=§5¬§r The Tome of Miracles
@@ -12542,7 +12542,7 @@ lostera.quest3125.desc=The Trapdoors are a §6Mechanism Component§r.%n%nMost Tr
 
 # Quest.3126 - Guards! Guards!
 lostera.quest3126.name=Guards! Guards!
-lostera.quest3126.desc=Golems are the perfect servants to keep out unwanted intruders in your property.%n%nThese will target any hostile creatures in the vicinity and fight them for you.%n%nThey are given life by assembling their parts in the appropriate pattern and given a §6pumpkin§r head.%n%nGolem's comes in 2 flavours:%n%n§b§lSnow Golem:§r%n%nCheap golems that throws snowballs at enemies.%nThese are quite delicate at §c4 hearts§r and are susceptible to melting from heat and rain.%n%nMade out of §bsnow blocks§r and a §6pumpkin§r:%n§6▉§b%n▉%n▉§r%n%n%n§9§lIron Golem:§r%n%nSturdy golems deals significant damage and sends enemies flying.%nWhile being very resilient at §c50 hearts§r, they can also be healed using iron ingots§8 (heals for 12.5 hearts)§r.%n%nMade out of §9iron blocks§r and a §6pumpkin§r:%n§6  ▉§9%n▉▉▉%n  ▉ 
+lostera.quest3126.desc=Golems are the perfect servants to keep out unwanted intruders in your property.%n%nThese will target any hostile creatures in the vicinity and fight them for you.%n%nThey are given life by assembling their parts in the appropriate pattern and given a §6pumpkin§r head.%n%nGolems comes in 2 flavours:%n%n§b§lSnow Golem:§r%n%nCheap golems that throws snowballs at enemies.%nThese are quite delicate at §c4 hearts§r and are susceptible to melting from heat and rain.%n%nMade out of §bsnow blocks§r and a §6pumpkin§r:%n§6▉§b%n▉%n▉§r%n%n%n§9§lIron Golem:§r%n%nSturdy golems deals significant damage and sends enemies flying.%nWhile being very resilient at §c50 hearts§r, they can also be healed using iron ingots§8 (heals for 12.5 hearts)§r.%n%nMade out of §9iron blocks§r and a §6pumpkin§r:%n§6  ▉§9%n▉▉▉%n  ▉ 
 
 # Quest.3127 - §6¬§r Forged in Fire
 lostera.quest3127.name=§6¬§r Forged in Fire
