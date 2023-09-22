@@ -5685,9 +5685,9 @@ lostera.quest1410.desc=Brass Item Pipes are used to transport items.%n%nThese co
 lostera.quest1411.name=Electrum Item Pipe
 lostera.quest1411.desc=Electrum Item Pipes are used to transport items.%n%nThese come in 2 sizes:%n%n§c§nSmall§r%n%nTransfer speed: §62 Stack per second%n%n§9§nLarge§r%n%nTransfer speed: §64 Stack per second%n%n§8%n1 second = 20 ticks
 
-# Quest.1412 - Platinum Item Pipes
-lostera.quest1412.name=Platinum Item Pipes
-lostera.quest1412.desc=Platinum Item Pipes are used to transport items.%n%nThese come in 2 sizes:%n%n§c§nSmall§r%n%nTransfer speed: §64 Stack per second%n%n§9§nLarge§r%n%nTransfer speed: §68 Stack per second%n%n§8%n1 second = 20 ticks
+# Quest.1412 - Cooperite Item Pipes
+lostera.quest1412.name=Cooperite Item Pipes
+lostera.quest1412.desc=Cooperite Item Pipes are used to transport items.%n%nThese come in 2 sizes:%n%n§c§nSmall§r%n%nTransfer speed: §64 Stack per second%n%n§9§nLarge§r%n%nTransfer speed: §68 Stack per second%n%n§8%n1 second = 20 ticks
 
 # Quest.1413 - Mining Multitool
 lostera.quest1413.name=Mining Multitool
