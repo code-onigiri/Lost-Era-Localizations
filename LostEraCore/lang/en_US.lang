@@ -13334,7 +13334,7 @@ lostera.quest3323.desc=HDPE-based blocks are wildly versatile materials for any 
 
 # Quest.3324 - Augment: Trivection Chamber
 lostera.quest3324.name=Augment: Trivection Chamber
-lostera.quest3324.desc=An Augment is used to add functionality to the Redstone Furnace. %n%nThis Augment increases the output of cooked food a Redstone Furnace produces.
+lostera.quest3324.desc=An Augment is used to add functionality to the Redstone Furnace. %n%nThis Augment increases the output of cooked food a Redstone Furnace produces but cannot process anything other than food and will consume §4+50%%§r more energy per operation.
 
 # Quest.3325 - 1. Capacity
 lostera.quest3325.name=1. Capacity
