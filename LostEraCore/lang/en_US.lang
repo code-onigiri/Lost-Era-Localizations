@@ -4804,35 +4804,35 @@ lostera.quest1190.desc=The Crop-Matron is a tier 1 machine that will monitor Cro
 
 # Quest.1191 - Crop Sticks
 lostera.quest1191.name=Crop Sticks
-lostera.quest1191.desc=Crop Sticks provide strategical support for crops and are fashioned using 4 §cImpregnated Sticks§r. \n\nPlace them on farmland before planting your seeds. \n\nMatured crops can be harvested by right-clicking on their Crop Stick to collect produce\n\nYou can pick crops instead by left-click to also obtain seeds.\n§8Seeds obtained from Crop Sticks can only be planted on Crop Sticks.§r\n\nThe chance of obtaining seeds depends on 2 factors:\n\n§d§nTier:§r\nAs the tier increases, the likelihood of getting seeds decreases.\n\n§6§nMaturity:§r \nAs the crop grows so does the chance of recovering the original seed.\nAdditional seeds can only be obtained on maturity.
+lostera.quest1191.desc=Crop Sticks provide strategical support for crops and are fashioned using 4 §cImpregnated Sticks§r. %n%nPlace them on farmland before planting your seeds. %n%nMatured crops can be harvested by right-clicking on their Crop Stick to collect produce%n%nYou can pick crops instead by left-click to also obtain seeds.%n§8Seeds obtained from Crop Sticks can only be planted on Crop Sticks.§r%n%nThe chance of obtaining seeds depends on 2 factors:%n%n§d§nTier:§r%nAs the tier increases, the likelihood of getting seeds decreases.%n%n§6§nMaturity:§r %nAs the crop grows so does the chance of recovering the original seed.%nAdditional seeds can only be obtained on maturity.
 
 # Quest.1192 - Cross Breeding
 lostera.quest1192.name=Cross Breeding
-lostera.quest1192.desc=Crop sticks can also provide a special way to make more plants.\n\nWhen you put one crop stick on top of another, it becomes a §cCross Stick§r. \nThis allows different plants to mix their genes, like a plant matchmaking service.\n\nIf there are at least two fully grown plants nearby, the Cross Stick might grow into a new plant, born from its §aneighboring parents§r:\n\n  §a▉\n▉§c▉§a▉\n  ▉§r\n\nThe genes that get passed on are picked randomly from all the parents, and occasionally, there are tiny differences due to genetic variation.\n\nThese changes mainly influence the plant's stats, like how fast it grows or how much it produces but sometimes, mutations can create entirely new and unique plants.
+lostera.quest1192.desc=Crop sticks can also provide a special way to make more plants.%n%nWhen you put one crop stick on top of another, it becomes a §cCross Stick§r. %nThis allows different plants to mix their genes, like a plant matchmaking service.%n%nIf there are at least two fully grown plants nearby, the Cross Stick might grow into a new plant, born from its §aneighboring parents§r:%n%n  §a▉%n▉§c▉§a▉%n  ▉§r%n%nThe genes that get passed on are picked randomly from all the parents, and occasionally, there are tiny differences due to genetic variation.%n%nThese changes mainly influence the plant's stats, like how fast it grows or how much it produces but sometimes, mutations can create entirely new and unique plants.
 
 # Quest.1193 - Growth Environment
 lostera.quest1193.name=Growth Environment
-lostera.quest1193.desc=The environment significantly influences crop growth speeds. \nIt can either enhance their growth or hinder it, and under unfavorable conditions, it might be just enough to kill them.\n\nThree factors quantify the environmental quality for crops:\n\n§2§lEnvironment Score§r = 5 x (§bHumidity§r + §dSoil Nutrition§r + §eAir Quality§r)\n\nEach crop has its own basic requirements, determined by their tier and stats:\n\n§4§lCrop Requirements§r = 4 x (§cTier§r - 1) + (§aGrowth§r + §6Gain§r + §3Resistance§r)\n\nWhen the Environment Score exceeds this threshold, it accelerates the crop's growth, but if it falls short, it slows down the process.\n\nFor every point the Environmental Score surpasses the Crop Requirements, its growth rate is boosted by §2+1%%§r.\n\nElse there is a §4-4%%§r penalty for every point the Environmental Score falls short of.\n\nShould this penalty reach §4-100%%§r or beyond, there's a chance the crop will wither and die.
+lostera.quest1193.desc=The environment significantly influences crop growth speeds. %nIt can either enhance their growth or hinder it, and under unfavorable conditions, it might be just enough to kill them.%n%nThree factors quantify the environmental quality for crops:%n%n§2§lEnvironment Score§r = 5 x (§bHumidity§r + §dSoil Nutrition§r + §eAir Quality§r)%n%nEach crop has its own basic requirements, determined by their tier and stats:%n%n§4§lCrop Requirements§r = 4 x (§cTier§r - 1) + (§aGrowth§r + §6Gain§r + §3Resistance§r)%n%nWhen the Environment Score exceeds this threshold, it accelerates the crop's growth, but if it falls short, it slows down the process.%n%nFor every point the Environmental Score surpasses the Crop Requirements, its growth rate is boosted by §2+1%%§r.%n%nElse there is a §4-4%%§r penalty for every point the Environmental Score falls short of.%n%nShould this penalty reach §4-100%%§r or beyond, there's a chance the crop will wither and die.
 
 # Quest.1194 - Weeds
 lostera.quest1194.name=Weeds
-lostera.quest1194.desc=Weeds are the uninvited guest to your garden that appear when you expect them the least, in the places you'd want them the least.\n\nThese opportunistic invaders seize any chance to settle in unoccupied Crop Stick§r or Cross Stick§r and leech off your hard work.\n\nEven worse, when mature, §aWeeds§r will overtake §eany adjacent Crop Sticks§r, kicking out your own plants and potentially taking over your entire garden:\n  §e▉\n▉§a▉§e▉\n  ▉§r\n\nTo get rid of them, you have to either remove their Crop Stick or use a §bWeeding Throwel§r.\n\nTo prevent weed trouble keep all your Crop Sticks and Cross Sticks occupied or use §5Weed-Ex§r when that's not an option.
+lostera.quest1194.desc=Weeds are the uninvited guest to your garden that appear when you expect them the least, in the places you'd want them the least.%n%nThese opportunistic invaders seize any chance to settle in unoccupied Crop Stick§r or Cross Stick§r and leech off your hard work.%n%nEven worse, when mature, §aWeeds§r will overtake §eany adjacent Crop Sticks§r, kicking out your own plants and potentially taking over your entire garden:%n  §e▉%n▉§a▉§e▉%n  ▉§r%n%nTo get rid of them, you have to either remove their Crop Stick or use a §bWeeding Throwel§r.%n%nTo prevent weed trouble keep all your Crop Sticks and Cross Sticks occupied or use §5Weed-Ex§r when that's not an option.
 
 # Quest.1195 - Soil Nutrient
 lostera.quest1195.name=Soil Nutrient
-lostera.quest1195.desc=Nutrient is an environmental attribute that measures the abundance and quality of nutrients available within the soil to a crop.\n\nThis attribute is influenced by 2 factors:\n\n§d§lRoot Reach:§r\nEvery additional layer of dirt beneath a §ecrop's soil§r increases Nutrient by §a+1 point§r §8(up to a maximum of four layers)§r:\n  §e| |\n  ▉§a\n  ▉ +1\n  ▉ +1\n  ▉ +1\n  ▉ +1§8\n  ▉\n\n§9§lBiomes:§r\nThe type of biome a crop is planted on has the most substantial impact on Nutrient values based on their soil content: \n\nJungle or Swamp: §a+10 points§r\nMushroom or Forest: §a+5 points§r\nRiver: §a+2 points§r\nSavanna: §c-2 points§r\nHills or Mountains: §c-5 points§r\nWasteland: §c-5 points§r\nDead, Nether or End: §c-10 points§r\n\n§8In cases where a biome falls under multiple types, only the highest value is considered.
+lostera.quest1195.desc=Nutrient is an environmental attribute that measures the abundance and quality of nutrients available within the soil to a crop.%n%nThis attribute is influenced by 2 factors:%n%n§d§lRoot Reach:§r%nEvery additional layer of dirt beneath a §ecrop's soil§r increases Nutrient by §a+1 point§r §8(up to a maximum of four layers)§r:%n  §e| |%n  ▉§a%n  ▉ +1%n  ▉ +1%n  ▉ +1%n  ▉ +1§8%n  ▉%n%n§9§lBiomes:§r%nThe type of biome a crop is planted on has the most substantial impact on Nutrient values based on their soil content: %n%nJungle or Swamp: §a+10 points§r%nMushroom or Forest: §a+5 points§r%nRiver: §a+2 points§r%nSavanna: §c-2 points§r%nHills or Mountains: §c-5 points§r%nWasteland: §c-5 points§r%nDead, Nether or End: §c-10 points§r%n%n§8In cases where a biome falls under multiple types, only the highest value is considered.
 
 # Quest.1196 - Humidity
 lostera.quest1196.name=Humidity
-lostera.quest1196.desc=Humidity is an environmental attribute that quantifies the amount of available water for a crop.\n\nThis attribute is influenced by 2 factors:\n\n§6§lFarmland:§r\nWhen farmland is placed near a water source, it becomes hydrated farmland, providing §b+2 points§r of humidity.\n\n§9§lBiomes:§r\nThe type of biome a crop is planted on has the most substantial impact on humidity values based on their moisture content: \n\nWet, Jungle, Ocean, Water or Swamp: §b+10 points§r\nRiver§r: §b+9 points§r\nMushroom: §b+8 points§r\nConiferous, Spooky, or Lush: §b+7 points§r\nMagical, Forest or Beach: §b+6 points§r\nMountain: §b+5 points§r\nHills: §b+ 4 points§r\nHot, Cold, Sparse, Savanna, Sandy, Snowy, Wasteland, Dead, or Mesa: §c-5 points§r\nDry, Nether or End: §c-10 points§r\n\n§8In cases where a biome falls under multiple types, only the highest value is considered.
+lostera.quest1196.desc=Humidity is an environmental attribute that quantifies the amount of available water for a crop.%n%nThis attribute is influenced by 2 factors:%n%n§6§lFarmland:§r%nWhen farmland is placed near a water source, it becomes hydrated farmland, providing §b+2 points§r of humidity.%n%n§9§lBiomes:§r%nThe type of biome a crop is planted on has the most substantial impact on humidity values based on their moisture content: %n%nWet, Jungle, Ocean, Water or Swamp: §b+10 points§r%nRiver§r: §b+9 points§r%nMushroom: §b+8 points§r%nConiferous, Spooky, or Lush: §b+7 points§r%nMagical, Forest or Beach: §b+6 points§r%nMountain: §b+5 points§r%nHills: §b+ 4 points§r%nHot, Cold, Sparse, Savanna, Sandy, Snowy, Wasteland, Dead, or Mesa: §c-5 points§r%nDry, Nether or End: §c-10 points§r%n%n§8In cases where a biome falls under multiple types, only the highest value is considered.
 
 # Quest.1197 - Weed-EX
 lostera.quest1197.name=Weed-EX
-lostera.quest1197.desc=Weed-EX is your guardian against those pesky garden invaders. \n\nWhen you apply it to your Crop Sticks, it prevents weeds from growing and ensures your crops won't have any weed troubles.\n\nThis protection weakens with time, especially when crops are actively under attack by weeds.\n\nCropsticks can hold up to 2 rounds of Weed-EX treatment.
+lostera.quest1197.desc=Weed-EX is your guardian against those pesky garden invaders. %n%nWhen you apply it to your Crop Sticks, it prevents weeds from growing and ensures your crops won't have any weed troubles.%n%nThis protection weakens with time, especially when crops are actively under attack by weeds.%n%nCropsticks can hold up to 2 rounds of Weed-EX treatment.
 
 # Quest.1198 - Mutations
 lostera.quest1198.name=Mutations
-lostera.quest1198.desc=Mutation breeding is a practice of breeding crops to obtain new unique plants different from all of its parents.\n\nThe chances of successfully breeding a mutation is based on the parent's Attributes and Tiers, which can be observed using a §bPlant Lense§r:\n\n§6§lAttributes:§r\nShared attributes between parents and the target mutation will increase the chance of success while mismatch reduces it.\n\nParents also contribute a huge chance for the offspring to be the same species.\n\n§d§lTier:§r\nThe range of tiers a mutation can emerge in an offspring in is between §a+1§r tier higher than the highest-tier parent and §4-1§r tier lower than the lowest-tier parent.\n\nIn simple terms, if you're breeding two plants of tier 4 and 5, the potential mutations will be anywhere from tier 3 to tier 6.\n\n\n§lThis quest unlocks "Field Researcher".
+lostera.quest1198.desc=Mutation breeding is a practice of breeding crops to obtain new unique plants different from all of its parents.%n%nThe chances of successfully breeding a mutation is based on the parent's Attributes and Tiers, which can be observed using a §bPlant Lense§r:%n%n§6§lAttributes:§r%nShared attributes between parents and the target mutation will increase the chance of success while mismatch reduces it.%n%nParents also contribute a huge chance for the offspring to be the same species.%n%n§d§lTier:§r%nThe range of tiers a mutation can emerge in an offspring in is between §a+1§r tier higher than the highest-tier parent and §4-1§r tier lower than the lowest-tier parent.%n%nIn simple terms, if you're breeding two plants of tier 4 and 5, the potential mutations will be anywhere from tier 3 to tier 6.%n%n%n§lThis quest unlocks "Field Researcher".
 
 # Quest.1199 - Crop Harvester
 lostera.quest1199.name=Crop Harvester
@@ -8595,7 +8595,7 @@ lostera.quest2138.desc=§6§lScientific Name:§r §o Metalliapis Aluminium%n§9�
 
 # Quest.2139 - Feral Crops
 lostera.quest2139.name=Feral Crops
-lostera.quest2139.desc=You've found yourself into a tricky situation from delving too deeply into genetic breeding as some mutated crops begin exhibiting dangerous weed-like behaviours.\n\n§dTo Weed-EX or not Weed-EX?§r\n\nSuch highly mutated crops can safely handle a single dose of Weed-EX.\n\nIn small quantities it won't harm them, but it's still very effective against actual weeds.\n\n§nHowever, with a high enough dosage it will cause real harm because crops that act like weeds are still considered a threat.\n\n§8One dose gives you 50 units, and if you stay under 75 units, your crops will be fine.§r\n\nUsing higher than recommended amounts has a chance of damaging your crop upon application, causing one of the crop's stats to §4drop by 1 point§r.\n\n§8You've got a 20%% chance of damage on manual application or a 33%% chance with the Crop-Matron.\n\nAny seeds or crossbred offspring produced by this crop will not be affected, and will simply inherit the newly reduced stat value.
+lostera.quest2139.desc=You've found yourself into a tricky situation from delving too deeply into genetic breeding as some mutated crops begin exhibiting dangerous weed-like behaviours.%n%n§dTo Weed-EX or not Weed-EX?§r%n%nSuch highly mutated crops can safely handle a single dose of Weed-EX.%n%nIn small quantities it won't harm them, but it's still very effective against actual weeds.%n%n§nHowever, with a high enough dosage it will cause real harm because crops that act like weeds are still considered a threat.%n%n§8One dose gives you 50 units, and if you stay under 75 units, your crops will be fine.§r%n%nUsing higher than recommended amounts has a chance of damaging your crop upon application, causing one of the crop's stats to §4drop by 1 point§r.%n%n§8You've got a 20%% chance of damage on manual application or a 33%% chance with the Crop-Matron.%n%nAny seeds or crossbred offspring produced by this crop will not be affected, and will simply inherit the newly reduced stat value.
 
 # Quest.2140 - Cobalt Bee
 lostera.quest2140.name=Cobalt Bee
@@ -12070,7 +12070,7 @@ lostera.quest3007.desc=§rThe Cocoa Plantation will harvest mature Cocoa Beans f
 
 # Quest.3008 - Size Matters...
 lostera.quest3008.name=Size Matters...
-lostera.quest3008.desc=The Multifarm is only the machine and in order to fulfil its purpose it will need a designated surface to grow your crops.\n\nThis needs to be made out of the same base material used for creating your Farm Blocks.\n\nThe platform itself needs to be either below or in the same level of any of its farm blocks but never above:\n\n§l |  | §a --§r§l|  |§a--§r §c-----§r\n§l |  |§r§a    §l §l§r§l§l§l|  |    §r §l|  |\n§a----            §r§l  |  |\n\n§rThe Platform needs to be diamond shaped with the Multifarm at the center of it. \n\nThe radius of platform §o§7§o(distance from the side of the farm to the end of the platform)§r will depend on the size of the multifarm:\n\nSmall§7§o(3x3x4)§r: §67 Radius§r\nMedium §o§7§o(3x4x4 to 4x4x4)§r: §69 Radius§r\nLarge §7§o(3x5x4 to 5x5x4)§r: §611 Radius§r\n\n..... = Platform\n§6.§r   = Radius §7§o(7 Blocks in this case)§r\n§5∎§r  = Multifarm\n   ...§6§.§r§6..§r....\n ...::::§6::§r:::::..\n:::::::§5∎∎∎§r:::::::\n§6:::::::§5∎∎∎§6:::::::§r\n:::::::§5∎∎∎§r:::::::\n ˙˙˙::::§6::§r::::˙˙˙\n   ˙˙˙§6˙˙§r˙˙˙
+lostera.quest3008.desc=The Multifarm is only the machine and in order to fulfil its purpose it will need a designated surface to grow your crops.%n%nThis needs to be made out of the same base material used for creating your Farm Blocks.%n%nThe platform itself needs to be either below or in the same level of any of its farm blocks but never above:%n%n§l |  | §a --§r§l|  |§a--§r §c-----§r%n§l |  |§r§a    §l §l§r§l§l§l|  |    §r §l|  |%n§a----            §r§l  |  |%n%n§rThe Platform needs to be diamond shaped with the Multifarm at the center of it. %n%nThe radius of platform §o§7§o(distance from the side of the farm to the end of the platform)§r will depend on the size of the multifarm:%n%nSmall§7§o(3x3x4)§r: §67 Radius§r%nMedium §o§7§o(3x4x4 to 4x4x4)§r: §69 Radius§r%nLarge §7§o(3x5x4 to 5x5x4)§r: §611 Radius§r%n%n..... = Platform%n§6.§r   = Radius §7§o(7 Blocks in this case)§r%n§5∎§r  = Multifarm%n   ...§6§.§r§6..§r....%n ...::::§6::§r:::::..%n:::::::§5∎∎∎§r:::::::%n§6:::::::§5∎∎∎§6:::::::§r%n:::::::§5∎∎∎§r:::::::%n ˙˙˙::::§6::§r::::˙˙˙%n   ˙˙˙§6˙˙§r˙˙˙
 
 # Quest.3009 - Crate
 lostera.quest3009.name=Crate
@@ -13658,23 +13658,23 @@ lostera.quest3404.desc=The Void Storage Cell is used to permanently dispose of u
 
 # Quest.3405 - Light
 lostera.quest3405.name=Light
-lostera.quest3405.desc=Light Level doesn't have an impact on environmental stats or plant growth speed, but it's important to note thatsome crop species have varying light level requirements to grow. \n\nHere are some key categories for light levels:\n\n§7§lDark:§r Light levels between 5 and 9\n§lDim:§r Light levels between 9 and 12\n§e§lBright:§r Light levels of 12+\n\nWhile most crops will thrive at anything above Dim light levels, there are exceptions.\n\nFor example most flowers will typically need Bright light levels to grow.
+lostera.quest3405.desc=Light Level doesn't have an impact on environmental stats or plant growth speed, but it's important to note thatsome crop species have varying light level requirements to grow. %n%nHere are some key categories for light levels:%n%n§7§lDark:§r Light levels between 5 and 9%n§lDim:§r Light levels between 9 and 12%n§e§lBright:§r Light levels of 12+%n%nWhile most crops will thrive at anything above Dim light levels, there are exceptions.%n%nFor example most flowers will typically need Bright light levels to grow.
 
 # Quest.3406 - Crop Stats
 lostera.quest3406.name=Crop Stats
-lostera.quest3406.desc=Each crop has three genetic traits that determine their performance. \nYou can analyze these stats by using the §5Cropnalyzer§r on a crop's seed.\n\nUndomesticated crops usually start with the lowest possible stats. \n\nBut don't worry!\nYou can change these stats by crossbreeding. \n\nBy carefully crossbreeding your best crops and with a bit of luck in the genetic mutation department, you will improve your crop's traits more and more.
+lostera.quest3406.desc=Each crop has three genetic traits that determine their performance. %nYou can analyze these stats by using the §5Cropnalyzer§r on a crop's seed.%n%nUndomesticated crops usually start with the lowest possible stats. %n%nBut don't worry!%nYou can change these stats by crossbreeding. %n%nBy carefully crossbreeding your best crops and with a bit of luck in the genetic mutation department, you will improve your crop's traits more and more.
 
 # Quest.3407 - §6Gain
 lostera.quest3407.name=§6Gain
-lostera.quest3407.desc=The Gain stat (§6Ga§r) is responsible for how much a crop can produce. \n\nWhen this stat is higher, the crop tends to yield more produce on average.\n\nFor each point of Gain, increases the base output by §a+3%%§r and increases the chances for additional bonus output by §a+1%%§r.\n\nThis is particularly valuable with high-tier crops because each tier reduces base output by §4-5%%§r*.\n\n§c§nPushing this stat to 24 and beyond, gradually impairs the crop's ability to produce new additional seeds.§r\n\n§8Each point beyond this threshhold decreases the crop's chance at producing new seeds by 5%%.§r\n\nIn other words, while it may yield more, its seed production decreases as a trade-off.\n\n\n§8* Formula for base output (subject to random variance):\n\nBase Output = 0.95^Tier * 1.03^Ga\n
+lostera.quest3407.desc=The Gain stat (§6Ga§r) is responsible for how much a crop can produce. %n%nWhen this stat is higher, the crop tends to yield more produce on average.%n%nFor each point of Gain, increases the base output by §a+3%%§r and increases the chances for additional bonus output by §a+1%%§r.%n%nThis is particularly valuable with high-tier crops because each tier reduces base output by §4-5%%§r*.%n%n§c§nPushing this stat to 24 and beyond, gradually impairs the crop's ability to produce new additional seeds.§r%n%n§8Each point beyond this threshhold decreases the crop's chance at producing new seeds by 5%%.§r%n%nIn other words, while it may yield more, its seed production decreases as a trade-off.%n%n%n§8* Formula for base output (subject to random variance):%n%nBase Output = 0.95^Tier * 1.03^Ga%n
 
 # Quest.3408 - §2Growth
 lostera.quest3408.name=§2Growth
-lostera.quest3408.desc=The Growth stat (§2Gr§r) controls how fast a crop grows. \n\nThis stat significantly accelerates the crop's natural growth*.\n\nIt also boosts the chance of obtaining new additional seeds when picking the crop fully mature §8(1%% chance per point)§r*.\n\nIncreasing this stat to 16 or higher will also make it more efficient at cross-breeding with other crops, allowing it to do so more rapidly.\n\n§4§nBeware that by pushing this stat to 24 and beyond will cause crops to begin express weed-like behaviours:§r\n\nOnce these crops have grown beyond their first growth stage, they will begin infesting nearby Crop Sticks with weeds, behaving exactly like fully grown weeds but also becoming immune to weed infestations themselves.\n\n\n§8* The growth speed is determined by this formula:\n\nGrowth Speed = Natural Growth x Environmental Modifier x Gr\n§oNatural growth is a random number between 3 and 6.\n\n\n* §lAdditional Seeds Chance§8 = Growth Stage Chance + Gr/100\n\nGrowth Stage Chance:\nStage 1 = 0%%, Stage 2 = 25%%, Stage 3+ = 50%%\n
+lostera.quest3408.desc=The Growth stat (§2Gr§r) controls how fast a crop grows. %n%nThis stat significantly accelerates the crop's natural growth*.%n%nIt also boosts the chance of obtaining new additional seeds when picking the crop fully mature §8(1%% chance per point)§r*.%n%nIncreasing this stat to 16 or higher will also make it more efficient at cross-breeding with other crops, allowing it to do so more rapidly.%n%n§4§nBeware that by pushing this stat to 24 and beyond will cause crops to begin express weed-like behaviours:§r%n%nOnce these crops have grown beyond their first growth stage, they will begin infesting nearby Crop Sticks with weeds, behaving exactly like fully grown weeds but also becoming immune to weed infestations themselves.%n%n%n§8* The growth speed is determined by this formula:%n%nGrowth Speed = Natural Growth x Environmental Modifier x Gr%n§oNatural growth is a random number between 3 and 6.%n%n%n* §lAdditional Seeds Chance§8 = Growth Stage Chance + Gr/100%n%nGrowth Stage Chance:%nStage 1 = 0%%, Stage 2 = 25%%, Stage 3+ = 50%%%n
 
 # Quest.3409 - §3Resistance
 lostera.quest3409.name=§3Resistance
-lostera.quest3409.desc=The Resistance stat (§3Re§r) determines how well a crop can withstand threats such as infestation, extinction and death.\n\nWhen this stat is higher, the crop exhibits several positive traits:\n\n- Greater at recovering the crop's original seed when picked §8(10%% bonus per point)*§r\n- Increased resistance to weed infestations and trampling\n- Reduced risk of death by hostile environments\n\n§c§nIncreasing this stat to 28 or higher inhibits its effectiveness in cross-breeding with other crops, making it do so more slowly.§r\n\nThis occurs because its heightened resistance to threats interferes with its capacity to interact with other crops effectively.\n\n§8Its genes will pass on just like any other parent, it will simply take longer for the the offspring to sprout on the Cross Stick.\n\n\n* The math for the seed recovery chance depends growth stage, tier and maturity:\n\n-Growth Stage Chance:\nStage 1 = 0%%, Stage 2 = 25%%, Stage 3+ = 50%%\n\n-Tier Reduction:\nFor each tier, the chance is reduced by 80%%.\n\n§nBase Recovery§8 = Growth Stage Chance * (0.8^Tier) * (1.1^Re)\n\n-Maturity Impact: \nThe success rate is influenced by the crop's maturity (ripe to harvest).\n\n§nPremature Recovery Chance§8 = Base Recovery * 1.5\n§nMature Recovery Chance§8 = (Base Recovery + 1) * 0.8
+lostera.quest3409.desc=The Resistance stat (§3Re§r) determines how well a crop can withstand threats such as infestation, extinction and death.%n%nWhen this stat is higher, the crop exhibits several positive traits:%n%n- Greater at recovering the crop's original seed when picked §8(10%% bonus per point)*§r%n- Increased resistance to weed infestations and trampling%n- Reduced risk of death by hostile environments%n%n§c§nIncreasing this stat to 28 or higher inhibits its effectiveness in cross-breeding with other crops, making it do so more slowly.§r%n%nThis occurs because its heightened resistance to threats interferes with its capacity to interact with other crops effectively.%n%n§8Its genes will pass on just like any other parent, it will simply take longer for the the offspring to sprout on the Cross Stick.%n%n%n* The math for the seed recovery chance depends growth stage, tier and maturity:%n%n-Growth Stage Chance:%nStage 1 = 0%%, Stage 2 = 25%%, Stage 3+ = 50%%%n%n-Tier Reduction:%nFor each tier, the chance is reduced by 80%%.%n%n§nBase Recovery§8 = Growth Stage Chance * (0.8^Tier) * (1.1^Re)%n%n-Maturity Impact: %nThe success rate is influenced by the crop's maturity (ripe to harvest).%n%n§nPremature Recovery Chance§8 = Base Recovery * 1.5%n§nMature Recovery Chance§8 = (Base Recovery + 1) * 0.8
 
 # Quest.3410 - Tier 1 Crops Discovered:
 lostera.quest3410.name=Tier 1 Crops Discovered:
@@ -13710,403 +13710,403 @@ lostera.quest3417.desc=You have completed the index of all Tier 8+ Crops!
 
 # Quest.3418 - Green Glowshoom
 lostera.quest3418.name=Green Glowshoom
-lostera.quest3418.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Green Glowshroom\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3418.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Green Glowshroom%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3419 - Blue Glowshoom
 lostera.quest3419.name=Blue Glowshoom
-lostera.quest3419.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Blue Glowshroom\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3419.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Blue Glowshroom%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3420 - Purple Glowshoom
 lostera.quest3420.name=Purple Glowshoom
-lostera.quest3420.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Purple Glowshroom\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3420.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Purple Glowshroom%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3421 - Eyebulb
 lostera.quest3421.name=Eyebulb
-lostera.quest3421.desc=§6§lAttributes:§r Nether / Evil / Bad\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Eyebulb\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3421.desc=§6§lAttributes:§r Nether / Evil / Bad%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Eyebulb%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3422 - Tier 0: Weed
 lostera.quest3422.name=Tier 0: Weed
-lostera.quest3422.desc=§6§lAttributes:§r Weed / Bad\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Weed\n\n§lNotes:§r\nWhen mature: infests neighboring crops, reverts Farmland to Grass and spreads Grass.\n\nCan only be harvested with Weeding Trowel.\n\n§7§lTier:§r 0 §7(Junk)
+lostera.quest3422.desc=§6§lAttributes:§r Weed / Bad%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Weed%n%n§lNotes:§r%nWhen mature: infests neighboring crops, reverts Farmland to Grass and spreads Grass.%n%nCan only be harvested with Weeding Trowel.%n%n§7§lTier:§r 0 §7(Junk)
 
 # Quest.3423 - Wolfsbane
 lostera.quest3423.name=Wolfsbane
-lostera.quest3423.desc=§6§lAttributes:§r Flower / Toxic / Purple / Ingredient\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Wolfsbane\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3423.desc=§6§lAttributes:§r Flower / Toxic / Purple / Ingredient%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Wolfsbane%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3424 - Berry
 lostera.quest3424.name=Berry
-lostera.quest3424.desc=§6§lAttributes:§r Berry / Food / Red / Ingredient\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Berry\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3424.desc=§6§lAttributes:§r Berry / Food / Red / Ingredient%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Berry%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3425 - Stickreed
 lostera.quest3425.name=Stickreed
-lostera.quest3425.desc=§6§lAttributes:§r Reed / Resin\n§a§lDiscoverer:§r raa1337\n\n§d§lDrops:§r Sugar Cane & Sticky Resin\n\n§lNotes:§r\nDrops Sticky Resin when fully mature.\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3425.desc=§6§lAttributes:§r Reed / Resin%n§a§lDiscoverer:§r raa1337%n%n§d§lDrops:§r Sugar Cane & Sticky Resin%n%n§lNotes:§r%nDrops Sticky Resin when fully mature.%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3426 - Sugar Beet
 lostera.quest3426.name=Sugar Beet
-lostera.quest3426.desc=§6§lAttributes:§r Food / White / Ingredient\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Sugar Beet\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3426.desc=§6§lAttributes:§r Food / White / Ingredient%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Sugar Beet%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3427 - Terra Wart
 lostera.quest3427.name=Terra Wart
-lostera.quest3427.desc=§6§lAttributes:§r Blue / Aether / Consumable / Snow\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Terra Wart\n\n§lNotes:§r\nGrows faster on snow.\n\nCures negative effect when eaten. \n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3427.desc=§6§lAttributes:§r Blue / Aether / Consumable / Snow%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Terra Wart%n%n§lNotes:§r%nGrows faster on snow.%n%nCures negative effect when eaten. %n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3428 - Skyberry
 lostera.quest3428.name=Skyberry
-lostera.quest3428.desc=§6§lAttributes:§r Berry / Toxic / Bad / Blue / Nether / Addictive\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Skyberry\n\n§\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3428.desc=§6§lAttributes:§r Berry / Toxic / Bad / Blue / Nether / Addictive%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Skyberry%n%n§%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3429 - Dandelion
 lostera.quest3429.name=Dandelion
-lostera.quest3429.desc=§6§lAttributes:§r Yellow / Flower\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Yellow Dye\n\n§lNotes:§r\nRequires a §e§lBright§r environment §8(light level of 12+)§r.\n\n§\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3429.desc=§6§lAttributes:§r Yellow / Flower%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Yellow Dye%n%n§lNotes:§r%nRequires a §e§lBright§r environment §8(light level of 12+)§r.%n%n§%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3430 - Barley
 lostera.quest3430.name=Barley
-lostera.quest3430.desc=§6§lAttributes:§r Green / Food / Wheat\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Barley\n\n§\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3430.desc=§6§lAttributes:§r Green / Food / Wheat%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Barley%n%n§%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3431 - Magic Metal
 lostera.quest3431.name=Magic Metal
-lostera.quest3431.desc=§6§lAttributes:§r OreBerry / Magic / Metal / Thaumium / Void\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Thaumium or Void Nugget (depending on block used to mature)\n\n§lNotes:§r\nRequires Thaumium or Void metal directly below its soil to mature.\n\nRequires a §7§lDark§r environment §8(light level between 5 and 9)§r.\n\n\n§7§lTier:§r 7 §d(Epic)
+lostera.quest3431.desc=§6§lAttributes:§r OreBerry / Magic / Metal / Thaumium / Void%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Thaumium or Void Nugget (depending on block used to mature)%n%n§lNotes:§r%nRequires Thaumium or Void metal directly below its soil to mature.%n%nRequires a §7§lDark§r environment §8(light level between 5 and 9)§r.%n%n%n§7§lTier:§r 7 §d(Epic)
 
 # Quest.3432 - Glowflower
 lostera.quest3432.name=Glowflower
-lostera.quest3432.desc=§6§lAttributes:§r Nether / Light / Shiny\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Glowflower\n\n§lNotes:§r\nYields more when glowstone is placed directly below its soil.\n§\nEmits light when mature.\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3432.desc=§6§lAttributes:§r Nether / Light / Shiny%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Glowflower%n%n§lNotes:§r%nYields more when glowstone is placed directly below its soil.%n§%nEmits light when mature.%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3433 - Melon
 lostera.quest3433.name=Melon
-lostera.quest3433.desc=§6§lAttributes:§r Green / Food / Stem\n§a§lDiscoverer:§r Chao\n\n§d§lDrops:§r Melon\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3433.desc=§6§lAttributes:§r Green / Food / Stem%n§a§lDiscoverer:§r Chao%n%n§d§lDrops:§r Melon%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3434 - Stingberry
 lostera.quest3434.name=Stingberry
-lostera.quest3434.desc=§6§lAttributes:§r Berry / Toxic / Bad / Green / Nether / Addictive\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Stingberry\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3434.desc=§6§lAttributes:§r Berry / Toxic / Bad / Green / Nether / Addictive%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Stingberry%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3435 - Belladonna
 lostera.quest3435.name=Belladonna
-lostera.quest3435.desc=§6§lAttributes:§r Purple / Flower / Toxic / Ingredient\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Belladonna Flower\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3435.desc=§6§lAttributes:§r Purple / Flower / Toxic / Ingredient%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Belladonna Flower%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3436 - Raspberry
 lostera.quest3436.name=Raspberry
-lostera.quest3436.desc=§6§lAttributes:§r Berry / Food / Red\n§a§lDiscoverer:§r Ancient cultures\n\n§d§lDrops:§r Raspberry\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3436.desc=§6§lAttributes:§r Berry / Food / Red%n§a§lDiscoverer:§r Ancient cultures%n%n§d§lDrops:§r Raspberry%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3437 - Snowbell
 lostera.quest3437.name=Snowbell
-lostera.quest3437.desc=§6§lAttributes:§r White / Flower / Ice / Toxic / Ingredient\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Icy Needle\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3437.desc=§6§lAttributes:§r White / Flower / Ice / Toxic / Ingredient%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Icy Needle%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3438 - Ember Moss
 lostera.quest3438.name=Ember Moss
-lostera.quest3438.desc=§6§lAttributes:§r Fire / Ingredient / Bad / Climbable\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Ember Moss\n\n\n§7§lTier:§r 7 §d(Epic)
+lostera.quest3438.desc=§6§lAttributes:§r Fire / Ingredient / Bad / Climbable%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Ember Moss%n%n%n§7§lTier:§r 7 §d(Epic)
 
 # Quest.3439 - Maloberry
 lostera.quest3439.name=Maloberry
-lostera.quest3439.desc=§6§lAttributes:§r Berry / Food / Yellow\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Maloberry\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3439.desc=§6§lAttributes:§r Berry / Food / Yellow%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Maloberry%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3440 - Cinder Pearl
 lostera.quest3440.name=Cinder Pearl
-lostera.quest3440.desc=§6§lAttributes:§r Magic / Blaze / Nether\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Cinderpearl\n\n§lNotes:§r\nRequires Blaze Block underneath farm block to fully mature.\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3440.desc=§6§lAttributes:§r Magic / Blaze / Nether%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Cinderpearl%n%n§lNotes:§r%nRequires Blaze Block underneath farm block to fully mature.%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3441 - Pumpkin
 lostera.quest3441.name=Pumpkin
-lostera.quest3441.desc=§6§lAttributes:§r Orange / Decoration / Stem\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Pumpkin\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3441.desc=§6§lAttributes:§r Orange / Decoration / Stem%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Pumpkin%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3442 - Nether Wart
 lostera.quest3442.name=Nether Wart
-lostera.quest3442.desc=§6§lAttributes:§r Red / Nether / Ingredient / Soulsand\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Nether Wart\n\n§lNotes:§r\nGrows faster on Soul Sand.\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3442.desc=§6§lAttributes:§r Red / Nether / Ingredient / Soulsand%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Nether Wart%n%n§lNotes:§r%nGrows faster on Soul Sand.%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3443 - Tulip
 lostera.quest3443.name=Tulip
-lostera.quest3443.desc=§6§lAttributes:§r Purple / Flower / Tulip\n§a§lDiscoverer:§r Alblaka\n\n§d§lDrops:§r Purple Dye\n\n§lNotes:§r\nRequires a §e§lBright§r environment §8(light level of 12+)§r.\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3443.desc=§6§lAttributes:§r Purple / Flower / Tulip%n§a§lDiscoverer:§r Alblaka%n%n§d§lDrops:§r Purple Dye%n%n§lNotes:§r%nRequires a §e§lBright§r environment §8(light level of 12+)§r.%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3444 - Garlic
 lostera.quest3444.name=Garlic
-lostera.quest3444.desc=§6§lAttributes:§r Food / Ingredient / Healing\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Garlic\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3444.desc=§6§lAttributes:§r Food / Ingredient / Healing%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Garlic%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3445 - Water Lily
 lostera.quest3445.name=Water Lily
-lostera.quest3445.desc=§6§lAttributes:§r Blue / Water / Green\n§a§lDiscoverer:§r moronwmachinegun\n\n§d§lDrops:§r Water Lily & Pink Dye\n\n§lNotes:§r\nGrow faster with water beneath its soil.\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3445.desc=§6§lAttributes:§r Blue / Water / Green%n§a§lDiscoverer:§r moronwmachinegun%n%n§d§lDrops:§r Water Lily & Pink Dye%n%n§lNotes:§r%nGrow faster with water beneath its soil.%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3446 - Redwheat
 lostera.quest3446.name=Redwheat
-lostera.quest3446.desc=§6§lAttributes:§r Red / Redstone / Wheat\n§a§lDiscoverer:§r raa1337\n\n§d§lDrops:§r Wheat & Redstone\n\n§lNotes:§r\nSwitches produce from Wheat to Redstone when the soil is powered by a redstone signal.\n\nRequires a §7§lDark§r environment §8(light level between 5 and 9)§r.\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3446.desc=§6§lAttributes:§r Red / Redstone / Wheat%n§a§lDiscoverer:§r raa1337%n%n§d§lDrops:§r Wheat & Redstone%n%n§lNotes:§r%nSwitches produce from Wheat to Redstone when the soil is powered by a redstone signal.%n%nRequires a §7§lDark§r environment §8(light level between 5 and 9)§r.%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3447 - Moss
 lostera.quest3447.name=Moss
-lostera.quest3447.desc=§6§lAttributes:§r Green / Climbable\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Tree Moss\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3447.desc=§6§lAttributes:§r Green / Climbable%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Tree Moss%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3448 - Aurelia
 lostera.quest3448.name=Aurelia
-lostera.quest3448.desc=§6§lAttributes:§r Gold / Leaves / Metal\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Aurelia (Gold Leaves)\n\n§lNotes:§r\nRequires Gold Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 8 §d(Epic)
+lostera.quest3448.desc=§6§lAttributes:§r Gold / Leaves / Metal%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Aurelia (Gold Leaves)%n%n§lNotes:§r%nRequires Gold Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 8 §d(Epic)
 
 # Quest.3449 - Venomilia
 lostera.quest3449.name=Venomilia
-lostera.quest3449.desc=§6§lAttributes:§r Purple / Flower / Tulip / Poison\n§a§lDiscoverer:§r raGan\n\n§d§lDrops:§r Purple Dye & Grin Powder\n\n§lNotes:§r§r\nOn the early blooming phases it is poisonous to the touch but can be harvested for Grin Powder.\n§8During this period you must take extra care by sneaking.§r\n\nBehaves as weed at grow stat of 8+. \n\nRequires a §e§lBright§r environment §8(light level of 12+)§r.\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3449.desc=§6§lAttributes:§r Purple / Flower / Tulip / Poison%n§a§lDiscoverer:§r raGan%n%n§d§lDrops:§r Purple Dye & Grin Powder%n%n§lNotes:§r§r%nOn the early blooming phases it is poisonous to the touch but can be harvested for Grin Powder.%n§8During this period you must take extra care by sneaking.§r%n%nBehaves as weed at grow stat of 8+. %n%nRequires a §e§lBright§r environment §8(light level of 12+)§r.%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3450 - Cyprium
 lostera.quest3450.name=Cyprium
-lostera.quest3450.desc=§6§lAttributes:§r Orange / Leaves / Metal\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Coppon Fiber\n\n§lNotes:§r\nRequires Copper Block underneath its soil to fully mature.\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3450.desc=§6§lAttributes:§r Orange / Leaves / Metal%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Coppon Fiber%n%n§lNotes:§r%nRequires Copper Block underneath its soil to fully mature.%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3451 - Reed
 lostera.quest3451.name=Reed
-lostera.quest3451.desc=§6§lAttributes:§r Reed\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Sugar Cane\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3451.desc=§6§lAttributes:§r Reed%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Sugar Cane%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3452 - Cocoa
 lostera.quest3452.name=Cocoa
-lostera.quest3452.desc=§6§lAttributes:§r Brown / Food / Stem\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Cocoa Beans\n\n§lNotes:§r\nRequires Soil Nutrient of 3+.\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3452.desc=§6§lAttributes:§r Brown / Food / Stem%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Cocoa Beans%n%n§lNotes:§r%nRequires Soil Nutrient of 3+.%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3453 - Stagnium
 lostera.quest3453.name=Stagnium
-lostera.quest3453.desc=§6§lAttributes:§r Shiny / Leaves / Metal\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Tin Dust\n\n§lNotes:§r\nRequires Tin Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3453.desc=§6§lAttributes:§r Shiny / Leaves / Metal%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Tin Dust%n%n§lNotes:§r%nRequires Tin Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3454 - Potato
 lostera.quest3454.name=Potato
-lostera.quest3454.desc=§6§lAttributes:§r Yellow / Food / Potato\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Potato & Poisonous Potato\n\n§lNotes:§r\nMust be harvested early or it will drop Poisonous Potato.\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3454.desc=§6§lAttributes:§r Yellow / Food / Potato%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Potato & Poisonous Potato%n%n§lNotes:§r%nMust be harvested early or it will drop Poisonous Potato.%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3455 - Glowshroom
 lostera.quest3455.name=Glowshroom
-lostera.quest3455.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Glowshroom\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3455.desc=§6§lAttributes:§r Food / Mushroom / Ingredient / Nether%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Glowshroom%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3456 - Strawberry
 lostera.quest3456.name=Strawberry
-lostera.quest3456.desc=§6§lAttributes:§r Berry / Food / Red\n§a§lDiscoverer:§r Ancient cultures\n\n§d§lDrops:§r Strawberry\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3456.desc=§6§lAttributes:§r Berry / Food / Red%n§a§lDiscoverer:§r Ancient cultures%n%n§d§lDrops:§r Strawberry%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3457 - Wheat
 lostera.quest3457.name=Wheat
-lostera.quest3457.desc=§6§lAttributes:§r Yellow / Food / Wheat\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Wheat\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3457.desc=§6§lAttributes:§r Yellow / Food / Wheat%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Wheat%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3458 - Eating Plant
 lostera.quest3458.name=Eating Plant
-lostera.quest3458.desc=§6§lAttributes:§r Bad / Food\n§a§lDiscoverer:§r Hasudako\n\n§d§lDrops:§r Cactus\n\n§lNotes:§r\nRequires lava underneath its soil to fully mature.\nRequires a §e§lBright§r environment §8(light level of 12+)§r.\n\nFeeding it creatures speeds up its growth.\n\nGrows faster in Swamps or Mountains.\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3458.desc=§6§lAttributes:§r Bad / Food%n§a§lDiscoverer:§r Hasudako%n%n§d§lDrops:§r Cactus%n%n§lNotes:§r%nRequires lava underneath its soil to fully mature.%nRequires a §e§lBright§r environment §8(light level of 12+)§r.%n%nFeeding it creatures speeds up its growth.%n%nGrows faster in Swamps or Mountains.%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3459 - Coffee
 lostera.quest3459.name=Coffee
-lostera.quest3459.desc=§6§lAttributes:§r Leaves / Ingredient / Beans\n§a§lDiscoverer:§r Snoochy\n\n§d§lDrops:§r Coffee Beans\n\n§lNotes:§r\nMust be harvested before blooming to yield coffee.\n\n\n§7§lTier:§r 7 §d(Epic)
+lostera.quest3459.desc=§6§lAttributes:§r Leaves / Ingredient / Beans%n§a§lDiscoverer:§r Snoochy%n%n§d§lDrops:§r Coffee Beans%n%n§lNotes:§r%nMust be harvested before blooming to yield coffee.%n%n%n§7§lTier:§r 7 §d(Epic)
 
 # Quest.3460 - Blackberry
 lostera.quest3460.name=Blackberry
-lostera.quest3460.desc=§6§lAttributes:§r Berry / Food / Black\n§a§lDiscoverer:§r Ancient cultures\n\n§d§lDrops:§r Blackberry\n\n\n§7§lTier:§r 2 (Common)
+lostera.quest3460.desc=§6§lAttributes:§r Berry / Food / Black%n§a§lDiscoverer:§r Ancient cultures%n%n§d§lDrops:§r Blackberry%n%n%n§7§lTier:§r 2 (Common)
 
 # Quest.3461 - Carrot
 lostera.quest3461.name=Carrot
-lostera.quest3461.desc=§6§lAttributes:§r Orange / Food / Carrots\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Carrot\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3461.desc=§6§lAttributes:§r Orange / Food / Carrots%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Carrot%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3462 - Saguaro Cactus
 lostera.quest3462.name=Saguaro Cactus
-lostera.quest3462.desc=§6§lAttributes:§r Green / Food / Cactus\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Saguaro Fruit\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3462.desc=§6§lAttributes:§r Green / Food / Cactus%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Saguaro Fruit%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3463 - Glowing Earth Coral
 lostera.quest3463.name=Glowing Earth Coral
-lostera.quest3463.desc=§6§lAttributes:§r Water / Light / Shiny\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Growing Coral\n\n§lNotes:§r\nYields more when glowstone is placed directly below its soil.\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3463.desc=§6§lAttributes:§r Water / Light / Shiny%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Growing Coral%n%n§lNotes:§r%nYields more when glowstone is placed directly below its soil.%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3464 - Duskberry
 lostera.quest3464.name=Duskberry
-lostera.quest3464.desc=§6§lAttributes:§r Berry / Toxic / Bad / Gray / Nether / Addictive\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Duskberry\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3464.desc=§6§lAttributes:§r Berry / Toxic / Bad / Gray / Nether / Addictive%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Duskberry%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3465 - Plumbiscus
 lostera.quest3465.name=Plumbiscus
-lostera.quest3465.desc=§6§lAttributes:§r Dense / Leaves / Metal\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Plumbilia Leaf\n\n§lNotes:§r\nRequires Lead Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3465.desc=§6§lAttributes:§r Dense / Leaves / Metal%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Plumbilia Leaf%n%n§lNotes:§r%nRequires Lead Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3466 - ShimmerLeaf
 lostera.quest3466.name=ShimmerLeaf
-lostera.quest3466.desc=§6§lAttributes:§r Magic / Silver / Toxic\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Shimmerleaf\n\n§lNotes:§r\nRequires Quicksilver Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3466.desc=§6§lAttributes:§r Magic / Silver / Toxic%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Shimmerleaf%n%n§lNotes:§r%nRequires Quicksilver Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3467 - Flowering Vines
 lostera.quest3467.name=Flowering Vines
-lostera.quest3467.desc=§6§lAttributes:§r Green / Tendrilly / Flower\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Flowering Vines\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3467.desc=§6§lAttributes:§r Green / Tendrilly / Flower%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Flowering Vines%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3468 - Brown Mushroom
 lostera.quest3468.name=Brown Mushroom
-lostera.quest3468.desc=§6§lAttributes:§r Brown / Food / Mushroom\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Brown Mushrooms\n\n§lNotes:§r\nRequires constant external hydration from §b§lHydration Cells§r or similar. \n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3468.desc=§6§lAttributes:§r Brown / Food / Mushroom%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Brown Mushrooms%n%n§lNotes:§r%nRequires constant external hydration from §b§lHydration Cells§r or similar. %n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3469 - Red Mushroom
 lostera.quest3469.name=Red Mushroom
-lostera.quest3469.desc=§6§lAttributes:§r Red / Food / Mushroom\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Red Mushrooms\n\n§lNotes:§r\nRequires constant external hydration from §b§lHydration Cells§r or similar. \n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3469.desc=§6§lAttributes:§r Red / Food / Mushroom%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Red Mushrooms%n%n§lNotes:§r%nRequires constant external hydration from §b§lHydration Cells§r or similar. %n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3470 - Ferru
 lostera.quest3470.name=Ferru
-lostera.quest3470.desc=§6§lAttributes:§r Gray / Leaves / Metal\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Ferru Leaf\n\n§lNotes:§r\nRequires Iron Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3470.desc=§6§lAttributes:§r Gray / Leaves / Metal%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Ferru Leaf%n%n§lNotes:§r%nRequires Iron Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3471 - Spanish Moss
 lostera.quest3471.name=Spanish Moss
-lostera.quest3471.desc=§6§lAttributes:§r Green / Climbable / Magic\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Spanish Moss\n\n\n§7§lTier:§r 7 §d(Epic)
+lostera.quest3471.desc=§6§lAttributes:§r Green / Climbable / Magic%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Spanish Moss%n%n%n§7§lTier:§r 7 §d(Epic)
 
 # Quest.3472 - Rose
 lostera.quest3472.name=Rose
-lostera.quest3472.desc=§6§lAttributes:§r Red / Flower\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Red Dye\n\n§lNotes:§r\nRequires a §e§lBright§r environment §8(light level of 12+)§r.\n\n§\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3472.desc=§6§lAttributes:§r Red / Flower%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Red Dye%n%n§lNotes:§r%nRequires a §e§lBright§r environment §8(light level of 12+)§r.%n%n§%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3473 - Vines
 lostera.quest3473.name=Vines
-lostera.quest3473.desc=§6§lAttributes:§r Green / Tendrilly\n§a§lDiscoverer:§r jeb_\n\n§d§lDrops:§r Vines\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3473.desc=§6§lAttributes:§r Green / Tendrilly%n§a§lDiscoverer:§r jeb_%n%n§d§lDrops:§r Vines%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3474 - Hops
 lostera.quest3474.name=Hops
-lostera.quest3474.desc=§6§lAttributes:§r Green / Ingredient / Wheat\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Hops\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3474.desc=§6§lAttributes:§r Green / Ingredient / Wheat%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Hops%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3475 - Glint Weed
 lostera.quest3475.name=Glint Weed
-lostera.quest3475.desc=§6§lAttributes:§r Orange / Flower / Magic\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Glint Weed\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3475.desc=§6§lAttributes:§r Orange / Flower / Magic%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Glint Weed%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3476 - Mandragora
 lostera.quest3476.name=Mandragora
-lostera.quest3476.desc=§6§lAttributes:§r Flower / Magic / Bad / Toxic / Ingredient\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Mandrake Root\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3476.desc=§6§lAttributes:§r Flower / Magic / Bad / Toxic / Ingredient%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Mandrake Root%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3477 - Ivy
 lostera.quest3477.name=Ivy
-lostera.quest3477.desc=§6§lAttributes:§r Green / Tendrilly / Flower / Bad / Poison\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Ivy\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3477.desc=§6§lAttributes:§r Green / Tendrilly / Flower / Bad / Poison%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Ivy%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3478 - Cyazint
 lostera.quest3478.name=Cyazint
-lostera.quest3478.desc=§6§lAttributes:§r Blue / Flower\n§a§lDiscoverer:§r Alblaka\n\n§d§lDrops:§r Cyan Dye\n\n§lNotes:§r\nRequires a §e§lBright§r environment §8(light level of 12+)§r.\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3478.desc=§6§lAttributes:§r Blue / Flower%n§a§lDiscoverer:§r Alblaka%n%n§d§lDrops:§r Cyan Dye%n%n§lNotes:§r%nRequires a §e§lBright§r environment §8(light level of 12+)§r.%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3479 - Blightberry
 lostera.quest3479.name=Blightberry
-lostera.quest3479.desc=§6§lAttributes:§r Berry / Toxic / Bad / Green / Nether / Addictive\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Blightberry\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3479.desc=§6§lAttributes:§r Berry / Toxic / Bad / Green / Nether / Addictive%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Blightberry%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3480 - Huckleberry
 lostera.quest3480.name=Huckleberry
-lostera.quest3480.desc=§6§lAttributes:§r Berry / Food / Purple / Leaves\n§a§lDiscoverer:§r Ancient cultures\n\n§d§lDrops:§r Huckleberry\n\n\n§7§lTier:§r 2 (Common)
+lostera.quest3480.desc=§6§lAttributes:§r Berry / Food / Purple / Leaves%n§a§lDiscoverer:§r Ancient cultures%n%n§d§lDrops:§r Huckleberry%n%n%n§7§lTier:§r 2 (Common)
 
 # Quest.3481 - Cotton
 lostera.quest3481.name=Cotton
-lostera.quest3481.desc=§6§lAttributes:§r  White / Cotton\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Cotton\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3481.desc=§6§lAttributes:§r  White / Cotton%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Cotton%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3482 - Thornvines
 lostera.quest3482.name=Thornvines
-lostera.quest3482.desc=§6§lAttributes:§r Nether / Climbable / Bad\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Thornvines\n\n\n§7§lTier:§r 3 §9(Uncommon)
+lostera.quest3482.desc=§6§lAttributes:§r Nether / Climbable / Bad%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Thornvines%n%n%n§7§lTier:§r 3 §9(Uncommon)
 
 # Quest.3483 - Artichoke
 lostera.quest3483.name=Artichoke
-lostera.quest3483.desc=§6§lAttributes:§r Flower / Water / Blue / Ingredient\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Water Artichoke\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3483.desc=§6§lAttributes:§r Flower / Water / Blue / Ingredient%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Water Artichoke%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3484 - Turnip
 lostera.quest3484.name=Turnip
-lostera.quest3484.desc=§6§lAttributes:§r Food / Purple / Carrots\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Turnip\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3484.desc=§6§lAttributes:§r Food / Purple / Carrots%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Turnip%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3485 - Blueberry
 lostera.quest3485.name=Blueberry
-lostera.quest3485.desc=§6§lAttributes:§r Berry / Food / Blue\n§a§lDiscoverer:§r Ancient cultures	\n\n§d§lDrops:§r Blueberry\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3485.desc=§6§lAttributes:§r Berry / Food / Blue%n§a§lDiscoverer:§r Ancient cultures	%n%n§d§lDrops:§r Blueberry%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3486 - Blackthorn
 lostera.quest3486.name=Blackthorn
-lostera.quest3486.desc=§6§lAttributes:§r Black / Flower / Rose\n§a§lDiscoverer:§r Alblaka\n\n§d§lDrops:§r Ink\n\n§lNotes:§r\nRequires a §e§lBright§r environment §8(light level of 12+)§r.\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3486.desc=§6§lAttributes:§r Black / Flower / Rose%n§a§lDiscoverer:§r Alblaka%n%n§d§lDrops:§r Ink%n%n§lNotes:§r%nRequires a §e§lBright§r environment §8(light level of 12+)§r.%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3487 - Papyrus
 lostera.quest3487.name=Papyrus
-lostera.quest3487.desc=§6§lAttributes:§r White / Paper\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Paper\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3487.desc=§6§lAttributes:§r White / Paper%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Paper%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3488 - Shining
 lostera.quest3488.name=Shining
-lostera.quest3488.desc=§6§lAttributes:§r Silver / Leaves / Metal\n§a§lDiscoverer:§r IC2 Team\n\n§d§lDrops:§r Argentia Leaves (Silver leaves)\n\n§lNotes:§r\nRequires Silver Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 8 §d(Epic)
+lostera.quest3488.desc=§6§lAttributes:§r Silver / Leaves / Metal%n§a§lDiscoverer:§r IC2 Team%n%n§d§lDrops:§r Argentia Leaves (Silver leaves)%n%n§lNotes:§r%nRequires Silver Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 8 §d(Epic)
 
 # Quest.3489 - Wild Carrots
 lostera.quest3489.name=Wild Carrots
-lostera.quest3489.desc=§6§lAttributes:§r Food / White / Carrots\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Wild Carrots\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3489.desc=§6§lAttributes:§r Food / White / Carrots%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Wild Carrots%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3490 - Blazereed
 lostera.quest3490.name=Blazereed
-lostera.quest3490.desc=§6§lAttributes:§r Fire / Blaze / Reed / Sulfur\n§a§lDiscoverer:§r Mr. Brain\n\n§d§lDrops:§r Blaze Powder\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3490.desc=§6§lAttributes:§r Fire / Blaze / Reed / Sulfur%n§a§lDiscoverer:§r Mr. Brain%n%n§d§lDrops:§r Blaze Powder%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3491 - Bobsyeruncleranks
 lostera.quest3491.name=Bobsyeruncleranks
-lostera.quest3491.desc=§6§lAttributes:§r Shiny / Tendrilly / Emerald / Berylium / Crystal\n§a§lDiscoverer:§r GenerikB\n\n§d§lDrops:§r BobsYerUncle Berry\n\n§lNotes:§r\nRequires Emerald Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 11 §b(Mythic)
+lostera.quest3491.desc=§6§lAttributes:§r Shiny / Tendrilly / Emerald / Berylium / Crystal%n§a§lDiscoverer:§r GenerikB%n%n§d§lDrops:§r BobsYerUncle Berry%n%n§lNotes:§r%nRequires Emerald Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 11 §b(Mythic)
 
 # Quest.3492 - Corium
 lostera.quest3492.name=Corium
-lostera.quest3492.desc=§6§lAttributes:§r Cow / Silk / Tendrilly\n§a§lDiscoverer:§r GregoriousT\n\n§d§lDrops:§r Leather\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3492.desc=§6§lAttributes:§r Cow / Silk / Tendrilly%n§a§lDiscoverer:§r GregoriousT%n%n§d§lDrops:§r Leather%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3493 - Corpseplant
 lostera.quest3493.name=Corpseplant
-lostera.quest3493.desc=§6§lAttributes:§r Toxic / Undead / Tendrilly / Food / Rotten\n§a§lDiscoverer:§r Mr. Kenny\n\n§d§lDrops:§r Rotten Flesh, Bone Meal & Bone\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3493.desc=§6§lAttributes:§r Toxic / Undead / Tendrilly / Food / Rotten%n§a§lDiscoverer:§r Mr. Kenny%n%n§d§lDrops:§r Rotten Flesh, Bone Meal & Bone%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3494 - Diareed
 lostera.quest3494.name=Diareed
-lostera.quest3494.desc=§6§lAttributes:§r Fire / Shiny / Reed / Coal / Diamond / Crystal\n§a§lDiscoverer:§r Direwolf20\n\n§d§lDrops:§r Diamond Dust\n\n§lNotes:§r\nRequires Diamond Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 12 §3(Ultimate)
+lostera.quest3494.desc=§6§lAttributes:§r Fire / Shiny / Reed / Coal / Diamond / Crystal%n§a§lDiscoverer:§r Direwolf20%n%n§d§lDrops:§r Diamond Dust%n%n§lNotes:§r%nRequires Diamond Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 12 §3(Ultimate)
 
 # Quest.3495 - Meatrose
 lostera.quest3495.name=Meatrose
-lostera.quest3495.desc=§6§lAttributes:§r Food / Flower / Cow / Fish / Chicken / Pig\n§a§lDiscoverer:§r VintageBeef\n\n§d§lDrops:§r Meat & Pink Dye\n\n\n§7§lTier:§r 7 §b(Rare)
+lostera.quest3495.desc=§6§lAttributes:§r Food / Flower / Cow / Fish / Chicken / Pig%n§a§lDiscoverer:§r VintageBeef%n%n§d§lDrops:§r Meat & Pink Dye%n%n%n§7§lTier:§r 7 §b(Rare)
 
 # Quest.3496 - Milkwart
 lostera.quest3496.name=Milkwart
-lostera.quest3496.desc=§6§lAttributes:§r Food / Milk / Cow\n§a§lDiscoverer:§r Mr. Brain\n\n§d§lDrops:§r Milk Wart\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3496.desc=§6§lAttributes:§r Food / Milk / Cow%n§a§lDiscoverer:§r Mr. Brain%n%n§d§lDrops:§r Milk Wart%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3497 - Indigo
 lostera.quest3497.name=Indigo
-lostera.quest3497.desc=§6§lAttributes:§r Flower / Blue / Ingredient\n§a§lDiscoverer:§r Eloraam\n\n§d§lDrops:§r Indigo Blossom\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3497.desc=§6§lAttributes:§r Flower / Blue / Ingredient%n§a§lDiscoverer:§r Eloraam%n%n§d§lDrops:§r Indigo Blossom%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3498 - Flax
 lostera.quest3498.name=Flax
-lostera.quest3498.desc=§6§lAttributes:§r Silk / Tendrilly / Addictive\n§a§lDiscoverer:§r Eloraam\n\n§d§lDrops:§r String\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3498.desc=§6§lAttributes:§r Silk / Tendrilly / Addictive%n§a§lDiscoverer:§r Eloraam%n%n§d§lDrops:§r String%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3499 - Withereed
 lostera.quest3499.name=Withereed
-lostera.quest3499.desc=§6§lAttributes:§r Fire / Undead / Reed / Coal / Rotten / Wither\n§a§lDiscoverer:§r CovertJaguar\n\n§d§lDrops:§r Coal Dust\n\n§lNotes:§r\nRequires Coal Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 8 §5(Legendary)
+lostera.quest3499.desc=§6§lAttributes:§r Fire / Undead / Reed / Coal / Rotten / Wither%n§a§lDiscoverer:§r CovertJaguar%n%n§d§lDrops:§r Coal Dust%n%n§lNotes:§r%nRequires Coal Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 8 §5(Legendary)
 
 # Quest.3500 - Tine
 lostera.quest3500.name=Tine
-lostera.quest3500.desc=§6§lAttributes:§r Shiny / Metal / Pine / Tin / Bush\n§a§lDiscoverer:§r GregoriusT\n\n§d§lDrops:§r Tine Twig\n\n§lNotes:§r\nRequires Tin Block underneath its soil to fully mature.\n\n\n§7§lTier:§r 5 §b(Rare)
+lostera.quest3500.desc=§6§lAttributes:§r Shiny / Metal / Pine / Tin / Bush%n§a§lDiscoverer:§r GregoriusT%n%n§d§lDrops:§r Tine Twig%n%n§lNotes:§r%nRequires Tin Block underneath its soil to fully mature.%n%n%n§7§lTier:§r 5 §b(Rare)
 
 # Quest.3501 - Tearstalks
 lostera.quest3501.name=Tearstalks
-lostera.quest3501.desc=§6§lAttributes:§r Healing / Nether / Ingredient / Reed / Ghast\n§a§lDiscoverer:§r Neowulf\n\n§d§lDrops:§r Ghast Tear\n\n\n§7§lTier:§r 8 §d(Epic)
+lostera.quest3501.desc=§6§lAttributes:§r Healing / Nether / Ingredient / Reed / Ghast%n§a§lDiscoverer:§r Neowulf%n%n§d§lDrops:§r Ghast Tear%n%n%n§7§lTier:§r 8 §d(Epic)
 
 # Quest.3502 - Spidernip
 lostera.quest3502.name=Spidernip
-lostera.quest3502.desc=§6§lAttributes:§r Toxic / Silk / Spider / Flower / Ingredient / Addictive\n§a§lDiscoverer:§r Mr. Kenny\n\n§d§lDrops:§r Spider Eye & String\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3502.desc=§6§lAttributes:§r Toxic / Silk / Spider / Flower / Ingredient / Addictive%n§a§lDiscoverer:§r Mr. Kenny%n%n§d§lDrops:§r Spider Eye & String%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3503 - Slimeplant
 lostera.quest3503.name=Slimeplant
-lostera.quest3503.desc=§6§lAttributes:§r Slime / Bouncy / Sticky / Bush\n§a§lDiscoverer:§r Neowulf\n\n§d§lDrops:§r Slime\n\n\n§7§lTier:§r 6 §b(Rare)
+lostera.quest3503.desc=§6§lAttributes:§r Slime / Bouncy / Sticky / Bush%n§a§lDiscoverer:§r Neowulf%n%n§d§lDrops:§r Slime%n%n%n§7§lTier:§r 6 §b(Rare)
 
 # Quest.3504 - Oilberries
 lostera.quest3504.name=Oilberries
-lostera.quest3504.desc=§6§lAttributes:§r Fire / Dark / Reed / Rotten / Coal / Oil\n§a§lDiscoverer:§r Spacetoad\n\n§d§lDrops:§r Oil Berry\n\n\n§7§lTier:§r 9 §5(Legendary)
+lostera.quest3504.desc=§6§lAttributes:§r Fire / Dark / Reed / Rotten / Coal / Oil%n§a§lDiscoverer:§r Spacetoad%n%n§d§lDrops:§r Oil Berry%n%n%n§7§lTier:§r 9 §5(Legendary)
 
 # Quest.3505 - Bamboo
 lostera.quest3505.name=Bamboo
-lostera.quest3505.desc=§6§lAttributes:§r Green / Pointed / Edgy\n§a§lDiscoverer:§r Minepolz320\n\n§d§lDrops:§r Bamboo\n\n§lNotes:§r\nGrows faster in rain.\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3505.desc=§6§lAttributes:§r Green / Pointed / Edgy%n§a§lDiscoverer:§r Minepolz320%n%n§d§lDrops:§r Bamboo%n%n§lNotes:§r%nGrows faster in rain.%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3506 - Torchberry
 lostera.quest3506.name=Torchberry
-lostera.quest3506.desc=§6§lAttributes:§r Berry / Glow / Shimmer\n§a§lDiscoverer:§r Minepolz320\n\n§d§lDrops:§r Torchberry\n\n§lNotes:§r\nRequires a §7§lDark§r environment §8(light level between 5 and 9)§r.\n\n\n§7§lTier:§r 2 §7(Common)
+lostera.quest3506.desc=§6§lAttributes:§r Berry / Glow / Shimmer%n§a§lDiscoverer:§r Minepolz320%n%n§d§lDrops:§r Torchberry%n%n§lNotes:§r%nRequires a §7§lDark§r environment §8(light level between 5 and 9)§r.%n%n%n§7§lTier:§r 2 §7(Common)
 
 # Quest.3507 - Oak Bonsai
 lostera.quest3507.name=Oak Bonsai
-lostera.quest3507.desc=§6§lAttributes:§r Tree / Bonsai / Leavy\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Wood & Sapling\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3507.desc=§6§lAttributes:§r Tree / Bonsai / Leavy%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Wood & Sapling%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3508 - Spruce Bonsai
 lostera.quest3508.name=Spruce Bonsai
-lostera.quest3508.desc=§6§lAttributes:§r Tree / Bonsai / Leavy\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Wood & Sapling\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3508.desc=§6§lAttributes:§r Tree / Bonsai / Leavy%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Wood & Sapling%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3509 - Birch Bonsai
 lostera.quest3509.name=Birch Bonsai
-lostera.quest3509.desc=§6§lAttributes:§r Tree / Bonsai / Leavy\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Wood & Sapling\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3509.desc=§6§lAttributes:§r Tree / Bonsai / Leavy%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Wood & Sapling%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3510 - Jungle Bonsai
 lostera.quest3510.name=Jungle Bonsai
-lostera.quest3510.desc=§6§lAttributes:§r Tree / Bonsai / Leavy\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Wood & Sapling\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3510.desc=§6§lAttributes:§r Tree / Bonsai / Leavy%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Wood & Sapling%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3511 - Acacia Bonsai
 lostera.quest3511.name=Acacia Bonsai
-lostera.quest3511.desc=§6§lAttributes:§r Tree / Bonsai / Leavy\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Wood & Sapling\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3511.desc=§6§lAttributes:§r Tree / Bonsai / Leavy%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Wood & Sapling%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3512 - Dark Oak Bonsai
 lostera.quest3512.name=Dark Oak Bonsai
-lostera.quest3512.desc=§6§lAttributes:§r Tree / Bonsai / Leavy\n§a§lDiscoverer:§r Notch\n\n§d§lDrops:§r Wood & Sapling\n\n\n§7§lTier:§r 1 §7(Common)
+lostera.quest3512.desc=§6§lAttributes:§r Tree / Bonsai / Leavy%n§a§lDiscoverer:§r Notch%n%n§d§lDrops:§r Wood & Sapling%n%n%n§7§lTier:§r 1 §7(Common)
 
 # Quest.3513 - Creeperweed
 lostera.quest3513.name=Creeperweed
-lostera.quest3513.desc=§6§lAttributes:§r Creeper / Tendrilly / Explosive / Fire / Sulfur /  Saltpeter / Coal\n§a§lDiscoverer:§r General Spaz\n\n§d§lDrops:§r Gunpowder\n\n\n§7§lTier:§r 7 §d(Epic)
+lostera.quest3513.desc=§6§lAttributes:§r Creeper / Tendrilly / Explosive / Fire / Sulfur /  Saltpeter / Coal%n§a§lDiscoverer:§r General Spaz%n%n§d§lDrops:§r Gunpowder%n%n%n§7§lTier:§r 7 §d(Epic)
 
 # Quest.3514 - Enderbloom
 lostera.quest3514.name=Enderbloom
-lostera.quest3514.desc=§6§lAttributes:§r Ender / Flower / Shiny\n§a§lDiscoverer:§r RichardG\n\n§d§lDrops:§r Ender Pearl & Ender Eye\n\n\n§7§lTier:§r 10 §b(Mythic)
+lostera.quest3514.desc=§6§lAttributes:§r Ender / Flower / Shiny%n§a§lDiscoverer:§r RichardG%n%n§d§lDrops:§r Ender Pearl & Ender Eye%n%n%n§7§lTier:§r 10 §b(Mythic)
 
 # Quest.3515 - Eggplant
 lostera.quest3515.name=Eggplant
-lostera.quest3515.desc=§6§lAttributes:§r Chicken / Egg / Food / Feather / Flower / Addictive\n§a§lDiscoverer:§r Link\n\n§d§lDrops:§r Egg, Raw Chicken & Feather\n\n\n§7§lTier:§r 6 §9(Uncommon)
+lostera.quest3515.desc=§6§lAttributes:§r Chicken / Egg / Food / Feather / Flower / Addictive%n§a§lDiscoverer:§r Link%n%n§d§lDrops:§r Egg, Raw Chicken & Feather%n%n%n§7§lTier:§r 6 §9(Uncommon)
 
 # Quest.3516 - Goldfish
 lostera.quest3516.name=Goldfish
-lostera.quest3516.desc=§6§lAttributes:§r Nether / Fish / Food / Bad / Water\n§a§lDiscoverer:§r bartimaeusnek\n\n§d§lDrops:§r Goldfish\n\n\n§7§lTier:§r 4 §9(Uncommon)
+lostera.quest3516.desc=§6§lAttributes:§r Nether / Fish / Food / Bad / Water%n§a§lDiscoverer:§r bartimaeusnek%n%n§d§lDrops:§r Goldfish%n%n%n§7§lTier:§r 4 §9(Uncommon)
 
 # Quest.3517 - Artificial Boost
 lostera.quest3517.name=Artificial Boost
-lostera.quest3517.desc=These are products that temporarily enhance a crop's environmental stats when applied. \n\nThese enhancements gradually deplete as the crop matures.\n\n§5Fertilizer:§r\nUsed to increase a crop's Nutritional value up to 10 points.\nEach application provides 100 fertilizer units, with a maximum limit of 200.\n\nThe crop's Nutritional value increases by §a+1§r for every 20 units of fertilizer.\n\n§8The bonus starts at +1 as long as there is at least 1 unit of fertilizer.\n\n§bHydration Cell:§r\nApplied to boost a crop's Humidity value up to 10 points.\nEach application adds 100 hydration units, with a maximum limit of 200.\n\nOnce you have a minimum of 5 hydration units, you'll receive an extra bonus of §a+2§r hydration.\n\nAdditionally, for every 25 units of hydration, the crop's Humidity value increases by §a+1§r.\n\n§8This bonus starts at +1 as long as there is at least 1 units of hydration.
+lostera.quest3517.desc=These are products that temporarily enhance a crop's environmental stats when applied. %n%nThese enhancements gradually deplete as the crop matures.%n%n§5Fertilizer:§r%nUsed to increase a crop's Nutritional value up to 10 points.%nEach application provides 100 fertilizer units, with a maximum limit of 200.%n%nThe crop's Nutritional value increases by §a+1§r for every 20 units of fertilizer.%n%n§8The bonus starts at +1 as long as there is at least 1 unit of fertilizer.%n%n§bHydration Cell:§r%nApplied to boost a crop's Humidity value up to 10 points.%nEach application adds 100 hydration units, with a maximum limit of 200.%n%nOnce you have a minimum of 5 hydration units, you'll receive an extra bonus of §a+2§r hydration.%n%nAdditionally, for every 25 units of hydration, the crop's Humidity value increases by §a+1§r.%n%n§8This bonus starts at +1 as long as there is at least 1 units of hydration.
 
 ##################################Line##################################
 
