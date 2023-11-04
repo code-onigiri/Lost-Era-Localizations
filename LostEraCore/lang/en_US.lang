@@ -4791,7 +4791,7 @@ lostera.quest1187.name=Turning Table
 lostera.quest1187.desc=The Turning Table is used to modify the §7Iron Turning Blank§r and the §8§a§eWooden Turning Blank§r.%n%nThe Turning Table requires a §dLathing Tool§r for each use, along with §c1,000 kU§r.%n%nThe Iron Turning Blanks and Wooden Turning Blanks are divided into five section. Clicking a section will carve off one unit of thickness and consume some of the durability of the Lathing Tool along the kU.%n%n§o§8§oIf a section of the Turning Blank goes under the desired thickness, it cannot be repaired, and must be used for a different pattern or thrown away.
 
 # Quest.1188 - Horticulture Beginnings
-lostera.quest1188.name= Horticulture Beginnings
+lostera.quest1188.name=Horticulture Beginnings
 lostera.quest1188.desc=The first step in a career of agricultural engineering is stuffing a few sticks in the ground.%n%nPutting crop sticks in farmland will allow you to plant pretty much any vanilla crop on them with a bonus of aiding their growth with the extra support.%n%nTechnically, the farmland doesn't have to be wet but plants planted in this manner will have terrible stats §o§8§o(more on those later)§r.%n%n%n%nOnce they're full grown, or one stage before it in certain cases, they can be right clicked to provide their yields. %n%nAlternately, they can be left clicked to break both the crop and crop sticks, having a chance of producing seed bags if at its last or penultimate growth state.
 
 # Quest.1189 - Cropnalyzer
@@ -10981,7 +10981,7 @@ lostera.quest2735.name=Low Pressure Boiler Tank
 lostera.quest2735.desc=The Low Pressure Boiler Tank will produce steam as efficiently as possible, consuming as little resources. %n%nThese can be recommended for non-24/7 steam boilers, as they do not take long to warm up.%n%nEach cubic meter of Low Pressure Boiler Tanks will produce 10 Steam/tick when completely warmed up.%n%n§7§oBoiler Tanks automatically output steam to any liquid pipes in contact to it due to steam pressure.
 
 # Quest.2736 - Liquid fuelled Firebox
-lostera.quest2736.name= Liquid fuelled Firebox
+lostera.quest2736.name=Liquid fuelled Firebox
 lostera.quest2736.desc=The Liquid fuelled Firebox will allow a boiler to be run off of liquid fuels, such as Fuel. %n%n%n§l§r§n§6The size of the boilers will affect the size of the Firebox:§r%n%n-A 1×1 Firebox can only handle a single cubic meter tank. %n-The 2×2 can handle 8 or 12 cubic meters of Boiler Tank. %n-The massive 3×3 can handle 18, 27, or 36 cubic meters of Boiler Tank.
 
 # Quest.2737 - High Pressure Boiler Tank
@@ -13636,9 +13636,9 @@ lostera.quest3398.desc=The Omega Chamber is an important infrastructure to activ
 lostera.quest3399.name=Using the Questbook
 lostera.quest3399.desc=The Questbook is a trusty guide to everything this world has to offer and more.%n%nAs you progress, more and more chapters will dynamically unlock based on the gameplay choices and will even reward you for achieving major milestones.%n%nThere is no single progression path to follow or restrictions to how many questlines you can follow.%n%n§6Make your path unique, mix and match questlines to your preferences and forge your own signature style!   §r %n%n%nShould you lose the book you can always make another one to catch right back where you started or access it remotely with the " §6`§r " hotkey.
 
-# Quest.3400 - 
-lostera.quest3400.name=
-lostera.quest3400.desc=
+# Quest.3400 - Air Quality
+lostera.quest3400.name=Air Quality
+lostera.quest3400.desc=Air Quality is an environmental attribute that measures the crop's ability to access and benefit from the quality of the surrounding air. %n%nThis attribute is influenced by 3 factors:%n%n§bSky View:§r%nAn unobstructed view of the sky increases air quality by §a+2 points§r.%n%n§9Altitude:§r%nThe altitude at which a crop is planted relative to sea level (Y-64) will also increase air quality.%n%nFor every 15 blocks above this point, the crop's air quality improves by §a+1 point§r (up to a maximum of +4 points at 124 and above). %n%n§dPersonal Space:§r%nObstructions surrounding the crop§r will affect the crop's access to fresh air quality.%n%nFor every §eunobstructed space§r or empty spot around the crop§r, its air quality improves by §a+1/2 point§r (up to 4 points).%n%n§e▉▉▉%n▉§e§8▉§e▉%n▉▉▉%n
 
 # Quest.3401 - Inscriber Logical Press
 lostera.quest3401.name=Inscriber Logical Press
