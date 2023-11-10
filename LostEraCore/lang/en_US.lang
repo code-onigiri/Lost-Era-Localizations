@@ -12040,8 +12040,8 @@ lostera.quest2999.desc=§rThe Manual Peat Bog will harvests Mature Bog Earth and
 lostera.quest3000.name=Crop Farm
 lostera.quest3000.desc=§rThe Manual Crop Farm harvests the grains, fruits, spices and other similar produce from mature crops.%n%nAs it is manual, you will have to set the soil yourself instead of it being automatic. %nAnytime one of the crops you planted matures, the Multifarm will harvest it and replant it with a seed of that same crop.%n%n§r§l§bWater (per operation) = §r20 mB%n§r§l§9Fertilizer (per operation) = §r10 mU%n§r§7§o%n1 Bucket= 1000mB%n1 Unit = 1000mU
 
-# Quest.3001 - Crop Farm
-lostera.quest3001.name=Crop Farm
+# Quest.3001 - Vegetable Farm
+lostera.quest3001.name=Vegetable Farm
 lostera.quest3001.desc=The Manual Vegetable Farm harvests vegetable, tubers, legumes and other similar produce from mature crops.%n%nAs it is manual, you will have to set the soil yourself instead of it being automatic.%nAnytime one of the crops you planted matures, the Multifarm will harvest it and replant it with a seed of that same crop.%n%n§r§l§bWater (per operation) = §r20 mB%n§r§l§9Fertilizer (per operation) = §r10 mU%n§r§7§o%n1 Bucket= 1000mB%n1 Unit = 1000mU
 
 # Quest.3002 - Infernal Farm
