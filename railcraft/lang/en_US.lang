@@ -4,3 +4,7 @@ Lapotron Loader Upgrade.name=Lapotron Loader Upgrade
 tile.railcraft.default.name=Rail
 railcraft:workshop=Rail Workshop
 
+#Replaced Localizations
+railcraft.gui.blast.furnace=Blast Furnace
+tile.railcraft.machine.alpha.blast.furnace.name=Blast Furnace
+
