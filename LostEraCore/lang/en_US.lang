@@ -14108,6 +14108,10 @@ lostera.quest3516.desc=§6§lAttributes:§r Nether / Fish / Food / Bad / Water%n
 lostera.quest3517.name=Artificial Boost
 lostera.quest3517.desc=These are products that temporarily enhance a crop's environmental stats when applied. %n%nThese enhancements gradually deplete as the crop matures.%n%n§5Fertilizer:§r%nUsed to increase a crop's Nutritional value up to 10 points.%nEach application provides 100 fertilizer units, with a maximum limit of 200.%n%nThe crop's Nutritional value increases by §a+1§r for every 20 units of fertilizer.%n%n§8The bonus starts at +1 as long as there is at least 1 unit of fertilizer.%n%n§bHydration Cell:§r%nApplied to boost a crop's Humidity value up to 10 points.%nEach application adds 100 hydration units, with a maximum limit of 200.%n%nOnce you have a minimum of 5 hydration units, you'll receive an extra bonus of §a+2§r hydration.%n%nAdditionally, for every 25 units of hydration, the crop's Humidity value increases by §a+1§r.%n%n§8This bonus starts at +1 as long as there is at least 1 units of hydration.
 
+# Quest.3517 - Kitchen Floor
+lostera.quest3517.name=Kitchen Floor
+lostera.quest3517.desc=Kitchen Floors is block which allows the §6Cooking Table§r to connect to other devices that are not directly adjacent as long as they share the same floor.
+
 ##################################Line##################################
 
 # QuestLine.0 - Into the Wilderness
