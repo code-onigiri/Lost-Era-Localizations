@@ -1,0 +1,10 @@
+﻿#Missing Localizations
+
+Lapotron Loader Upgrade.name=ラポトロンローダーアップグレード
+tile.railcraft.default.name=レール
+railcraft:workshop=レール工房
+
+#Replaced Localizations
+railcraft.gui.blast.furnace=溶鉱炉
+tile.railcraft.machine.alpha.blast.furnace.name=溶鉱炉
+

@@ -1,0 +1,36 @@
+
+item.projectred.core.part.red_iron_comp.name=赤色合金コンパウンド
+
+#LE Thaumcraft Integration
+
+tc.research_name.PIPES=ヘクステックトランスポート
+tc.research_text.PIPES=マジックはいつも方法を見つける！
+tc.research_name.CHIP=水晶回路
+tc.research_text.CHIP=ゴーレムより賢い！
+tc.research_name.PIPESADV=ロジックの拡張
+tc.research_text.PIPESADV=高度なネットワーク制御
+tc.research_name.LATENTPIPES=ネットワーク制御
+tc.research_text.LATENTPIPES=ついていけない？
+
+item.projectred.core.part.null_chip.name=水晶インタープリター
+item.projectred.transportation.routingchip|0.name=アイテムレスポンダー水晶
+item.projectred.transportation.routingchip|1.name=ダイナミックアイテムレスポンダー水晶
+item.projectred.transportation.routingchip|2.name=アイテム オーバーフロー レスポンダ 水晶
+item.projectred.transportation.routingchip|3.name=アイテム ターミネーター水晶
+item.projectred.transportation.routingchip|4.name=アイテム 抽出 水晶
+item.projectred.transportation.routingchip|5.name=アイテム ブロードキャスター 水晶
+item.projectred.transportation.routingchip|6.name=アイテム ストックキーパー 水晶
+item.projectred.transportation.routingchip|7.name=アイテム加工水晶
+item.projectred.transportation.routingchip|8.name=アイテム クラフティング エクステンション 水晶
+
+
+lostera.research_page.PIPES0=ゴーレムは荷物を管理することができるが、あまり明るくないため、時には思わぬ事故につながることもある。<BR>そこで、あなたは荷物を管理するための魔法のパイプを開発したのだ！<BR>ゴーレマンシーと同様に、これらのパイプは水晶チップで設定し、何をすべきかを指示する必要がある。
+lostera.research_page.PIPES1=あなたが開発した 3 つの基本的なパイプがあります:<BR>§l配線されたインターフェイス パイプ:§r チェストに隣接して配置され、パイプ ネットワークが上記のインベントリと接続できるようにします。<BR>§l配線されたジャンクション パイプ:§r 交差点に配置され、管理します。 アイテムのトラフィックとそのパス。<BR>§lItem Transport Pipe:§r パイプを相互に接続し、アイテムを相互に転送できるようにします。
+
+lostera.research_page.CHIP1=クリスタル チップを使用すると、魔術師が魔法のパイプにアイテム操作の権限を与えることができます!<BR> 触媒として使用される側面によって、それがアイテムにどのような影響を与えることができるかが決まります。<BR>それらはすべて右クリックで設定できます。<BR>§lアイテム抽出チップ:§ r 接続されたインベントリからアイテムを抽出できるようにします。<BR>§lアイテム レスポンダー チップ:§r ネットワークが接続されたインベントリを有効な宛先として認識できるようにします。
+lostera.research_page.CHIP2=§lItem ダイナミック レスポンダー チップ:§r フィルターがインベントリ内のアイテムに設定される点を除き、レスポンダー チップと同じです。<BR>§lItem Stock Keeper チップ:§r 接続されたインベントリ内に設定された量のアイテムが常に確保されるようにします。< BR>§lItem オーバーフロー チップ:§r 他の有効な宛先が満杯 (オーバーフロー) の場合にのみアイテムを受け入れます。<BR>§lItem Terminator Chip:§r 検出されたすべてのインベントリが満杯になると、それらのインベントリにアイテムを要求します (通常は削除します)。 <BR>§lItem Broadcast Chip:§r 接続されているインベントリの現在のコンテンツをルーティングされたリクエスト パイプにブロードキャストします。
+lostera.research_page.CHIP3=§lItem Crafting Chip:§r同じ拡張子を持つレシピ入力を要求してルーティングし、接続されたインベントリからアイテムの出力を取り出す。§lItem Crafting Extender Chip:§r Crafting Chipから要求されたレシピ入力を(同じ拡張子を持つ)接続されたインベントリに受け取る。
+
+lostera.research_page.PIPESADV=これらのパイプには、より複雑なニーズに対応するための感覚とロジックが組み込まれています。<BR>§lアイテム・ルーティング・リクエスト・パイプ:§rブロードキャスター・チップを装備したインベントリの内容を表示し、エクストラクター・チップも装備していれば、リクエストに応じてそれらのアイテムを引き渡す。<BR>§lアイテムファイアウォールパイプ:§r 抽出、入力、クラフト操作からネットワークを選択的に分離できるようにする。
+
+lostera.research_page.LATENTPIPES=これらは、ネットワークのランダム性をさらに制御する特別なパイプです。<BR>§lネットワーク バルブ パイプ:§r これは、アリから特定の方向へのアイテムのみを許可するように構成できる一方向パイプです。<BR>§lネットワーク レイテンシ パイプ:§r 各ネットワーク パイプにより、反対側の他のすべてのパイプが数千ブロック離れているように見えます。<BR>同じ優先順位と同じ距離を持つパイプが同時に応答し、システム全体にランダム性が追加されるため、便利です。

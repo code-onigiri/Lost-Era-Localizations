@@ -1,0 +1,10 @@
+#Missing Localizations
+
+nodetype.null.name=ヌルノード
+tile.blockManaPod.name=マナビーンポッド
+
+#Custom Localizations
+tc.research_name.ANCIENT_STONE=古代の石
+tc.research_text.ANCIENT_STONE=[KR]彼方からの建築ブロック
+krypt.research_page.ANCIENT_STONE=アウター ランドへの旅行により、魔術の分野だけでなく、インテリア デザインの知識も深まりました。迷宮の壁に沿って並んでいる古代の石は、それはそれで美しいので、拠点にはもう少し石が必要です。<BR>Arcane Stone に少しの void マジックを注入することで、異世界のブロックを複製することができ、ブロックを使って建物を建てたい場合に壁を剥がす必要がなくなりました。
+

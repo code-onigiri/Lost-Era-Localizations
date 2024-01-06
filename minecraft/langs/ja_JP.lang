@@ -1,0 +1,12 @@
+#Missing Localizations
+
+tile.chestTrap.name=チェスト
+entity.MinecartRideable.name=マインカート
+entity.MinecartChest.name=チェストカート
+entity.MinecartHopper.name=ホッパーカート
+entity.ItemFrame.name=アイテムフレーム
+block.leaves.name=葉
+block..NLeaves.name=木の葉
+block.Leaves..name=木の葉
+block.saplings.name=木の苗木
+netherFortress=ネザー要塞

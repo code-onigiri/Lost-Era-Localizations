@@ -1,0 +1,7 @@
+#Missing Localizations
+
+tile.extrautils:pureLove.name=純愛
+tile.dirt.name=圧縮土
+tile.sand.name=圧縮砂
+
+item.extrautils:defoliageAxe.documentation=モブを攻撃した場合、プレイヤーからいくらか体力を奪い、その体力を使って対象を回復し、若干のボーナスがつく。敵対モブに使用した場合、あなたは依然としてダメージを受けるが、対象はその4倍のダメージを負う。

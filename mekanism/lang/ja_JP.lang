@@ -1,0 +1,18 @@
+#LE Localization Changes
+
+#Osmium to Platinum conversion
+tile.BasicBlock.OsmiumBlock.name=白金ブロック
+tile.MachineBlock.OsmiumCompressor.name=白金圧縮機
+tile.OreBlock.OsmiumOre.name=白金鉱石
+item.osmiumDust.name=白金の粉
+item.osmiumClump.name=白金の塊
+item.osmiumShard.name=白金の欠片
+item.osmiumCrystal.name=白金結晶
+item.dirtyOsmiumDust.name=汚れた白金の粉
+item.osmiumIngot.name=白金インゴット
+gas.liquidOsmium=液体白金
+gas.osmium=白金スラリー
+gas.cleanOsmium=清潔な白金スラリー
+oregas.osmium=白金鉱石
+tooltip.OsmiumCompressor=白金をさまざまな粉に圧縮してインゴットにするための、かなり高度な機械。
+item.HDPEPellet.name=ポリエチレン

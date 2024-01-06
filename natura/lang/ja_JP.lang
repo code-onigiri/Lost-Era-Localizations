@@ -1,0 +1,7 @@
+#LE Localization Changes
+
+#Natura Barley -> Wild Grain
+item.barleyBag.name=野生の穀物の種袋
+item.barley.seed.name=野生の穀物の種
+item.barley.plant.name=野生の穀物
+item.barley.flour.name=野生の穀物粉

@@ -1,0 +1,12 @@
+#Missing Localizations
+
+tile.chisel.bloodBrick.name=ブラッドレンガ
+item.upgrade_speed,name.desc=オートチゼルの動作速度を上げる
+item.upgrade_automation,name.desc=オートチゼルから物を出し入れできるようにする
+item.upgrade_stack,name.desc=オートチゼルで一度にスタックで加工できるようにする
+item.upgrade_reversion,name.desc=オートチゼルのベーススロットを元の形に戻す
+module.chisel.name=チゼルモジュール
+module.chisel.name=チゼルモジュール
+Automation Upgrade.name=オートメーションアップグレード
+Stack Upgrade.name=スタックアップグレード
+Reversion Upgrade.name=リバースアップグレード
